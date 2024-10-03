@@ -48,33 +48,42 @@ fi
 # Combine URLs from both sources and remove duplicates
 FULL_URLS=$(echo -e "$FULL_URLS_FILE\n$FULL_URLS_ADGUARD" | sort -u)
 
+# Ensure FULL_URLS contains only valid HTTPS URLs
+FULL_URLS=$(echo "$FULL_URLS" | grep -E '^https://')
+
+# Extract only domains from the URLs and remove duplicates
+DOMAINS=$(echo "$FULL_URLS" | awk -F/ '{print $3}' | grep -E '^[a-zA-Z0-9.-]+$' | sort -u)
+
 # Check if any URLs were extracted
 if [ -z "$FULL_URLS" ]; then
 	echo "Error: No URLs could be extracted from either source. Exiting without creating lists."
 	exit 1
 fi
 
-# Extract only domains from the URLs and remove duplicates
-DOMAINS=$(echo "$FULL_URLS" | awk -F/ '{print $3}' | sort -u)
-
 # Generate the doh-list.txt file with the header and full URLs
 {
-	echo "! Title: DoH DNS Block Filter With Full URLs"
+	echo "! Title: DoH DNS Block Filter"
 	echo "! Description: Filter to block the publicly available DoH servers."
 	echo "! Homepage: https://github.com/stonerl/doh-list"
 	echo "! License: https://github.com/stonerl/doh-list/blob/master/LICENSE"
 	echo "! Forked from: https://github.com/MohamedElashri/doh-list"
 	echo "! Last modified: $CURRENT_DATE"
+	echo "#"
+	echo "# Full URLs of DoH services:"
+	echo "#"
 	echo "$FULL_URLS"
 } >doh-list.txt
 
 # Generate the doh-servers.list file with the header and only the domains
 {
-	echo "! Title: DoH DNS Block Filter With Domains"
+	echo "! Title: DoH DNS Block Filter"
 	echo "! Description: Filter to block the publicly available DoH servers."
 	echo "! Homepage: https://github.com/stonerl/doh-list"
 	echo "! License: https://github.com/stonerl/doh-list/blob/master/LICENSE"
 	echo "! Forked from: https://github.com/MohamedElashri/doh-list"
 	echo "! Last modified: $CURRENT_DATE"
+	echo "#"
+	echo "# Domains of DoH services:"
+	echo "#"
 	echo "$DOMAINS"
 } >doh-servers.list
