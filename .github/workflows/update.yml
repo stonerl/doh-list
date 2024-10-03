@@ -1,7 +1,7 @@
 name: update the list
 on:
   schedule:
-  - cron: '0 12 1 * *'
+  - cron: '0 0 * * 6'
   workflow_dispatch:
 
 jobs:
