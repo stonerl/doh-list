@@ -33,6 +33,6 @@ jobs:
         ./doh-update.sh                # Run the script
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add doh-list.txt
-        git commit -m "Updated doh-list.txt" || echo "No changes to commit"
+        git add doh-list.txt doh-servers.list
+        git commit -m "Updated doh-list.txt and doh-servers.list" || echo "No changes to commit"
         git push
