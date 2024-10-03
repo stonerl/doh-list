@@ -16,12 +16,17 @@ To use this block list, you can subscribe to it in various applications that sup
 
 2. **Add the Block List URL**: Use the following URL to subscribe to the block list:
 
+#### List with full URLs
 ```
-https://raw.githubusercontent.com/MohamedElashri/doh-list/main/doh-list.txt
+https://raw.githubusercontent.com/stonerl/doh-list/main/doh-list.txt
 ```
 
+#### List with domains only (e.g. for Pi-hole)
+```
+https://raw.githubusercontent.com/stonerl/doh-list/main/doh-servers.list
+```
 
-This URL points to the raw `doh-list.txt` file in this repository.
+This URL points to the raw `doh-list.txt` & `doh-servers.list` file in this repository.
 
 3. **Save and Update**: After adding the URL, save the changes and update your block lists. The application should fetch the latest version of the `doh-list.txt` file.
 
