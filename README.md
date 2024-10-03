@@ -26,9 +26,9 @@ https://raw.githubusercontent.com/stonerl/doh-list/main/doh-list.txt
 https://raw.githubusercontent.com/stonerl/doh-list/main/doh-servers.list
 ```
 
-This URL points to the raw `doh-list.txt` & `doh-servers.list` file in this repository.
+This URLs point to the raw `doh-list.txt` and `doh-servers.list` files in this repository.
 
-3. **Save and Update**: After adding the URL, save the changes and update your block lists. The application should fetch the latest version of the `doh-list.txt` file.
+3. **Save and Update**: After adding the URL, save the changes and update your block lists. The application should fetch the latest version of the `doh-list.txt` or `doh-servers.list` file.
 
 4. **Regular Updates**: Depending on your application settings, the list will be updated regularly to ensure that new DoH server URLs are blocked as they become available.
 
