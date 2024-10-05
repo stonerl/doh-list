@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2024-10-03 14:10:37
+! Last modified: 2024-10-05 00:10:33
 #
 # Domains of DoH services:
 #
@@ -40,7 +40,6 @@ adguard.konikoni428.com
 adguard.maison.gifino.fr
 adguard.meddy94.de
 adguard.neon0404.space
-adguard.pangerl.it
 adguard.senthil.us
 adguard.shoupperuser.com
 adguard.shutgaming.net
@@ -89,7 +88,6 @@ clean.dnsforge.de
 cloudflare-dns.com
 common.dot.dns.yandex.net
 cph01.dnscry.pt
-cubedns.com
 cvt01.dnscry.pt
 d.bod.lol
 d.niaox.com
@@ -123,7 +121,6 @@ dns.asterimoon.com
 dns.auapi.fun
 dns.b612.me
 dns.b72.com
-dns.beardic.cn
 dns.bebasid.com
 dns.belnet.be
 dns.bermeitinger.eu
@@ -286,7 +283,6 @@ dns.reckoningslug.name
 dns.redhosting.com.ar
 dns.redvau.lt
 dns.reitmeier.me
-dns.repinger.com
 dns.retakecs.com
 dns.roedel.cloud
 dns.rslvr.eu
@@ -332,7 +328,6 @@ dns.xlion.tw
 dns.xuming.studio
 dns.xusqui.com
 dns.yatima.tv
-dns.yu.dev
 dns0.eu
 dns1.dns-ga.de
 dns1.dnscrypt.ca
@@ -386,7 +381,6 @@ doh.ffmuc.net
 doh.futa.gg
 doh.immerda.ch
 doh.iucc.ac.il
-doh.jetcafe.org
 doh.kel.pe
 doh.kidzonet.io
 doh.la.ahadns.net
@@ -466,7 +460,6 @@ internetsehat.bebasid.com
 ist01.dnscry.pt
 jkdns.me
 jkt01.dnscry.pt
-jp-tyo-w-p-1.nashkan.net
 jp.tiar.app
 jp.tiarap.org
 jp01.dns4me.net
@@ -550,7 +543,6 @@ pashagame456.com
 paulo.nom.za
 pdx01.dnscry.pt
 per.adfilter.net
-performance.gosami.xyz
 phl01.dnscry.pt
 phx01.dnscry.pt
 pihole.aws.ketan.dev

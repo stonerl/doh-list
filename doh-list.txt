@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2024-10-03 14:10:37
+! Last modified: 2024-10-05 00:10:33
 #
 # Full URLs of DoH services:
 #
@@ -41,7 +41,6 @@ https://adguard.konikoni428.com/dns-query
 https://adguard.maison.gifino.fr/dns-query
 https://adguard.meddy94.de/dns-query
 https://adguard.neon0404.space/dns-query
-https://adguard.pangerl.it/dns-query
 https://adguard.senthil.us/dns-query
 https://adguard.shoupperuser.com/dns-query
 https://adguard.shutgaming.net/dns-query
@@ -95,7 +94,6 @@ https://clean.dnsforge.de/dns-query
 https://cloudflare-dns.com/dns-query
 https://common.dot.dns.yandex.net/dns-query
 https://cph01.dnscry.pt/dns-query
-https://cubedns.com/dns-query
 https://cvt01.dnscry.pt/dns-query
 https://d.bod.lol/dns-query
 https://d.niaox.com/dns-query
@@ -130,7 +128,6 @@ https://dns.asterimoon.com/dns-query
 https://dns.auapi.fun/dns-query
 https://dns.b612.me/dns-query
 https://dns.b72.com/dns-query
-https://dns.beardic.cn/dns-query
 https://dns.bebasid.com/dns-hagezi
 https://dns.bebasid.com/dns-oisd
 https://dns.bebasid.com/dns-query
@@ -301,7 +298,6 @@ https://dns.reckoningslug.name/dns-query
 https://dns.redhosting.com.ar/dns-query
 https://dns.redvau.lt/dns-query
 https://dns.reitmeier.me/dns-query
-https://dns.repinger.com/dns-query
 https://dns.retakecs.com/dns-query
 https://dns.roedel.cloud/dns-query
 https://dns.rslvr.eu/dns-query
@@ -347,7 +343,6 @@ https://dns.xlion.tw/dns-query
 https://dns.xuming.studio/dns-query
 https://dns.xusqui.com/dns-query
 https://dns.yatima.tv/dns-query
-https://dns.yu.dev/dns-query
 https://dns0.eu
 https://dns1.dns-ga.de/dns-query
 https://dns1.dnscrypt.ca/dns-query
@@ -403,7 +398,6 @@ https://doh.ffmuc.net/dns-query
 https://doh.futa.gg/dns-query
 https://doh.immerda.ch/dns-query
 https://doh.iucc.ac.il/dns-query
-https://doh.jetcafe.org/dns-query
 https://doh.kel.pe
 https://doh.kidzonet.io/dns-query
 https://doh.la.ahadns.net/dns-query
@@ -507,7 +501,6 @@ https://internetsehat.bebasid.com/dns-query
 https://ist01.dnscry.pt/dns-query
 https://jkdns.me/dns-query
 https://jkt01.dnscry.pt/dns-query
-https://jp-tyo-w-p-1.nashkan.net/dns-query
 https://jp.tiar.app/dns-query
 https://jp.tiarap.org/dns-query
 https://jp01.dns4me.net
@@ -596,7 +589,6 @@ https://pashagame456.com/dns-query
 https://paulo.nom.za/dns-query
 https://pdx01.dnscry.pt/dns-query
 https://per.adfilter.net/dns-query
-https://performance.gosami.xyz/dns-query
 https://phl01.dnscry.pt/dns-query
 https://phx01.dnscry.pt/dns-query
 https://pihole.aws.ketan.dev/dns-query
