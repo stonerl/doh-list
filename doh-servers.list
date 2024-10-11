@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2024-10-05 00:10:33
+! Last modified: 2024-10-11 11:33:13
 #
 # Domains of DoH services:
 #
@@ -12,7 +12,6 @@
 2.dns.noridev.moe
 3dcosas.xyz
 3dns.eu
-6301s.dangkiem.com
 8888.google
 abel.waringer-atg.de
 abn01.dnscry.pt
@@ -22,7 +21,6 @@ adb.timnichollsphotography.com
 adblock.dns.mullvad.net
 adblock.krctech.dev
 adblock.mydns.network
-adblockersite.com
 addns1.m-it.ro
 adfree.usableprivacy.net
 adfreedns.top
@@ -37,13 +35,10 @@ adguard.frutuozo.com.br
 adguard.gambini.org
 adguard.johanliebert.top
 adguard.konikoni428.com
-adguard.maison.gifino.fr
 adguard.meddy94.de
 adguard.neon0404.space
 adguard.senthil.us
 adguard.shoupperuser.com
-adguard.shutgaming.net
-adguardhome.cloud
 adl.adfilter.net
 ae-fuj-w-p-1.nashkan.net
 ae-fuj-w-p-2.nashkan.net
@@ -62,6 +57,7 @@ antivirus.bebasid.com
 anycast.dns.nextdns.io
 anycast.uncensoreddns.org
 aqua.is.my.waifu.cz
+arashi.net.eu.org
 at-wie-w-p-1.nashkan.net
 ath01.dnscry.pt
 atl01.dnscry.pt
@@ -70,16 +66,15 @@ au-syd-w-f-1.nashkan.net
 au01.dns4me.net
 au02.dns4me.net
 awan.ftp.sh
-ayman-dns.731my.com
 bahopir188.dnshome.de
 base.dns.mullvad.net
 basic.rethinkdns.com
 bazooki-infra.dev
 bestwon203.com
 blitz.ahadns.com
+blocker.thethorsens.org
 bom01.dnscry.pt
 bts01.dnscry.pt
-c.cicitt.ch
 ca01.dns4me.net
 ca02.dns4me.net
 catchen121299.top
@@ -106,10 +101,10 @@ dns.0x55.net
 dns.13evl.com
 dns.3wv.de
 dns.52306.org
+dns.688447.xyz
 dns.9999.sg
 dns.a47.me
 dns.aa.net.uk
-dns.aapla.top
 dns.adguard-dns.com
 dns.alidns.com
 dns.anon.no
@@ -135,13 +130,13 @@ dns.bravoc.one
 dns.brembeck.cloud
 dns.burgas.pro
 dns.busold.ws
+dns.cabbage.zone
 dns.cahlen.com
 dns.carter.me
 dns.caspervk.net
 dns.cctld.kg
 dns.cert.ee
 dns.cfiec.net
-dns.ch295.ru
 dns.chenu.ch
 dns.christerwaren.fi
 dns.chriswservers.com
@@ -184,7 +179,6 @@ dns.faked.org
 dns.falkenthal.org
 dns.fancyorg.at
 dns.farshidhakimy.de
-dns.feelvm.dev
 dns.fehlsprache.de
 dns.ffnw.de
 dns.fgbk.net
@@ -212,7 +206,6 @@ dns.ishan.pw
 dns.jhangy.us
 dns.jupitrdns.com
 dns.k3nny.fr
-dns.kamilszczepanski.com
 dns.kapite.in
 dns.karadag.me
 dns.kastner-online.de
@@ -247,7 +240,6 @@ dns.mullvad.net
 dns.mzjtechnology.com
 dns.nako.kr
 dns.neeb.it
-dns.nefret.net
 dns.netraptor.com.au
 dns.netvpn.net
 dns.nextdns.io
@@ -258,23 +250,20 @@ dns.njal.la
 dns.nodoa.me
 dns.novali.date
 dns.novg.net
+dns.numerus.com
 dns.odinpl.com
 dns.ofdoom.net
 dns.oliviertv.co.za
 dns.oszx.co
 dns.ourvau.lt
 dns.paesa.es
-dns.panszelescik.pl
 dns.pari.network
 dns.phillipjberry.net
 dns.pierzchlewicz.pl
-dns.pizzari.me
 dns.pragmasec.nl
-dns.princex.net
 dns.propheci.xyz
 dns.pub
 dns.pumplex.com
-dns.qrtz.club
 dns.quad9.net
 dns.quiet.rocks
 dns.rabbitdns.org
@@ -326,7 +315,6 @@ dns.w3ctag.org
 dns.wang.art
 dns.xlion.tw
 dns.xuming.studio
-dns.xusqui.com
 dns.yatima.tv
 dns0.eu
 dns1.dns-ga.de
@@ -403,6 +391,7 @@ doh.thio.me
 doh.tiar.app
 doh.tiarap.org
 doh.umbrella.com
+doh.viatech.com.tw
 doh.webnmail.de
 doh.zknt.org
 doh1.b-cdn.net
@@ -438,6 +427,8 @@ gb-lon-w-f-1.nashkan.net
 gb-lon-w-p-1.nashkan.net
 gb-lon-w-p-2.nashkan.net
 geg01.dnscry.pt
+gibblets.top
+glacius.top
 goose.buckyfan.net
 gru01.dnscry.pt
 gva01.dnscry.pt
@@ -455,11 +446,13 @@ ibksturm.synology.me
 ibuki.cgnat.net
 ie01.dns4me.net
 ikarosalpha.xyz
+imperio.top
 india.privacy-dns.pw
 internetsehat.bebasid.com
 ist01.dnscry.pt
 jkdns.me
 jkt01.dnscry.pt
+johneldenring.lol
 jp.tiar.app
 jp.tiarap.org
 jp01.dns4me.net
@@ -512,6 +505,7 @@ nova-is.so-gorgeo.us.kg
 ns.00dani.me
 ns.data.haus
 ns.nerdytechgeeks.co.za
+ns.net.kg
 ns.nwps.fi
 ns.ral9005.org
 ns.trcnet.fi
@@ -555,7 +549,6 @@ portus.top
 princez.uk
 privacy.plumedns.com
 private.canadianshield.cira.ca
-pro.362878.xyz
 protected.canadianshield.cira.ca
 public.dns.iij.jp
 qdns02.nymterm.com
