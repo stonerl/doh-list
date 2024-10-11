@@ -88,19 +88,27 @@ fi
 	echo "$DOMAINS"
 } >doh-servers.list
 
-# Fetch tracker list content
+# Define the URL for the tracker list
 TRACKER_URL="https://raw.githubusercontent.com/ngosang/trackerslist/refs/heads/master/trackers_all.txt"
+
+# Fetch tracker list content
 TRACKER_CONTENT=$(curl -s "$TRACKER_URL")
 
 # Extract domains from tracker list and remove duplicates
-TRACKER_DOMAINS=$(echo "$TRACKER_CONTENT" | awk -F/ '{print $3}' | grep -E '^[a-zA-Z0-9.-]+$' | sort -u)
+TRACKER_DOMAINS=$(echo "$TRACKER_CONTENT" | awk -F'[/:]' '{print $4}' | grep -E '^[a-zA-Z0-9.-]+$' | sort -u)
+
+# Check if any domains were extracted
+if [ -z "$TRACKER_DOMAINS" ]; then
+	echo "Error: No domains could be extracted from the tracker list."
+	exit 1
+fi
 
 # Generate the tracker.list file with the header and domains
 {
 	echo "! Title: Tracker Domain List"
 	echo "! Description: List of domains from tracker URLs."
 	echo "! Source: https://github.com/ngosang/trackerslist"
-	echo "! Last modified: $CURRENT_DATE"
+	echo "! Last modified: $(date +"%Y-%m-%d %H:%M:%S")"
 	echo "#"
 	echo "# Domains of tracker services:"
 	echo "#"
