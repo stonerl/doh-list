@@ -1,7 +1,7 @@
 ! Title: Tracker Domain List
 ! Description: List of domains from tracker URLs.
 ! Source: https://github.com/ngosang/trackerslist
-! Last modified: 2024-10-11 11:49:38
+! Last modified: 2024-10-12 00:10:20
 #
 # Domains of tracker services:
 #
@@ -9,7 +9,6 @@
 1c.premierzal.ru
 aegir.sexy
 bittorrent-tracker.e-n-c-r-y-p-t.net
-bt.ktrackers.com
 bt.rer.lol
 bvarf.tracker.sh
 ch3oh.ru
@@ -31,15 +30,16 @@ open.demonii.com
 open.dstud.io
 open.free-tracker.ga
 open.stealth.si
+open.tracker.cl
+open.tracker.ink
+open.u-p.pw
 opentracker.io
 p2p.publictracker.xyz
 p4p.arenabg.com
-public.tracker.vraphim.com
 pybittrack.retiolus.net
 retracker.lanta.me
 retracker01-msk-virt.corbina.net
 ryjer.com
-t.overflow.biz
 torrents.artixlinux.org
 tr.kxmp.cf
 tracker-udp.gbitt.info
@@ -71,6 +71,7 @@ tracker.pmman.tech
 tracker.qu.ax
 tracker.renfei.net
 tracker.skynetcloud.site
+tracker.skyts.net
 tracker.srv00.com
 tracker.tamersunion.org
 tracker.theoks.net
@@ -82,7 +83,6 @@ tracker.waaa.moe
 tracker.yemekyedim.com
 tracker1.bt.moack.co.kr
 tracker1.itzmx.com
-tracker1.myporn.club
 tracker2.dler.org
 ttk2.nbaonlineservice.com
 wepzone.net
