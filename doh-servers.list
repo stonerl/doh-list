@@ -3,10 +3,11 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2024-10-12 00:10:19
+! Last modified: 2024-10-19 00:10:17
 #
 # Domains of DoH services:
 #
+052419.xyz
 0ms.dev
 123000123.xyz
 2.dns.noridev.moe
@@ -15,6 +16,7 @@
 8888.google
 abel.waringer-atg.de
 abn01.dnscry.pt
+ad.anym0re.ru
 ad.justincounts.com
 ada.openbld.net
 adb.timnichollsphotography.com
@@ -54,6 +56,7 @@ all.dns.mullvad.net
 ams01.dnscry.pt
 ant.dns.qwer.pw
 antivirus.bebasid.com
+antstars.win
 anycast.dns.nextdns.io
 anycast.uncensoreddns.org
 aqua.is.my.waifu.cz
@@ -98,8 +101,6 @@ dns-doh.dnsforfamily.com
 dns.0ooo.icu
 dns.0rz.ing
 dns.0x55.net
-dns.13evl.com
-dns.3wv.de
 dns.52306.org
 dns.688447.xyz
 dns.9999.sg
@@ -145,11 +146,11 @@ dns.comff.net
 dns.comss.one
 dns.controld.com
 dns.criena.net
-dns.cryptomize.com
 dns.crystalyx.net
 dns.csa-rz.de
 dns.csaonline.de
 dns.csswg.org
+dns.cybertonic.tech
 dns.cynthialabs.net
 dns.d94.xyz
 dns.d96.info
@@ -176,13 +177,12 @@ dns.eliv.kr
 dns.emiliyan.com
 dns.engineer.web.id
 dns.faked.org
-dns.falkenthal.org
 dns.fancyorg.at
 dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
-dns.fgbk.net
 dns.flightspace.net
+dns.floriantinney.de
 dns.flymc.cc
 dns.froth.zone
 dns.gamban.com
@@ -190,11 +190,12 @@ dns.girino.org
 dns.glf.wtf
 dns.google
 dns.guard.io
+dns.guardmydns.com
 dns.gutwe.in
 dns.haka.se
-dns.hannielzhang.com
 dns.henek.ovh
 dns.hoody.com
+dns.hoservers.com
 dns.hostux.net
 dns.huas.me
 dns.hypercute.eu
@@ -218,6 +219,7 @@ dns.keviland.com
 dns.koala.us.to
 dns.kosan.moe
 dns.kukal.cz
+dns.kumoumi.net
 dns.kuuhaku.moe
 dns.l337.site
 dns.lars-lehmann.net
@@ -228,6 +230,7 @@ dns.levonet.sk
 dns.liberador.net
 dns.lihj.me
 dns.lobbygod.com
+dns.luma-medien.com
 dns.marasov.id
 dns.marbledfennec.net
 dns.mateo.ovh
@@ -259,7 +262,6 @@ dns.ourvau.lt
 dns.paesa.es
 dns.pari.network
 dns.phillipjberry.net
-dns.pierzchlewicz.pl
 dns.pragmasec.nl
 dns.propheci.xyz
 dns.pub
@@ -272,6 +274,7 @@ dns.reckoningslug.name
 dns.redhosting.com.ar
 dns.redvau.lt
 dns.reitmeier.me
+dns.repressoh.it
 dns.retakecs.com
 dns.roedel.cloud
 dns.rslvr.eu
@@ -298,6 +301,7 @@ dns.superstefan.win
 dns.sv-zauner.at
 dns.svoi.dev
 dns.switch.ch
+dns.sy.st
 dns.szpadel.ovh
 dns.t53.de
 dns.technologycage.com
@@ -315,7 +319,7 @@ dns.w3ctag.org
 dns.wang.art
 dns.xlion.tw
 dns.xuming.studio
-dns.yatima.tv
+dns.yague.me
 dns0.eu
 dns1.dns-ga.de
 dns1.dnscrypt.ca
@@ -331,8 +335,6 @@ dns2.nordvpn.com
 dns3.dns-ga.de
 dns64.cloudflare-dns.com
 dns64.dns.google
-dnsblock.grisumedia.de
-dnscache0.ns71.net
 dnsforge.de
 dnslow.me
 dnspub.restena.lu
@@ -399,6 +401,7 @@ doth.huque.com
 dub01.dnscry.pt
 dukun.de
 dus01.dnscry.pt
+dvgarm.com
 eliatofani.ovh
 eu1.dns.lavate.ch
 extended.dns.mullvad.net
@@ -415,7 +418,6 @@ family.rabbitdns.org
 farewellkou.click
 fi-hel-w-f-2.nashkan.net
 fidelius.top
-filipinoray.com
 fjr01.dnscry.pt
 fr-gra-w-f-1.nashkan.net
 fr-gra-w-p-1.nashkan.net
@@ -432,7 +434,6 @@ glacius.top
 goose.buckyfan.net
 gru01.dnscry.pt
 gva01.dnscry.pt
-ha.o51r15.com
 han01.dnscry.pt
 hard.dnsforge.de
 hel01.dnscry.pt
@@ -449,6 +450,7 @@ ikarosalpha.xyz
 imperio.top
 india.privacy-dns.pw
 internetsehat.bebasid.com
+iozoi.cn
 ist01.dnscry.pt
 jkdns.me
 jkt01.dnscry.pt
@@ -481,11 +483,13 @@ luxembourg.privacy-dns.pw
 mad01.dnscry.pt
 maqgie.xyz
 masters-of-cloud.de
+mc-sft.cn
 megumin.is.my.waifu.cz
 mendozasdelivery.com
 michelo.line.pm
 mikezhang.xyz
 mil01.dnscry.pt
+miniapp.global
 mita-is.so-gorgeo.us.kg
 mnrv.trade
 mozilla.cloudflare-dns.com
@@ -495,11 +499,11 @@ n0.eu
 nana-is.so-gorgeo.us.kg
 net01.youcef.io
 netcup.mismat.ch
+newd.rezyro.com
 nicsezcheckfbi.gov
 nightlymoon.us.kg
 nindy-is.so-gorgeo.us.kg
 nl-dro-w-f-1.nashkan.net
-nl-dro-w-p-1.nashkan.net
 nl.dns.privex.io
 nova-is.so-gorgeo.us.kg
 ns.00dani.me
@@ -545,7 +549,6 @@ pm1239-bd.xyz
 pm7051-br.xyz
 pm9352-bd.xyz
 pooblet.co.za
-portus.top
 princez.uk
 privacy.plumedns.com
 private.canadianshield.cira.ca
@@ -553,11 +556,10 @@ protected.canadianshield.cira.ca
 public.dns.iij.jp
 qdns02.nymterm.com
 qlf-doh.inria.fr
-rdu01.dnscry.pt
+resolv.flokinet.net
 resolv1.trash.net
 resolv2.trash.net
 resolv3.trash.net
-resolve2.r9x.cc
 resolver-eu.lelux.fi
 resolver.sunet.se
 resolver1.absolight.net
@@ -633,10 +635,9 @@ vie01.dnscry.pt
 virga.pp.ua
 vno01.dnscry.pt
 vorlif.org
+vps.robotboard.de
 waw02.dnscry.pt
 wikimedia-dns.org
-www.dltuykfgp.top
-xholgm.top
 xn--durhre-yxa.de
 yarp.lefolgoc.net
 your-dns.run
