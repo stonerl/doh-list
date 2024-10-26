@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2024-10-19 00:10:17
+! Last modified: 2024-10-26 00:10:48
 #
 # Domains of DoH services:
 #
@@ -80,7 +80,6 @@ bom01.dnscry.pt
 bts01.dnscry.pt
 ca01.dns4me.net
 ca02.dns4me.net
-catchen121299.top
 chr.kepegawaiandju.id
 clean.dnsforge.de
 cloudflare-dns.com
@@ -175,7 +174,6 @@ dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.emiliyan.com
-dns.engineer.web.id
 dns.faked.org
 dns.fancyorg.at
 dns.farshidhakimy.de
@@ -223,7 +221,6 @@ dns.kumoumi.net
 dns.kuuhaku.moe
 dns.l337.site
 dns.lars-lehmann.net
-dns.learningman.top
 dns.lepilleur.com
 dns.lermer.nl
 dns.levonet.sk
@@ -235,7 +232,6 @@ dns.marasov.id
 dns.marbledfennec.net
 dns.mateo.ovh
 dns.mayx.eu.org
-dns.melvin2204.nl
 dns.mh4ckt3mh4ckt1c4s.xyz
 dns.mnet-online.de
 dns.momou.ch
@@ -450,11 +446,8 @@ ikarosalpha.xyz
 imperio.top
 india.privacy-dns.pw
 internetsehat.bebasid.com
-iozoi.cn
 ist01.dnscry.pt
-jkdns.me
 jkt01.dnscry.pt
-johneldenring.lol
 jp.tiar.app
 jp.tiarap.org
 jp01.dns4me.net
@@ -497,7 +490,6 @@ multi.dns.marbledfennec.net
 myatris.sbs
 n0.eu
 nana-is.so-gorgeo.us.kg
-net01.youcef.io
 netcup.mismat.ch
 newd.rezyro.com
 nicsezcheckfbi.gov
@@ -526,7 +518,6 @@ ns4.opennameserver.org
 nsec.arnor.org
 nue01.dnscry.pt
 nue2.moderateinfra.net
-nyc01.dnscry.pt
 nz01.dns4me.net
 obscuro.top
 odvr.nic.cz
@@ -544,10 +535,26 @@ per.adfilter.net
 phl01.dnscry.pt
 phx01.dnscry.pt
 pihole.aws.ketan.dev
+plushub.pro
 pluton.plan9-dns.com
 pm1239-bd.xyz
 pm7051-br.xyz
 pm9352-bd.xyz
+polisitogel.accountant
+polisitogel.beauty
+polisitogel.builders
+polisitogel.construction
+polisitogel.contractors
+polisitogel.cruises
+polisitogel.diy
+polisitogel.green
+polisitogel.hair
+polisitogel.limo
+polisitogel.living
+polisitogel.luxe
+polisitogel.properties
+polisitogel.show
+polisitogel.webcam
 pooblet.co.za
 princez.uk
 privacy.plumedns.com
@@ -611,6 +618,7 @@ tpa01.dnscry.pt
 trf01.dnscry.pt
 tributh.net
 tsm01.dnscry.pt
+tujenasnaszato.xyz
 tuskythehusky.tech
 tyo02.dnscry.pt
 uk01.dns4me.net

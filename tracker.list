@@ -1,7 +1,7 @@
 ! Title: Tracker Domain List
 ! Description: List of domains from tracker URLs.
 ! Source: https://github.com/ngosang/trackerslist
-! Last modified: 2024-10-19 00:10:18
+! Last modified: 2024-10-26 00:10:49
 #
 # Domains of tracker services:
 #
@@ -10,7 +10,6 @@
 aegir.sexy
 amigacity.xyz
 bittorrent-tracker.e-n-c-r-y-p-t.net
-bt.ktrackers.com
 bt.rer.lol
 bvarf.tracker.sh
 canardscitrons.nohost.me
@@ -20,22 +19,16 @@ d40969.acod.regrucolo.ru
 evan.im
 exodus.desync.com
 explodie.org
-free.publictracker.xyz
 ipv4.rer.lol
-isk.richardsw.club
 jutone.com
-leet-tracker.moe
 martin-gebhardt.eu
 moonburrow.club
 odd-hd.fr
 open.acgtracker.com
-open.demonii.com
 open.dstud.io
-open.free-tracker.ga
 open.stealth.si
 open.tracker.cl
 open.tracker.ink
-open.u-p.pw
 opentracker.io
 p2p.publictracker.xyz
 p4p.arenabg.com
@@ -45,13 +38,11 @@ retracker.lanta.me
 retracker01-msk-virt.corbina.net
 run.publictracker.xyz
 ryjer.com
-t.overflow.biz
 torrents.artixlinux.org
 tr.kxmp.cf
 tracker-udp.gbitt.info
 tracker-zhuqiy.dgj055.icu
 tracker.0x7c0.com
-tracker.bittor.pw
 tracker.bt4g.com
 tracker.ccp.ovh
 tracker.cloudit.top
@@ -59,10 +50,8 @@ tracker.darkness.services
 tracker.ddunlimited.net
 tracker.deadorbit.nl
 tracker.dler.org
-tracker.dump.cl
 tracker.edkj.club
 tracker.filemail.com
-tracker.files.fm
 tracker.fnix.net
 tracker.gcrenwp.top
 tracker.ipfsscan.io
@@ -76,9 +65,10 @@ tracker.peckservers.com
 tracker.pmman.tech
 tracker.qu.ax
 tracker.renfei.net
-tracker.skynetcloud.site
+tracker.skyts.net
 tracker.srv00.com
 tracker.tamersunion.org
+tracker.theoks.net
 tracker.tiny-vps.com
 tracker.torrent.eu.org
 tracker.tryhackx.org
@@ -86,11 +76,9 @@ tracker.waaa.moe
 tracker.yemekyedim.com
 tracker1.bt.moack.co.kr
 tracker1.itzmx.com
-tracker1.myporn.club
 tracker2.dler.org
 tracker3.itzmx.com
 tracker4.itzmx.com
 ttk2.nbaonlineservice.com
 wepzone.net
 www.peckservers.com
-yahor.of.by
