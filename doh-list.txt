@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2024-10-26 00:10:48
+! Last modified: 2024-11-02 00:10:30
 #
 # Full URLs of DoH services:
 #
@@ -30,13 +30,10 @@ https://adfreedns.top/dns-query
 https://adg.geili.me/dns-query
 https://adg.khon.dev/dns-query
 https://adguard-kartoffel.zernico.de/dns-query
-https://adguard.alu.dog/dns-query
 https://adguard.bonis.de/dns-query
 https://adguard.dantynes.cyou/dns-query
 https://adguard.easez.net/dns-query
 https://adguard.frutuozo.com.br/dns-query
-https://adguard.gambini.org/dns-query
-https://adguard.johanliebert.top/dns-query
 https://adguard.konikoni428.com/dns-query
 https://adguard.meddy94.de/dns-query
 https://adguard.neon0404.space/dns-query
@@ -74,7 +71,6 @@ https://awan.ftp.sh/dns-query
 https://awan.ftp.sh/no-vice
 https://awan.ftp.sh/noporn-cl
 https://awan.ftp.sh/unblocked
-https://bahopir188.dnshome.de/dns-query
 https://base.dns.mullvad.net/dns-query
 https://basic.rethinkdns.com/
 https://bazooki-infra.dev/dns-query
@@ -86,7 +82,6 @@ https://bom01.dnscry.pt/dns-query
 https://bts01.dnscry.pt/dns-query
 https://ca01.dns4me.net
 https://ca02.dns4me.net
-https://chr.kepegawaiandju.id/dns-query
 https://clean.dnsforge.de/dns-query
 https://cloudflare-dns.com/dns-query
 https://common.dot.dns.yandex.net/dns-query
@@ -120,7 +115,6 @@ https://dns.arapurayil.com/dns-query
 https://dns.arkbotech.com/dns-query
 https://dns.artikel10.org/dns-query
 https://dns.asterimoon.com/dns-query
-https://dns.auapi.fun/dns-query
 https://dns.b612.me/dns-query
 https://dns.b72.com/dns-query
 https://dns.bebasid.com/dns-hagezi
@@ -169,6 +163,7 @@ https://dns.datenquark.de/dns-query
 https://dns.deadsec.net/dns-query
 https://dns.decky.eu/dns-query
 https://dns.decloudus.com/dns-query
+https://dns.delpirou.fr/dns-query
 https://dns.dev-umbrellagov.com/dns-query
 https://dns.diarbagus.id/dns-query
 https://dns.digitale-gesellschaft.ch/dns-query
@@ -204,15 +199,13 @@ https://dns.gutwe.in/dns-query
 https://dns.haka.se/dns-query
 https://dns.henek.ovh/dns-query
 https://dns.hoody.com/dns-query
-https://dns.hoservers.com/dns-query
 https://dns.hostux.net/ads
 https://dns.hostux.net/dns-query
-https://dns.huas.me/dns-query
+https://dns.hshoe.cn/dns-query
 https://dns.hypercute.eu/dns-query
 https://dns.inclusioproject.com/dns-query
 https://dns.indybanipal.com/dns-query
 https://dns.inforlogia.com/dns-query
-https://dns.is0mino.com/dns-query
 https://dns.ishan.pw/dns-query
 https://dns.jhangy.us/dns-query
 https://dns.jupitrdns.com/dns-query
@@ -285,7 +278,6 @@ https://dns.reckoningslug.name/dns-query
 https://dns.redhosting.com.ar/dns-query
 https://dns.redvau.lt/dns-query
 https://dns.reitmeier.me/dns-query
-https://dns.repressoh.it/dns-query
 https://dns.retakecs.com/dns-query
 https://dns.roedel.cloud/dns-query
 https://dns.rslvr.eu/dns-query
@@ -402,7 +394,6 @@ https://doh.opendns.com/dns-query
 https://doh.qis.io/dns-query
 https://doh.sandbox.opendns.com/dns-query
 https://doh.sb/dns-query
-https://doh.serverhost.no/dns-query
 https://doh.sunoaki.net/dns-query
 https://doh.thio.me/dns-query
 https://doh.tiar.app/dns-query
@@ -416,7 +407,6 @@ https://doth.huque.com/dns-query
 https://dub01.dnscry.pt/dns-query
 https://dukun.de/dns-query
 https://dus01.dnscry.pt/dns-query
-https://dvgarm.com/dns-query
 https://eliatofani.ovh/dns-query
 https://eu1.dns.lavate.ch/dns-query
 https://extended.dns.mullvad.net/dns-query
@@ -503,7 +493,6 @@ https://kx-97795-tr.xyz/dns-query
 https://kz-pav-w-p-1.nashkan.net/dns-query
 https://las-vegas.privacy-dns.pw/dns-query
 https://las01.dnscry.pt/dns-query
-https://lesuo.top/dns-query
 https://lim01.dnscry.pt/dns-query
 https://lindung.pp.ua/dns-query
 https://lindung.pp.ua/family
@@ -519,6 +508,7 @@ https://mad01.dnscry.pt/dns-query
 https://maqgie.xyz/dns-query
 https://masters-of-cloud.de/dns-query
 https://mc-sft.cn/dns-query
+https://mecca-is.so-gorgeo.us.kg/dns-query
 https://megumin.is.my.waifu.cz/dns-query
 https://mendozasdelivery.com/dns-query
 https://michelo.line.pm/dns-query
@@ -530,7 +520,9 @@ https://mnrv.trade/dns-query
 https://mozilla.cloudflare-dns.com/dns-query
 https://multi.dns.marbledfennec.net/dns-query
 https://myatris.sbs/dns-query
+https://myrra-is.so-gorgeo.us.kg/dns-query
 https://n0.eu/dns-query
+https://najiakeji.top/dns-query
 https://nana-is.so-gorgeo.us.kg/dns-query
 https://netcup.mismat.ch/dns-query
 https://newd.rezyro.com/dns-query
@@ -540,6 +532,7 @@ https://nightlymoon.us.kg/family
 https://nindy-is.so-gorgeo.us.kg/dns-query
 https://nl-dro-w-f-1.nashkan.net/dns-query
 https://nl.dns.privex.io
+https://nora-is.so-gorgeo.us.kg/dns-query
 https://nova-is.so-gorgeo.us.kg/dns-query
 https://ns.00dani.me/dns-query
 https://ns.data.haus/dns-query
@@ -553,12 +546,13 @@ https://ns0.fdn.fr/dns-query
 https://ns1.fdn.fr/dns-query
 https://ns1.opennameserver.org/dns-query
 https://ns2.4netguides.org/dns-query
+https://ns2.opennameserver.org/dns-query
 https://ns2.wuyouss.com/dns-query
 https://ns3.com/dns-query
 https://ns3.cx/dns-query
 https://ns3.link/dns-query
+https://ns3.opennameserver.org/dns-query
 https://ns3.wuyouss.com/dns-query
-https://ns4.opennameserver.org/dns-query
 https://nsec.arnor.org/dns-query
 https://nue01.dnscry.pt/dns-query
 https://nue2.moderateinfra.net/dns-query
@@ -581,7 +575,6 @@ https://per.adfilter.net/dns-query
 https://phl01.dnscry.pt/dns-query
 https://phx01.dnscry.pt/dns-query
 https://pihole.aws.ketan.dev/dns-query
-https://plushub.pro/dns-query
 https://pluton.plan9-dns.com/dns-query
 https://pm1239-bd.xyz/dns-query
 https://pm7051-br.xyz/dns-query
@@ -687,6 +680,7 @@ https://us-saj-w-p-1.nashkan.net/dns-query
 https://us01.dns4me.net
 https://us02.dns4me.net
 https://us1.blissdns.net/dns-query
+https://venum.space/dns-query
 https://vie01.dnscry.pt/dns-query
 https://virga.pp.ua/dns-query
 https://virga.pp.ua/porn
@@ -695,6 +689,7 @@ https://vorlif.org/dns-query
 https://vps.robotboard.de/dns-query
 https://waw02.dnscry.pt/dns-query
 https://wikimedia-dns.org/dns-query
+https://xbcpb668.com/dns-query
 https://xn--durhre-yxa.de/dns-query
 https://yarp.lefolgoc.net/dns-query
 https://your-dns.run/dns-query

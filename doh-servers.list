@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2024-10-26 00:10:48
+! Last modified: 2024-11-02 00:10:30
 #
 # Domains of DoH services:
 #
@@ -29,13 +29,10 @@ adfreedns.top
 adg.geili.me
 adg.khon.dev
 adguard-kartoffel.zernico.de
-adguard.alu.dog
 adguard.bonis.de
 adguard.dantynes.cyou
 adguard.easez.net
 adguard.frutuozo.com.br
-adguard.gambini.org
-adguard.johanliebert.top
 adguard.konikoni428.com
 adguard.meddy94.de
 adguard.neon0404.space
@@ -69,7 +66,6 @@ au-syd-w-f-1.nashkan.net
 au01.dns4me.net
 au02.dns4me.net
 awan.ftp.sh
-bahopir188.dnshome.de
 base.dns.mullvad.net
 basic.rethinkdns.com
 bazooki-infra.dev
@@ -80,7 +76,6 @@ bom01.dnscry.pt
 bts01.dnscry.pt
 ca01.dns4me.net
 ca02.dns4me.net
-chr.kepegawaiandju.id
 clean.dnsforge.de
 cloudflare-dns.com
 common.dot.dns.yandex.net
@@ -113,7 +108,6 @@ dns.arapurayil.com
 dns.arkbotech.com
 dns.artikel10.org
 dns.asterimoon.com
-dns.auapi.fun
 dns.b612.me
 dns.b72.com
 dns.bebasid.com
@@ -158,6 +152,7 @@ dns.datenquark.de
 dns.deadsec.net
 dns.decky.eu
 dns.decloudus.com
+dns.delpirou.fr
 dns.dev-umbrellagov.com
 dns.diarbagus.id
 dns.digitale-gesellschaft.ch
@@ -193,14 +188,12 @@ dns.gutwe.in
 dns.haka.se
 dns.henek.ovh
 dns.hoody.com
-dns.hoservers.com
 dns.hostux.net
-dns.huas.me
+dns.hshoe.cn
 dns.hypercute.eu
 dns.inclusioproject.com
 dns.indybanipal.com
 dns.inforlogia.com
-dns.is0mino.com
 dns.ishan.pw
 dns.jhangy.us
 dns.jupitrdns.com
@@ -270,7 +263,6 @@ dns.reckoningslug.name
 dns.redhosting.com.ar
 dns.redvau.lt
 dns.reitmeier.me
-dns.repressoh.it
 dns.retakecs.com
 dns.roedel.cloud
 dns.rslvr.eu
@@ -383,7 +375,6 @@ doh.opendns.com
 doh.qis.io
 doh.sandbox.opendns.com
 doh.sb
-doh.serverhost.no
 doh.sunoaki.net
 doh.thio.me
 doh.tiar.app
@@ -397,7 +388,6 @@ doth.huque.com
 dub01.dnscry.pt
 dukun.de
 dus01.dnscry.pt
-dvgarm.com
 eliatofani.ovh
 eu1.dns.lavate.ch
 extended.dns.mullvad.net
@@ -462,7 +452,6 @@ kx-97795-tr.xyz
 kz-pav-w-p-1.nashkan.net
 las-vegas.privacy-dns.pw
 las01.dnscry.pt
-lesuo.top
 lim01.dnscry.pt
 lindung.pp.ua
 lion.dns.qwer.pw
@@ -477,6 +466,7 @@ mad01.dnscry.pt
 maqgie.xyz
 masters-of-cloud.de
 mc-sft.cn
+mecca-is.so-gorgeo.us.kg
 megumin.is.my.waifu.cz
 mendozasdelivery.com
 michelo.line.pm
@@ -488,7 +478,9 @@ mnrv.trade
 mozilla.cloudflare-dns.com
 multi.dns.marbledfennec.net
 myatris.sbs
+myrra-is.so-gorgeo.us.kg
 n0.eu
+najiakeji.top
 nana-is.so-gorgeo.us.kg
 netcup.mismat.ch
 newd.rezyro.com
@@ -497,6 +489,7 @@ nightlymoon.us.kg
 nindy-is.so-gorgeo.us.kg
 nl-dro-w-f-1.nashkan.net
 nl.dns.privex.io
+nora-is.so-gorgeo.us.kg
 nova-is.so-gorgeo.us.kg
 ns.00dani.me
 ns.data.haus
@@ -509,12 +502,13 @@ ns0.fdn.fr
 ns1.fdn.fr
 ns1.opennameserver.org
 ns2.4netguides.org
+ns2.opennameserver.org
 ns2.wuyouss.com
 ns3.com
 ns3.cx
 ns3.link
+ns3.opennameserver.org
 ns3.wuyouss.com
-ns4.opennameserver.org
 nsec.arnor.org
 nue01.dnscry.pt
 nue2.moderateinfra.net
@@ -535,7 +529,6 @@ per.adfilter.net
 phl01.dnscry.pt
 phx01.dnscry.pt
 pihole.aws.ketan.dev
-plushub.pro
 pluton.plan9-dns.com
 pm1239-bd.xyz
 pm7051-br.xyz
@@ -639,6 +632,7 @@ us-saj-w-p-1.nashkan.net
 us01.dns4me.net
 us02.dns4me.net
 us1.blissdns.net
+venum.space
 vie01.dnscry.pt
 virga.pp.ua
 vno01.dnscry.pt
@@ -646,6 +640,7 @@ vorlif.org
 vps.robotboard.de
 waw02.dnscry.pt
 wikimedia-dns.org
+xbcpb668.com
 xn--durhre-yxa.de
 yarp.lefolgoc.net
 your-dns.run
