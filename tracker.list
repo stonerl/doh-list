@@ -1,7 +1,7 @@
 ! Title: Tracker Domain List
 ! Description: List of domains from tracker URLs.
 ! Source: https://github.com/ngosang/trackerslist
-! Last modified: 2024-11-02 00:10:31
+! Last modified: 2024-11-09 00:10:23
 #
 # Domains of tracker services:
 #
@@ -11,7 +11,6 @@
 1c.premierzal.ru
 aegir.sexy
 amigacity.xyz
-api.clasificadosrapidos.com
 api.ipv4online.uk
 bandito.byterunner.io
 bittorrent-tracker.e-n-c-r-y-p-t.net
@@ -23,7 +22,6 @@ bvarf.tracker.sh
 canardscitrons.nohost.me
 ch3oh.ru
 concen.org
-d13bttrck.duckdns.org
 d40969.acod.regrucolo.ru
 discord.heihachi.pw
 evan.im
@@ -59,7 +57,6 @@ retracker.lanta.me
 retracker.spark-rostov.ru
 retracker01-msk-virt.corbina.net
 run.publictracker.xyz
-ryjer.com
 saltwood.top
 seeders-paradise.org
 seedpeer.net
@@ -76,18 +73,18 @@ torrents.artixlinux.org
 tr.kxmp.cf
 tr.nyacat.pw
 tr1.aag.moe
+tr4ck3r.duckdns.org
 trackarr.org
 tracker-udp.gbitt.info
 tracker-zhuqiy.dgj055.icu
 tracker.0x7c0.com
-tracker.auctor.tv
 tracker.bittor.pw
 tracker.bt-hash.com
 tracker.bt4g.com
 tracker.bz
-tracker.ccp.ovh
 tracker.cloudit.top
 tracker.corpscorp.online
+tracker.darkness.services
 tracker.ddunlimited.net
 tracker.deadorbit.nl
 tracker.dler.com
@@ -102,6 +99,7 @@ tracker.gigantino.net
 tracker.gmi.gd
 tracker.ipfsscan.io
 tracker.ipv6tracker.org
+tracker.itscraftsoftware.my.id
 tracker.jamesthebard.net
 tracker.leechshield.link
 tracker.lilithraws.org
@@ -115,6 +113,7 @@ tracker.pmman.tech
 tracker.qu.ax
 tracker.renfei.net
 tracker.sbsub.com
+tracker.skynetcloud.site
 tracker.srv00.com
 tracker.tamersunion.org
 tracker.theoks.net
