@@ -1,14 +1,13 @@
 ! Title: Tracker Domain List
 ! Description: List of domains from tracker URLs.
 ! Source: https://github.com/ngosang/trackerslist
-! Last modified: 2024-11-09 00:10:23
+! Last modified: 2024-11-16 00:11:21
 #
 # Domains of tracker services:
 #
 0123456789nonexistent.com
 0d.kebhana.mx
 1337.abcvg.info
-1c.premierzal.ru
 aegir.sexy
 amigacity.xyz
 api.ipv4online.uk
@@ -19,11 +18,9 @@ bt.poletracker.org
 bt1.xxxxbt.cc
 buny.uk
 bvarf.tracker.sh
-canardscitrons.nohost.me
 ch3oh.ru
 concen.org
 d40969.acod.regrucolo.ru
-discord.heihachi.pw
 evan.im
 exodus.desync.com
 explodie.org
@@ -32,24 +29,18 @@ fleira.no
 ftp.pet
 highteahop.top
 home.yxgz.club
-ipv4.rer.lol
-isk.richardsw.club
 ismaarino.com
 jutone.com
 leet-tracker.moe
 martin-gebhardt.eu
-moonburrow.club
-ns-1.x-fins.com
 odd-hd.fr
 open.acgtracker.com
 open.demonii.com
-open.dstud.io
 open.free-tracker.ga
 open.stealth.si
 open.tracker.cl
 open.trackerlist.xyz
 opentracker.io
-p2p.azu.red
 p2p.publictracker.xyz
 p4p.arenabg.com
 public.tracker.vraphim.com
@@ -69,9 +60,9 @@ sparkle.ghostchu-services.top
 t.jaekr.sh
 t.overflow.biz
 taciturn-shadow.spb.ru
-torrents.artixlinux.org
 tr.kxmp.cf
 tr.nyacat.pw
+tr.zukizuki.org
 tr1.aag.moe
 tr4ck3r.duckdns.org
 trackarr.org
@@ -85,7 +76,6 @@ tracker.bz
 tracker.cloudit.top
 tracker.corpscorp.online
 tracker.darkness.services
-tracker.ddunlimited.net
 tracker.deadorbit.nl
 tracker.dler.com
 tracker.dler.org
@@ -106,7 +96,6 @@ tracker.lilithraws.org
 tracker.lintk.me
 tracker.moxing.party
 tracker.mywaifu.best
-tracker.ololosh.space
 tracker.opentrackr.org
 tracker.peckservers.com
 tracker.pmman.tech
@@ -127,7 +116,6 @@ tracker.xiaoduola.xyz
 tracker.yemekyedim.com
 tracker1.bt.moack.co.kr
 tracker1.itzmx.com
-tracker1.myporn.club
 tracker2.dler.org
 tracker3.itzmx.com
 tracker4.itzmx.com
@@ -138,4 +126,5 @@ wepzone.net
 www.genesis-sp.org
 www.peckservers.com
 www.torrentsnipe.info
+yahor.of.by
 z.mercax.com

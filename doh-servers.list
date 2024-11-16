@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2024-11-09 00:10:22
+! Last modified: 2024-11-16 00:11:20
 #
 # Domains of DoH services:
 #
@@ -38,6 +38,7 @@ adguard.meddy94.de
 adguard.neon0404.space
 adguard.senthil.us
 adguard.shoupperuser.com
+adguard.taxiora.tn
 adl.adfilter.net
 ae-fuj-w-p-1.nashkan.net
 ae-fuj-w-p-2.nashkan.net
@@ -53,7 +54,6 @@ all.dns.mullvad.net
 ams01.dnscry.pt
 ant.dns.qwer.pw
 antivirus.bebasid.com
-antstars.win
 anycast.dns.nextdns.io
 anycast.uncensoreddns.org
 aqua.is.my.waifu.cz
@@ -72,7 +72,10 @@ bazooki-infra.dev
 bestwon203.com
 blitz.ahadns.com
 blocker.thethorsens.org
+bne01.dnscry.pt
+bog01.dnscry.pt
 bom01.dnscry.pt
+bru01.dnscry.pt
 bts01.dnscry.pt
 ca01.dns4me.net
 ca02.dns4me.net
@@ -108,11 +111,9 @@ dns.arapurayil.com
 dns.arkbotech.com
 dns.artikel10.org
 dns.asterimoon.com
-dns.b612.me
-dns.b72.com
+dns.asysec.com
 dns.bebasid.com
 dns.belnet.be
-dns.bermeitinger.eu
 dns.bitdefender.net
 dns.bitservices.io
 dns.blaumer.dev
@@ -125,7 +126,6 @@ dns.brembeck.cloud
 dns.burgas.pro
 dns.busold.ws
 dns.cabbage.zone
-dns.cahlen.com
 dns.carter.me
 dns.caspervk.net
 dns.cctld.kg
@@ -136,7 +136,6 @@ dns.christerwaren.fi
 dns.chriswservers.com
 dns.cloudflare.com
 dns.comff.net
-dns.comss.one
 dns.controld.com
 dns.criena.net
 dns.crystalyx.net
@@ -151,12 +150,10 @@ dns.datenquark.de
 dns.deadsec.net
 dns.decky.eu
 dns.decloudus.com
-dns.delpirou.fr
 dns.dev-umbrellagov.com
 dns.diarbagus.id
 dns.digitale-gesellschaft.ch
 dns.digitalsize.net
-dns.dns-53.com
 dns.dns-53.us
 dns.dnshome.de
 dns.dnswarden.com
@@ -191,11 +188,9 @@ dns.inforlogia.com
 dns.ishan.pw
 dns.jhangy.us
 dns.jupitrdns.com
-dns.k3nny.fr
 dns.kapite.in
 dns.karadag.me
 dns.kastner-online.de
-dns.kawa.tf
 dns.kebree.fr
 dns.kerekes.xyz
 dns.kernel-error.de
@@ -220,13 +215,13 @@ dns.mateo.ovh
 dns.mayx.eu.org
 dns.mbrjun.cn
 dns.mh4ckt3mh4ckt1c4s.xyz
+dns.michelo.cl
 dns.mnet-online.de
 dns.momou.ch
 dns.mullvad.net
 dns.mzjtechnology.com
 dns.nako.kr
 dns.neeb.it
-dns.netraptor.com.au
 dns.netvpn.net
 dns.nextdns.io
 dns.nhtsky.com
@@ -235,14 +230,14 @@ dns.ningkelle.id
 dns.njal.la
 dns.novali.date
 dns.novg.net
-dns.numerus.com
 dns.odinpl.com
 dns.ofdoom.net
 dns.oliviertv.co.za
 dns.oszx.co
-dns.ourvau.lt
 dns.paesa.es
 dns.pari.network
+dns.peb-schmidt.de
+dns.petqa.ru
 dns.phillipjberry.net
 dns.pragmasec.nl
 dns.propheci.xyz
@@ -254,12 +249,11 @@ dns.rabbitdns.org
 dns.rbn.gr
 dns.reckoningslug.name
 dns.redhosting.com.ar
-dns.redvau.lt
 dns.reitmeier.me
 dns.retakecs.com
 dns.roedel.cloud
+dns.salonia.it
 dns.sarilouis.com
-dns.sec511.com
 dns.seia.io
 dns.seiffert.me
 dns.sev.monster
@@ -278,6 +272,7 @@ dns.stirringphoto.com
 dns.stormycloud.org
 dns.suhaila.dev
 dns.superstefan.win
+dns.surobe.com
 dns.sv-zauner.at
 dns.svoi.dev
 dns.switch.ch
@@ -293,19 +288,20 @@ dns.tls-data.de
 dns.twnic.tw
 dns.unx.io
 dns.vaioswolke.xyz
-dns.vault81.de
 dns.vojtat.cz
 dns.w3ctag.org
 dns.wang.art
 dns.xlion.tw
 dns.xuming.studio
 dns.yague.me
+dns.yuu-g.net
 dns0.eu
 dns1.dns-ga.de
 dns1.dnscrypt.ca
 dns1.in-berlin.de
 dns1.nordvpn.com
 dns1.pietjacobs.be
+dns1.serdcebolit.ru
 dns10.quad9.net
 dns11.quad9.net
 dns12.quad9.net
@@ -349,6 +345,7 @@ doh.excdn.eu.org
 doh.familyshield.opendns.com
 doh.ffmuc.net
 doh.futa.gg
+doh.hajekj.net
 doh.immerda.ch
 doh.iucc.ac.il
 doh.kel.pe
@@ -381,8 +378,8 @@ dus01.dnscry.pt
 eliatofani.ovh
 eu.tri-dns.net
 eu1.dns.lavate.ch
+evn01.dnscry.pt
 extended.dns.mullvad.net
-eyg01.dnscry.pt
 family.5ososea.com
 family.adguard-dns.com
 family.canadianshield.cira.ca
@@ -410,13 +407,14 @@ geg01.dnscry.pt
 gibblets.top
 glacius.top
 goose.buckyfan.net
+greatideasforlife.lol
 gru01.dnscry.pt
 gva01.dnscry.pt
+haf01.dnscry.pt
 han01.dnscry.pt
 hard.dnsforge.de
 hel01.dnscry.pt
 helios.plan9-dns.com
-hfgx.shop
 home-server.store
 home.wriedts.de
 hrk01.dnscry.pt
@@ -428,6 +426,7 @@ ikarosalpha.xyz
 imperio.top
 india.privacy-dns.pw
 internetsehat.bebasid.com
+isb01.dnscry.pt
 ist01.dnscry.pt
 jhb01.dnscry.pt
 jkt01.dnscry.pt
@@ -435,6 +434,7 @@ jp.tiar.app
 jp.tiarap.org
 jp01.dns4me.net
 kaitain.restena.lu
+kavkaz.monster
 kids.5ososea.com
 kids.dns0.eu
 kiri.nonexiste.net
@@ -447,8 +447,10 @@ las-vegas.privacy-dns.pw
 las01.dnscry.pt
 lewsha.lol
 lim01.dnscry.pt
+lim02.dnscry.pt
 lindung.pp.ua
 lion.dns.qwer.pw
+lis01.dnscry.pt
 loadlow.me
 lon01.dnscry.pt
 lukscasino-479-tr.xyz
@@ -456,6 +458,19 @@ lukscasino-542-tr.xyz
 lukscasino-929-tr.xyz
 luna-is.so-gorgeo.us.kg
 luxembourg.privacy-dns.pw
+mabuktogel.builders
+mabuktogel.business
+mabuktogel.cards
+mabuktogel.creditcard
+mabuktogel.degree
+mabuktogel.directory
+mabuktogel.enterprises
+mabuktogel.immobilien
+mabuktogel.limited
+mabuktogel.ltd
+mabuktogel.marketing
+mabuktogel.properties
+mabuktogel.solutions
 mad01.dnscry.pt
 maqgie.xyz
 masters-of-cloud.de
@@ -463,6 +478,7 @@ mc-sft.cn
 mecca-is.so-gorgeo.us.kg
 megumin.is.my.waifu.cz
 mendozasdelivery.com
+mickedi.isgood.host
 mikezhang.xyz
 mil01.dnscry.pt
 miniapp.global
@@ -480,7 +496,6 @@ newd.rezyro.com
 nicsezcheckfbi.gov
 nightlymoon.us.kg
 nindy-is.so-gorgeo.us.kg
-nl-dro-w-f-1.nashkan.net
 nl.dns.privex.io
 nora-is.so-gorgeo.us.kg
 nova-is.so-gorgeo.us.kg
@@ -495,7 +510,6 @@ ns0.fdn.fr
 ns1.fdn.fr
 ns1.opennameserver.org
 ns2.4netguides.org
-ns2.opennameserver.org
 ns2.wuyouss.com
 ns3.com
 ns3.cx
@@ -504,10 +518,10 @@ ns3.opennameserver.org
 ns3.wuyouss.com
 nsec.arnor.org
 nue01.dnscry.pt
-nue2.moderateinfra.net
 nz01.dns4me.net
 obscuro.top
 odvr.nic.cz
+okado.online
 omr01.dnscry.pt
 open.dns0.eu
 openbld.net
@@ -529,7 +543,6 @@ pm9352-bd.xyz
 polisitogel.accountant
 polisitogel.beauty
 polisitogel.builders
-polisitogel.construction
 polisitogel.contractors
 polisitogel.cruises
 polisitogel.diy
@@ -538,7 +551,6 @@ polisitogel.hair
 polisitogel.limo
 polisitogel.living
 polisitogel.luxe
-polisitogel.properties
 polisitogel.show
 polisitogel.webcam
 pooblet.co.za
@@ -583,6 +595,7 @@ sg01.dns4me.net
 sgn01.dnscry.pt
 sin02.dnscry.pt
 sin03.dnscry.pt
+sitha-is.so-gorgeo.us.kg
 sjc01.dnscry.pt
 sky.rethinkdns.com
 slc01.dnscry.pt
@@ -596,11 +609,14 @@ sweden.privacy-dns.pw
 switzerland.privacy-dns.pw
 syd.adfilter.net
 syd01.dnscry.pt
+syd02.dnscry.pt
+tbs01.dnscry.pt
 tecdrive.site
 testaghome.meshkov.info
 tetty-is.so-gorgeo.us.kg
 tiger.dns.qwer.pw
 tll01.dnscry.pt
+tlv01.dnscry.pt
 tor.vasi.li
 tpa01.dnscry.pt
 trf01.dnscry.pt
@@ -627,7 +643,7 @@ us-saj-w-p-1.nashkan.net
 us01.dns4me.net
 us02.dns4me.net
 us1.blissdns.net
-venum.space
+v.qdev.cc
 vie01.dnscry.pt
 virga.pp.ua
 vno01.dnscry.pt
