@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2024-11-16 00:11:20
+! Last modified: 2024-11-23 00:11:51
 #
 # Full URLs of DoH services:
 #
@@ -39,7 +39,6 @@ https://adguard.meddy94.de/dns-query
 https://adguard.neon0404.space/dns-query
 https://adguard.senthil.us/dns-query
 https://adguard.shoupperuser.com/dns-query
-https://adguard.taxiora.tn/dns-query
 https://adl.adfilter.net/dns-query
 https://ae-fuj-w-p-1.nashkan.net/dns-query
 https://ae-fuj-w-p-2.nashkan.net/dns-query
@@ -107,6 +106,7 @@ https://dns.0rz.ing/dns-query
 https://dns.0x55.net/dns-query
 https://dns.52306.org/dns-query
 https://dns.688447.xyz/dns-query
+https://dns.853852.xyz/dns-query
 https://dns.9999.sg/dns-query
 https://dns.a47.me/dns-query
 https://dns.aa.net.uk/dns-query
@@ -176,7 +176,6 @@ https://dns.faked.org/dns-query
 https://dns.fancyorg.at/dns-query
 https://dns.farshidhakimy.de/dns-query
 https://dns.fehlsprache.de/dns-query
-https://dns.ffnw.de/dns-query
 https://dns.floriantinney.de/dns-query
 https://dns.flymc.cc/dns-query
 https://dns.froth.zone/dns-query
@@ -267,7 +266,6 @@ https://dns.redhosting.com.ar/dns-query
 https://dns.reitmeier.me/dns-query
 https://dns.retakecs.com/dns-query
 https://dns.roedel.cloud/dns-query
-https://dns.salonia.it/dns-query
 https://dns.sarilouis.com/dns-query
 https://dns.seia.io/dns-query
 https://dns.seiffert.me/dns-query
@@ -500,7 +498,6 @@ https://lukscasino-542-tr.xyz/dns-query
 https://lukscasino-929-tr.xyz/dns-query
 https://luna-is.so-gorgeo.us.kg/dns-query
 https://luxembourg.privacy-dns.pw/dns-query
-https://mabuktogel.builders/dns-query
 https://mabuktogel.business/dns-query
 https://mabuktogel.cards/dns-query
 https://mabuktogel.creditcard/dns-query

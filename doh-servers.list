@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2024-11-16 00:11:20
+! Last modified: 2024-11-23 00:11:51
 #
 # Domains of DoH services:
 #
@@ -38,7 +38,6 @@ adguard.meddy94.de
 adguard.neon0404.space
 adguard.senthil.us
 adguard.shoupperuser.com
-adguard.taxiora.tn
 adl.adfilter.net
 ae-fuj-w-p-1.nashkan.net
 ae-fuj-w-p-2.nashkan.net
@@ -100,6 +99,7 @@ dns.0rz.ing
 dns.0x55.net
 dns.52306.org
 dns.688447.xyz
+dns.853852.xyz
 dns.9999.sg
 dns.a47.me
 dns.aa.net.uk
@@ -165,7 +165,6 @@ dns.faked.org
 dns.fancyorg.at
 dns.farshidhakimy.de
 dns.fehlsprache.de
-dns.ffnw.de
 dns.floriantinney.de
 dns.flymc.cc
 dns.froth.zone
@@ -252,7 +251,6 @@ dns.redhosting.com.ar
 dns.reitmeier.me
 dns.retakecs.com
 dns.roedel.cloud
-dns.salonia.it
 dns.sarilouis.com
 dns.seia.io
 dns.seiffert.me
@@ -458,7 +456,6 @@ lukscasino-542-tr.xyz
 lukscasino-929-tr.xyz
 luna-is.so-gorgeo.us.kg
 luxembourg.privacy-dns.pw
-mabuktogel.builders
 mabuktogel.business
 mabuktogel.cards
 mabuktogel.creditcard
