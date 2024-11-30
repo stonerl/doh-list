@@ -1,7 +1,7 @@
 ! Title: Tracker Domain List
 ! Description: List of domains from tracker URLs.
 ! Source: https://github.com/ngosang/trackerslist
-! Last modified: 2024-11-23 00:11:52
+! Last modified: 2024-11-30 00:11:20
 #
 # Domains of tracker services:
 #
@@ -12,6 +12,7 @@ amigacity.xyz
 api.ipv4online.uk
 bandito.byterunner.io
 bittorrent-tracker.e-n-c-r-y-p-t.net
+bt.ktrackers.com
 bt.poletracker.org
 bt.rer.lol
 bt1.xxxxbt.cc
@@ -28,13 +29,13 @@ fleira.no
 highteahop.top
 home.yxgz.club
 ipv4.rer.lol
-isk.richardsw.club
 ismaarino.com
 jutone.com
 martin-gebhardt.eu
 ns-1.x-fins.com
 odd-hd.fr
 open.acgtracker.com
+open.demonii.com
 open.dstud.io
 open.stealth.si
 open.tracker.cl
@@ -46,7 +47,6 @@ public.tracker.vraphim.com
 retracker.lanta.me
 retracker.spark-rostov.ru
 retracker01-msk-virt.corbina.net
-run.publictracker.xyz
 saltwood.top
 seeders-paradise.org
 seedpeer.net
@@ -54,7 +54,6 @@ serpb.vpsburti.com
 servandroidkino.ru
 share.hkg-fansub.info
 shubt.net
-smurfsoft.com
 sparkle.ghostchu-services.top
 t.jaekr.sh
 t.overflow.biz
@@ -65,6 +64,7 @@ tr.zukizuki.org
 tr1.aag.moe
 tr4ck3r.duckdns.org
 trackarr.org
+tracker-udp.gbitt.info
 tracker-zhuqiy.dgj055.icu
 tracker.0x7c0.com
 tracker.bittor.pw
@@ -78,6 +78,7 @@ tracker.deadorbit.nl
 tracker.dler.com
 tracker.dler.org
 tracker.dmcomic.org
+tracker.dump.cl
 tracker.edkj.club
 tracker.filemail.com
 tracker.fnix.net
@@ -103,12 +104,13 @@ tracker.tamersunion.org
 tracker.theoks.net
 tracker.tiny-vps.com
 tracker.torrent.eu.org
+tracker.torrust-demo.com
 tracker.tryhackx.org
 tracker.vanitycore.co
+tracker.vds.nz
 tracker.waaa.moe
 tracker.xiaoduola.xyz
 tracker.yemekyedim.com
-tracker1.bt.moack.co.kr
 tracker1.itzmx.com
 tracker1.myporn.club
 tracker2.dler.org
@@ -119,5 +121,4 @@ ttk2.nbaonlineservice.com
 wepzone.net
 www.genesis-sp.org
 www.torrentsnipe.info
-yahor.of.by
 z.mercax.com
