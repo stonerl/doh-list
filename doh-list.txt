@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2024-11-30 00:11:19
+! Last modified: 2024-12-07 00:11:32
 #
 # Full URLs of DoH services:
 #
@@ -84,7 +84,6 @@ https://bts01.dnscry.pt/dns-query
 https://ca01.dns4me.net
 https://ca02.dns4me.net
 https://clean.dnsforge.de/dns-query
-https://cloudbenders.fun/dns-query
 https://cloudflare-dns.com/dns-query
 https://common.dot.dns.yandex.net/dns-query
 https://cph01.dnscry.pt/dns-query
@@ -103,7 +102,6 @@ https://dns-2.wil.cloud/dns-query
 https://dns-doh.dnsforfamily.com/dns-query
 https://dns.0ooo.icu/dns-query
 https://dns.0rz.ing/dns-query
-https://dns.0x55.net/dns-query
 https://dns.52306.org/dns-query
 https://dns.688447.xyz/dns-query
 https://dns.853852.xyz/dns-query
@@ -126,7 +124,6 @@ https://dns.bebasid.com/unfiltered
 https://dns.belnet.be/dns-query
 https://dns.bitdefender.net/dns-query
 https://dns.bitservices.io/dns-query
-https://dns.blaumer.dev/dns-query
 https://dns.blokada.org/dns-query
 https://dns.bmwhocking.com/dns-query
 https://dns.braene.com/dns-query
@@ -162,7 +159,6 @@ https://dns.deadsec.net/dns-query
 https://dns.decky.eu/dns-query
 https://dns.decloudus.com/dns-query
 https://dns.dev-umbrellagov.com/dns-query
-https://dns.diarbagus.id/dns-query
 https://dns.digitale-gesellschaft.ch/dns-query
 https://dns.digitalsize.net/dns-query
 https://dns.dns-53.us/dns-query
@@ -250,7 +246,6 @@ https://dns.paesa.es/dns-query
 https://dns.pari.network/dns-query
 https://dns.peb-schmidt.de/dns-query
 https://dns.petqa.ru/dns-query
-https://dns.phillipjberry.net/dns-query
 https://dns.pragmasec.nl/dns-query
 https://dns.propheci.xyz/dns-query
 https://dns.pub/dns-query
@@ -301,7 +296,6 @@ https://dns.vojtat.cz/dns-query
 https://dns.w3ctag.org/dns-query
 https://dns.wang.art/dns-query
 https://dns.xlion.tw/dns-query
-https://dns.yague.me/dns-query
 https://dns.yuu-g.net/dns-query
 https://dns0.eu
 https://dns1.dns-ga.de/dns-query
@@ -354,7 +348,6 @@ https://doh.excdn.eu.org
 https://doh.familyshield.opendns.com/dns-query
 https://doh.ffmuc.net/dns-query
 https://doh.futa.gg/dns-query
-https://doh.hajekj.net/dns-query
 https://doh.immerda.ch/dns-query
 https://doh.iucc.ac.il/dns-query
 https://doh.kel.pe
@@ -431,7 +424,6 @@ https://freedns.controld.com/x-oisd-basic
 https://freedns.controld.com/x-stevenblack
 https://freedom.mydns.network/dns-query
 https://frog.dns.qwer.pw/dns-query
-https://gb-lon-w-f-1.nashkan.net/dns-query
 https://gb-lon-w-p-2.nashkan.net/dns-query
 https://geg01.dnscry.pt/dns-query
 https://gibblets.top/dns-query
@@ -463,7 +455,6 @@ https://jp.tiar.app/dns-query
 https://jp.tiarap.org/dns-query
 https://jp01.dns4me.net
 https://kaitain.restena.lu/dns-query
-https://kavkaz.monster/dns-query
 https://ke-03060-tr.xyz/dns-query
 https://kf-49509-tr.xyz/dns-query
 https://kids.5ososea.com/dns-query
@@ -484,13 +475,10 @@ https://lis01.dnscry.pt/dns-query
 https://loadlow.me/dns-query
 https://lon01.dnscry.pt/dns-query
 https://lukscasino-479-tr.xyz/dns-query
-https://lukscasino-542-tr.xyz/dns-query
 https://lukscasino-929-tr.xyz/dns-query
 https://luna-is.so-gorgeo.us.kg/dns-query
 https://luxembourg.privacy-dns.pw/dns-query
-https://mabuktogel.cards/dns-query
 https://mabuktogel.creditcard/dns-query
-https://mabuktogel.degree/dns-query
 https://mabuktogel.directory/dns-query
 https://mabuktogel.enterprises/dns-query
 https://mabuktogel.immobilien/dns-query
@@ -502,7 +490,6 @@ https://mabuktogel.solutions/dns-query
 https://mad01.dnscry.pt/dns-query
 https://maqgie.xyz/dns-query
 https://masters-of-cloud.de/dns-query
-https://mc-sft.cn/dns-query
 https://mecca-is.so-gorgeo.us.kg/dns-query
 https://megumin.is.my.waifu.cz/dns-query
 https://mendozasdelivery.com/dns-query
@@ -514,8 +501,6 @@ https://mnrv.trade/dns-query
 https://mozilla.cloudflare-dns.com/dns-query
 https://multi.dns.marbledfennec.net/dns-query
 https://myatris.sbs/dns-query
-https://myrra-is.so-gorgeo.us.kg/dns-query
-https://n0.eu/dns-query
 https://nana-is.so-gorgeo.us.kg/dns-query
 https://netcup.mismat.ch/dns-query
 https://newd.rezyro.com/dns-query
@@ -524,7 +509,6 @@ https://nightlymoon.us.kg/dns-query
 https://nightlymoon.us.kg/family
 https://nindy-is.so-gorgeo.us.kg/dns-query
 https://nl.dns.privex.io
-https://nora-is.so-gorgeo.us.kg/dns-query
 https://nova-is.so-gorgeo.us.kg/dns-query
 https://ns.00dani.me/dns-query
 https://ns.data.haus/dns-query
@@ -539,9 +523,6 @@ https://ns1.fdn.fr/dns-query
 https://ns1.opennameserver.org/dns-query
 https://ns2.4netguides.org/dns-query
 https://ns2.wuyouss.com/dns-query
-https://ns3.com/dns-query
-https://ns3.cx/dns-query
-https://ns3.link/dns-query
 https://ns3.opennameserver.org/dns-query
 https://ns3.wuyouss.com/dns-query
 https://nsec.arnor.org/dns-query
@@ -570,10 +551,8 @@ https://pluton.plan9-dns.com/dns-query
 https://pm1239-bd.xyz/dns-query
 https://pm7051-br.xyz/dns-query
 https://pm9352-bd.xyz/dns-query
-https://polisitogel.contractors/dns-query
 https://polisitogel.cruises/dns-query
 https://polisitogel.diy/dns-query
-https://polisitogel.green/dns-query
 https://polisitogel.hair/dns-query
 https://polisitogel.limo/dns-query
 https://polisitogel.living/dns-query
@@ -586,7 +565,6 @@ https://privacy.plumedns.com/dns-query
 https://private.canadianshield.cira.ca/dns-query
 https://protected.canadianshield.cira.ca/dns-query
 https://public.dns.iij.jp/dns-query
-https://qdns02.nymterm.com/dns-query
 https://qlf-doh.inria.fr/dns-query
 https://rdd01.dnscry.pt/dns-query
 https://regiopolis.cloud/dns-query
@@ -648,6 +626,7 @@ https://tiger.dns.qwer.pw/dns-query
 https://tll01.dnscry.pt/dns-query
 https://tlv01.dnscry.pt/dns-query
 https://tor.vasi.li/dns-query
+https://toropyzhka.xyz/dns-query
 https://tpa01.dnscry.pt/dns-query
 https://trf01.dnscry.pt/dns-query
 https://tri-dns.net/dns-query
@@ -660,8 +639,6 @@ https://unfiltered.adguard-dns.com/dns-query
 https://united-arab-emirates.privacy-dns.pw/dns-query
 https://us-chi-w-f-1.nashkan.net/dns-query
 https://us-chi-w-p-1.nashkan.net/dns-query
-https://us-hil-w-f-1.nashkan.net/dns-query
-https://us-hil-w-p-1.nashkan.net/dns-query
 https://us-jac-w-f-1.nashkan.net/dns-query
 https://us-jac-w-p-1.nashkan.net/dns-query
 https://us-kan-w-f-1.nashkan.net/dns-query
@@ -692,3 +669,4 @@ https://zakaria.website/dns-query
 https://zdn.ro/dns-query
 https://zero.dns0.eu
 https://zero.dns0.eu/
+https://zneginnl.website/dns-query
