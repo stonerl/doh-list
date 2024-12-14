@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2024-12-07 00:11:32
+! Last modified: 2024-12-14 00:11:23
 #
 # Domains of DoH services:
 #
@@ -83,7 +83,6 @@ common.dot.dns.yandex.net
 cph01.dnscry.pt
 cvt01.dnscry.pt
 d.niaox.com
-da-91614-tr.xyz
 darkness.is.my.waifu.cz
 dart.kpsn.org
 de-fra-w-p-1.nashkan.net
@@ -120,6 +119,7 @@ dns.braene.com
 dns.brahma.world
 dns.bravoc.one
 dns.brembeck.cloud
+dns.brono.cloud
 dns.burgas.pro
 dns.busold.ws
 dns.cabbage.zone
@@ -179,7 +179,6 @@ dns.inclusioproject.com
 dns.indybanipal.com
 dns.inforlogia.com
 dns.ishan.pw
-dns.jhangy.us
 dns.jupitrdns.com
 dns.kapite.in
 dns.karadag.me
@@ -196,7 +195,6 @@ dns.kuuhaku.moe
 dns.l337.site
 dns.lars-lehmann.net
 dns.lepilleur.com
-dns.lermer.nl
 dns.levonet.sk
 dns.liberador.net
 dns.lihj.me
@@ -262,7 +260,6 @@ dns.stirringphoto.com
 dns.stormycloud.org
 dns.suhaila.dev
 dns.superstefan.win
-dns.sv-zauner.at
 dns.svoi.dev
 dns.switch.ch
 dns.sy.st
@@ -298,7 +295,6 @@ dns2.nordvpn.com
 dns3.dns-ga.de
 dns64.cloudflare-dns.com
 dns64.dns.google
-dnscrypt.xyz
 dnsforge.de
 dnslow.me
 dnspub.restena.lu
@@ -375,7 +371,6 @@ family.dot.dns.yandex.net
 family.mydns.network
 family.rabbitdns.org
 farewellkou.click
-fi-hel-w-f-2.nashkan.net
 fidelius.top
 fjr01.dnscry.pt
 fr-gra-w-f-1.nashkan.net
@@ -451,7 +446,6 @@ masters-of-cloud.de
 mecca-is.so-gorgeo.us.kg
 megumin.is.my.waifu.cz
 mendozasdelivery.com
-mickedi.isgood.host
 mikezhang.xyz
 mil01.dnscry.pt
 mita-is.so-gorgeo.us.kg
@@ -486,7 +480,6 @@ nue01.dnscry.pt
 nz01.dns4me.net
 obscuro.top
 odvr.nic.cz
-okado.online
 omr01.dnscry.pt
 open.dns0.eu
 openbld.net
@@ -505,7 +498,6 @@ pluton.plan9-dns.com
 pm1239-bd.xyz
 pm7051-br.xyz
 pm9352-bd.xyz
-polisitogel.cruises
 polisitogel.diy
 polisitogel.hair
 polisitogel.limo
@@ -611,7 +603,6 @@ wikimedia-dns.org
 xbcpb668.com
 xn--durhre-yxa.de
 yarp.lefolgoc.net
-your-dns.run
 yunyun.is.my.waifu.cz
 yussy-is.so-gorgeo.us.kg
 yvr01.dnscry.pt

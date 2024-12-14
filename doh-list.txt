@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2024-12-07 00:11:32
+! Last modified: 2024-12-14 00:11:23
 #
 # Full URLs of DoH services:
 #
@@ -89,7 +89,6 @@ https://common.dot.dns.yandex.net/dns-query
 https://cph01.dnscry.pt/dns-query
 https://cvt01.dnscry.pt/dns-query
 https://d.niaox.com/dns-query
-https://da-91614-tr.xyz/dns-query
 https://dandelionsprout.asuscomm.com:2501/dns-query
 https://darkness.is.my.waifu.cz/dns-query
 https://dart.kpsn.org/dns-query
@@ -130,6 +129,7 @@ https://dns.braene.com/dns-query
 https://dns.brahma.world/dns-query
 https://dns.bravoc.one/dns-query
 https://dns.brembeck.cloud/dns-query
+https://dns.brono.cloud/dns-query
 https://dns.burgas.pro/dns-query
 https://dns.busold.ws/dns-query
 https://dns.cabbage.zone/dns-query
@@ -191,7 +191,6 @@ https://dns.inclusioproject.com/dns-query
 https://dns.indybanipal.com/dns-query
 https://dns.inforlogia.com/dns-query
 https://dns.ishan.pw/dns-query
-https://dns.jhangy.us/dns-query
 https://dns.jupitrdns.com/dns-query
 https://dns.kapite.in/dns-query
 https://dns.karadag.me/dns-query
@@ -208,7 +207,6 @@ https://dns.kuuhaku.moe/dns-query
 https://dns.l337.site/dns-query
 https://dns.lars-lehmann.net/dns-query
 https://dns.lepilleur.com/dns-query
-https://dns.lermer.nl/dns-query
 https://dns.levonet.sk/dns-query
 https://dns.liberador.net
 https://dns.lihj.me/dns-query
@@ -277,7 +275,6 @@ https://dns.stirringphoto.com/dns-query
 https://dns.stormycloud.org/dns-query
 https://dns.suhaila.dev/dns-query
 https://dns.superstefan.win/dns-query
-https://dns.sv-zauner.at/dns-query
 https://dns.svoi.dev/dns-query
 https://dns.switch.ch/dns-query
 https://dns.sy.st/dns-query
@@ -313,7 +310,6 @@ https://dns2.nordvpn.com/dns-query
 https://dns3.dns-ga.de/dns-query
 https://dns64.cloudflare-dns.com/dns-query
 https://dns64.dns.google/dns-query
-https://dnscrypt.xyz/dns-query
 https://dnsforge.de/dns-query
 https://dnslow.me/dns-query
 https://dnspub.restena.lu/dns-query
@@ -394,7 +390,6 @@ https://family.dot.dns.yandex.net/dns-query
 https://family.mydns.network/dns-query
 https://family.rabbitdns.org/dns-query
 https://farewellkou.click/dns-query
-https://fi-hel-w-f-2.nashkan.net/dns-query
 https://fidelius.top/dns-query
 https://fjr01.dnscry.pt/dns-query
 https://fr-gra-w-f-1.nashkan.net/dns-query
@@ -493,7 +488,6 @@ https://masters-of-cloud.de/dns-query
 https://mecca-is.so-gorgeo.us.kg/dns-query
 https://megumin.is.my.waifu.cz/dns-query
 https://mendozasdelivery.com/dns-query
-https://mickedi.isgood.host/dns-query
 https://mikezhang.xyz/dns-query
 https://mil01.dnscry.pt/dns-query
 https://mita-is.so-gorgeo.us.kg/dns-query
@@ -531,7 +525,6 @@ https://nz01.dns4me.net
 https://obscuro.top/dns-query
 https://odvr.nic.cz/dns-query
 https://odvr.nic.cz/doh
-https://okado.online/dns-query
 https://omr01.dnscry.pt/dns-query
 https://open.dns0.eu
 https://openbld.net/
@@ -551,7 +544,6 @@ https://pluton.plan9-dns.com/dns-query
 https://pm1239-bd.xyz/dns-query
 https://pm7051-br.xyz/dns-query
 https://pm9352-bd.xyz/dns-query
-https://polisitogel.cruises/dns-query
 https://polisitogel.diy/dns-query
 https://polisitogel.hair/dns-query
 https://polisitogel.limo/dns-query
@@ -660,7 +652,6 @@ https://wikimedia-dns.org/dns-query
 https://xbcpb668.com/dns-query
 https://xn--durhre-yxa.de/dns-query
 https://yarp.lefolgoc.net/dns-query
-https://your-dns.run/dns-query
 https://yunyun.is.my.waifu.cz/dns-query
 https://yussy-is.so-gorgeo.us.kg/dns-query
 https://yvr01.dnscry.pt/dns-query
