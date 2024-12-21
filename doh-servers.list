@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2024-12-14 00:11:23
+! Last modified: 2024-12-21 00:10:32
 #
 # Domains of DoH services:
 #
@@ -31,8 +31,9 @@ adg.khon.dev
 adguard-kartoffel.zernico.de
 adguard.bonis.de
 adguard.dantynes.cyou
-adguard.easez.net
 adguard.frutuozo.com.br
+adguard.hjebbour.top
+adguard.kasbot.net
 adguard.konikoni428.com
 adguard.meddy94.de
 adguard.senthil.us
@@ -122,6 +123,7 @@ dns.brembeck.cloud
 dns.brono.cloud
 dns.burgas.pro
 dns.busold.ws
+dns.butterfly87.sbs
 dns.cabbage.zone
 dns.carter.me
 dns.caspervk.net
@@ -131,6 +133,7 @@ dns.cfiec.net
 dns.chenu.ch
 dns.christerwaren.fi
 dns.chriswservers.com
+dns.chunghwamc.com
 dns.cloudflare.com
 dns.comff.net
 dns.controld.com
@@ -144,6 +147,7 @@ dns.cynthialabs.net
 dns.d94.xyz
 dns.d96.info
 dns.datenquark.de
+dns.de.futuredns.eu.org
 dns.deadsec.net
 dns.decky.eu
 dns.decloudus.com
@@ -153,6 +157,7 @@ dns.digitalsize.net
 dns.dns-53.us
 dns.dnshome.de
 dns.dnswarden.com
+dns.dremaxx.de
 dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
@@ -169,7 +174,6 @@ dns.girino.org
 dns.glf.wtf
 dns.google
 dns.guard.io
-dns.gutwe.in
 dns.haka.se
 dns.henek.ovh
 dns.hoody.com
@@ -189,8 +193,6 @@ dns.kernel-error.de
 dns.kescher.at
 dns.koala.us.to
 dns.kosan.moe
-dns.kukal.cz
-dns.kumoumi.net
 dns.kuuhaku.moe
 dns.l337.site
 dns.lars-lehmann.net
@@ -268,11 +270,13 @@ dns.t53.de
 dns.technologycage.com
 dns.telekom.de
 dns.thebuckners.org
+dns.thiz.top
 dns.tierradeayala.com
 dns.tipsy.coffee
 dns.tls-data.de
 dns.twnic.tw
 dns.unx.io
+dns.us.futuredns.eu.org
 dns.vaioswolke.xyz
 dns.vojtat.cz
 dns.w3ctag.org
@@ -353,6 +357,7 @@ doh.viatech.com.tw
 doh.zknt.org
 doh1.b-cdn.net
 doth.huque.com
+droyd.top
 dub01.dnscry.pt
 dukun.de
 dus01.dnscry.pt
@@ -403,24 +408,19 @@ india.privacy-dns.pw
 internetsehat.bebasid.com
 isb01.dnscry.pt
 ist01.dnscry.pt
-jhb01.dnscry.pt
-jkt01.dnscry.pt
 jp.tiar.app
 jp.tiarap.org
 jp01.dns4me.net
 kaitain.restena.lu
-ke-03060-tr.xyz
 kf-49509-tr.xyz
 kids.5ososea.com
 kids.dns0.eu
 kiri.nonexiste.net
 kiv01.dnscry.pt
 kronos.plan9-dns.com
-las-vegas.privacy-dns.pw
 las01.dnscry.pt
 lewsha.lol
 lifeisa.live
-lim01.dnscry.pt
 lim02.dnscry.pt
 lindung.pp.ua
 lion.dns.qwer.pw
@@ -430,10 +430,7 @@ lon01.dnscry.pt
 lukscasino-479-tr.xyz
 lukscasino-929-tr.xyz
 luna-is.so-gorgeo.us.kg
-luxembourg.privacy-dns.pw
-mabuktogel.creditcard
 mabuktogel.directory
-mabuktogel.enterprises
 mabuktogel.immobilien
 mabuktogel.limited
 mabuktogel.ltd
@@ -441,6 +438,7 @@ mabuktogel.marketing
 mabuktogel.properties
 mabuktogel.solutions
 mad01.dnscry.pt
+man01.dnscry.pt
 maqgie.xyz
 masters-of-cloud.de
 mecca-is.so-gorgeo.us.kg
@@ -450,6 +448,7 @@ mikezhang.xyz
 mil01.dnscry.pt
 mita-is.so-gorgeo.us.kg
 mnrv.trade
+moamao.shop
 mozilla.cloudflare-dns.com
 multi.dns.marbledfennec.net
 myatris.sbs
@@ -463,7 +462,6 @@ nl.dns.privex.io
 nova-is.so-gorgeo.us.kg
 ns.00dani.me
 ns.data.haus
-ns.nerdytechgeeks.co.za
 ns.net.kg
 ns.nwps.fi
 ns.ral9005.org
@@ -476,6 +474,7 @@ ns2.wuyouss.com
 ns3.opennameserver.org
 ns3.wuyouss.com
 nsec.arnor.org
+ntwrkh.pro
 nue01.dnscry.pt
 nz01.dns4me.net
 obscuro.top
@@ -490,6 +489,7 @@ paranoia.mydns.network
 pashagame456.com
 paulo.nom.za
 pdx01.dnscry.pt
+pepetio.xyz
 per.adfilter.net
 phl01.dnscry.pt
 phx01.dnscry.pt
@@ -515,7 +515,6 @@ qlf-doh.inria.fr
 rdd01.dnscry.pt
 regiopolis.cloud
 renardbleu.dev
-resolv.flokinet.net
 resolv1.trash.net
 resolv2.trash.net
 resolv3.trash.net
@@ -528,7 +527,6 @@ revelio.top
 rfree1.blue-shield.at
 rfree2.blue-shield.at
 ric.openbld.net
-ro-buc-w-f-1.nashkan.net
 ro-buc-w-p-1.nashkan.net
 rockwell.website
 romania.privacy-dns.pw
@@ -552,6 +550,7 @@ sitha-is.so-gorgeo.us.kg
 sjc01.dnscry.pt
 sky.rethinkdns.com
 slc01.dnscry.pt
+sm2.doh.pub
 sof01.dnscry.pt
 squidmall.vip
 sto01.dnscry.pt
@@ -603,11 +602,14 @@ wikimedia-dns.org
 xbcpb668.com
 xn--durhre-yxa.de
 yarp.lefolgoc.net
+yhz01.dnscry.pt
 yunyun.is.my.waifu.cz
 yussy-is.so-gorgeo.us.kg
 yvr01.dnscry.pt
+yyc01.dnscry.pt
 yyz01.dnscry.pt
 zakaria.website
 zdn.ro
 zero.dns0.eu
+znegindeh2.top
 zneginnl.website
