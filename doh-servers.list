@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2024-12-21 00:10:32
+! Last modified: 2024-12-28 00:10:38
 #
 # Domains of DoH services:
 #
@@ -12,7 +12,6 @@
 123000123.xyz
 3dcosas.xyz
 3dns.eu
-75747123.xyz
 8888.google
 abel.waringer-atg.de
 abn01.dnscry.pt
@@ -83,7 +82,6 @@ cloudflare-dns.com
 common.dot.dns.yandex.net
 cph01.dnscry.pt
 cvt01.dnscry.pt
-d.niaox.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 de-fra-w-p-1.nashkan.net
@@ -94,10 +92,12 @@ dns-1.wil.cloud
 dns-2.wil.cloud
 dns-doh.dnsforfamily.com
 dns.0ooo.icu
-dns.0rz.ing
+dns.444723.xyz
 dns.52306.org
 dns.688447.xyz
+dns.775467.xyz
 dns.853852.xyz
+dns.8887744.xyz
 dns.9999.sg
 dns.a47.me
 dns.aa.net.uk
@@ -264,7 +264,6 @@ dns.suhaila.dev
 dns.superstefan.win
 dns.svoi.dev
 dns.switch.ch
-dns.sy.st
 dns.szpadel.ovh
 dns.t53.de
 dns.technologycage.com
@@ -285,7 +284,6 @@ dns.xlion.tw
 dns.yuu-g.net
 dns0.eu
 dns1.dns-ga.de
-dns1.dnscrypt.ca
 dns1.in-berlin.de
 dns1.nordvpn.com
 dns1.pietjacobs.be
@@ -299,6 +297,7 @@ dns2.nordvpn.com
 dns3.dns-ga.de
 dns64.cloudflare-dns.com
 dns64.dns.google
+dns9.quad9.net
 dnsforge.de
 dnslow.me
 dnspub.restena.lu
@@ -313,11 +312,13 @@ doh-de.blahdns.com
 doh-own-recursion.nicolas-dorriere.fr
 doh-random-upstream.nicolas-dorriere.fr
 doh.360.cn
+doh.774445.xyz
 doh.aaaab3n.moe
 doh.angry.im
 doh.apad.pro
 doh.applied-privacy.net
 doh.archuser.org
+doh.battle.christmas
 doh.beauty
 doh.buzz
 doh.cippapp.com
@@ -398,13 +399,11 @@ helios.plan9-dns.com
 home-server.store
 home.wriedts.de
 hrk01.dnscry.pt
-hungary.privacy-dns.pw
 ibksturm.synology.me
 ibuki.cgnat.net
 ie01.dns4me.net
 ikarosalpha.xyz
 imperio.top
-india.privacy-dns.pw
 internetsehat.bebasid.com
 isb01.dnscry.pt
 ist01.dnscry.pt
@@ -429,9 +428,7 @@ loadlow.me
 lon01.dnscry.pt
 lukscasino-479-tr.xyz
 lukscasino-929-tr.xyz
-luna-is.so-gorgeo.us.kg
 mabuktogel.directory
-mabuktogel.immobilien
 mabuktogel.limited
 mabuktogel.ltd
 mabuktogel.marketing
@@ -441,25 +438,19 @@ mad01.dnscry.pt
 man01.dnscry.pt
 maqgie.xyz
 masters-of-cloud.de
-mecca-is.so-gorgeo.us.kg
 megumin.is.my.waifu.cz
 mendozasdelivery.com
 mikezhang.xyz
 mil01.dnscry.pt
-mita-is.so-gorgeo.us.kg
 mnrv.trade
 moamao.shop
 mozilla.cloudflare-dns.com
 multi.dns.marbledfennec.net
 myatris.sbs
-nana-is.so-gorgeo.us.kg
 netcup.mismat.ch
 newd.rezyro.com
 nicsezcheckfbi.gov
-nightlymoon.us.kg
-nindy-is.so-gorgeo.us.kg
 nl.dns.privex.io
-nova-is.so-gorgeo.us.kg
 ns.00dani.me
 ns.data.haus
 ns.net.kg
@@ -471,7 +462,6 @@ ns1.fdn.fr
 ns1.opennameserver.org
 ns2.4netguides.org
 ns2.wuyouss.com
-ns3.opennameserver.org
 ns3.wuyouss.com
 nsec.arnor.org
 ntwrkh.pro
@@ -503,6 +493,7 @@ polisitogel.hair
 polisitogel.limo
 polisitogel.living
 polisitogel.luxe
+polisitogel.realty
 polisitogel.show
 polisitogel.webcam
 pooblet.co.za
@@ -529,7 +520,6 @@ rfree2.blue-shield.at
 ric.openbld.net
 ro-buc-w-p-1.nashkan.net
 rockwell.website
-romania.privacy-dns.pw
 rx.techomespace.com
 sa01.dns4me.net
 safe.dot.dns.yandex.net
@@ -546,25 +536,22 @@ sg01.dns4me.net
 sgn01.dnscry.pt
 sin02.dnscry.pt
 sin03.dnscry.pt
-sitha-is.so-gorgeo.us.kg
 sjc01.dnscry.pt
 sky.rethinkdns.com
 slc01.dnscry.pt
 sm2.doh.pub
 sof01.dnscry.pt
+solaxy.live
 squidmall.vip
 sto01.dnscry.pt
 sundalandia.pp.ua
 sunnygyl.com
-sweden.privacy-dns.pw
-switzerland.privacy-dns.pw
 syd.adfilter.net
 syd01.dnscry.pt
 syd02.dnscry.pt
 tbs01.dnscry.pt
 tecdrive.site
 testaghome.meshkov.info
-tetty-is.so-gorgeo.us.kg
 tiger.dns.qwer.pw
 tll01.dnscry.pt
 tlv01.dnscry.pt
@@ -579,7 +566,6 @@ tuskythehusky.tech
 tyo02.dnscry.pt
 uk01.dns4me.net
 unfiltered.adguard-dns.com
-united-arab-emirates.privacy-dns.pw
 us-chi-w-f-1.nashkan.net
 us-chi-w-p-1.nashkan.net
 us-jac-w-f-1.nashkan.net
@@ -604,7 +590,6 @@ xn--durhre-yxa.de
 yarp.lefolgoc.net
 yhz01.dnscry.pt
 yunyun.is.my.waifu.cz
-yussy-is.so-gorgeo.us.kg
 yvr01.dnscry.pt
 yyc01.dnscry.pt
 yyz01.dnscry.pt

@@ -1,14 +1,13 @@
 ! Title: Tracker Domain List
 ! Description: List of domains from tracker URLs.
 ! Source: https://github.com/ngosang/trackerslist
-! Last modified: 2024-12-21 00:10:33
+! Last modified: 2024-12-28 00:10:39
 #
 # Domains of tracker services:
 #
 0123456789nonexistent.com
 0d.kebhana.mx
 1337.abcvg.info
-amigacity.xyz
 api.ipv4online.uk
 bandito.byterunner.io
 bittorrent-tracker.e-n-c-r-y-p-t.net
@@ -20,20 +19,18 @@ buny.uk
 ch3oh.ru
 concen.org
 d40969.acod.regrucolo.ru
-discord.heihachi.pw
 evan.im
 exodus.desync.com
 explodie.org
 finbytes.org
-freedomalternative.com
 highteahop.top
 home.yxgz.club
 ipv4.rer.lol
 ipv4announce.sktorrent.eu
-ismaarino.com
-jutone.com
+isk.richardsw.club
 leet-tracker.moe
 martin-gebhardt.eu
+ns-1.x-fins.com
 odd-hd.fr
 open.acgtracker.com
 open.demonii.com
@@ -85,6 +82,7 @@ tracker.gigantino.net
 tracker.gmi.gd
 tracker.ipfsscan.io
 tracker.ipv6tracker.org
+tracker.itscraftsoftware.my.id
 tracker.leechshield.link
 tracker.lilithraws.org
 tracker.lintk.me
@@ -92,11 +90,13 @@ tracker.moxing.party
 tracker.mywaifu.best
 tracker.ololosh.space
 tracker.opentrackr.org
+tracker.pmman.tech
 tracker.qu.ax
 tracker.renfei.net
 tracker.sbsub.com
 tracker.skynetcloud.site
 tracker.srv00.com
+tracker.theoks.net
 tracker.tiny-vps.com
 tracker.torrent.eu.org
 tracker.torrust-demo.com
