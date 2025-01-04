@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2024-12-28 00:10:38
+! Last modified: 2025-01-04 00:10:29
 #
 # Domains of DoH services:
 #
@@ -64,6 +64,7 @@ au-syd-w-f-1.nashkan.net
 au01.dns4me.net
 au02.dns4me.net
 awan.ftp.sh
+bakamh.news
 base.dns.mullvad.net
 basic.rethinkdns.com
 bazooki-infra.dev
@@ -231,7 +232,6 @@ dns.paesa.es
 dns.pari.network
 dns.peb-schmidt.de
 dns.petqa.ru
-dns.pragmasec.nl
 dns.propheci.xyz
 dns.pub
 dns.pumplex.com
@@ -418,7 +418,6 @@ kiri.nonexiste.net
 kiv01.dnscry.pt
 kronos.plan9-dns.com
 las01.dnscry.pt
-lewsha.lol
 lifeisa.live
 lim02.dnscry.pt
 lindung.pp.ua
@@ -428,8 +427,8 @@ loadlow.me
 lon01.dnscry.pt
 lukscasino-479-tr.xyz
 lukscasino-929-tr.xyz
+luna-is.so-gorgeo.us.kg
 mabuktogel.directory
-mabuktogel.limited
 mabuktogel.ltd
 mabuktogel.marketing
 mabuktogel.properties
@@ -438,19 +437,25 @@ mad01.dnscry.pt
 man01.dnscry.pt
 maqgie.xyz
 masters-of-cloud.de
+mecca-is.so-gorgeo.us.kg
 megumin.is.my.waifu.cz
 mendozasdelivery.com
 mikezhang.xyz
 mil01.dnscry.pt
+mita-is.so-gorgeo.us.kg
 mnrv.trade
 moamao.shop
 mozilla.cloudflare-dns.com
-multi.dns.marbledfennec.net
 myatris.sbs
+nana-is.so-gorgeo.us.kg
+nekosama.store
 netcup.mismat.ch
 newd.rezyro.com
 nicsezcheckfbi.gov
+nightlymoon.us.kg
+nindy-is.so-gorgeo.us.kg
 nl.dns.privex.io
+nova-is.so-gorgeo.us.kg
 ns.00dani.me
 ns.data.haus
 ns.net.kg
@@ -536,6 +541,7 @@ sg01.dns4me.net
 sgn01.dnscry.pt
 sin02.dnscry.pt
 sin03.dnscry.pt
+sitha-is.so-gorgeo.us.kg
 sjc01.dnscry.pt
 sky.rethinkdns.com
 slc01.dnscry.pt
@@ -552,6 +558,7 @@ syd02.dnscry.pt
 tbs01.dnscry.pt
 tecdrive.site
 testaghome.meshkov.info
+tetty-is.so-gorgeo.us.kg
 tiger.dns.qwer.pw
 tll01.dnscry.pt
 tlv01.dnscry.pt
@@ -590,6 +597,7 @@ xn--durhre-yxa.de
 yarp.lefolgoc.net
 yhz01.dnscry.pt
 yunyun.is.my.waifu.cz
+yussy-is.so-gorgeo.us.kg
 yvr01.dnscry.pt
 yyc01.dnscry.pt
 yyz01.dnscry.pt
@@ -597,4 +605,3 @@ zakaria.website
 zdn.ro
 zero.dns0.eu
 znegindeh2.top
-zneginnl.website

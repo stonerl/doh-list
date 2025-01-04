@@ -1,7 +1,7 @@
 ! Title: Tracker Domain List
 ! Description: List of domains from tracker URLs.
 ! Source: https://github.com/ngosang/trackerslist
-! Last modified: 2024-12-28 00:10:39
+! Last modified: 2025-01-04 00:10:29
 #
 # Domains of tracker services:
 #
@@ -19,6 +19,7 @@ buny.uk
 ch3oh.ru
 concen.org
 d40969.acod.regrucolo.ru
+discord.heihachi.pw
 evan.im
 exodus.desync.com
 explodie.org
@@ -27,7 +28,7 @@ highteahop.top
 home.yxgz.club
 ipv4.rer.lol
 ipv4announce.sktorrent.eu
-isk.richardsw.club
+ismaarino.com
 leet-tracker.moe
 martin-gebhardt.eu
 ns-1.x-fins.com
@@ -37,6 +38,7 @@ open.demonii.com
 open.dstud.io
 open.free-tracker.ga
 open.stealth.si
+open.tracker.ink
 open.trackerlist.xyz
 opentracker.io
 p2p.publictracker.xyz
@@ -59,7 +61,6 @@ tr.zukizuki.org
 tr1.aag.moe
 tr4ck3r.duckdns.org
 trackarr.org
-tracker-udp.gbitt.info
 tracker-zhuqiy.dgj055.icu
 tracker.0x7c0.com
 tracker.bittor.pw
@@ -73,14 +74,12 @@ tracker.deadorbit.nl
 tracker.dler.com
 tracker.dler.org
 tracker.dmcomic.org
-tracker.dump.cl
 tracker.edkj.club
 tracker.filemail.com
 tracker.fnix.net
 tracker.gcrenwp.top
 tracker.gigantino.net
 tracker.gmi.gd
-tracker.ipfsscan.io
 tracker.ipv6tracker.org
 tracker.itscraftsoftware.my.id
 tracker.leechshield.link
@@ -115,4 +114,3 @@ ttk2.nbaonlineservice.com
 wepzone.net
 www.genesis-sp.org
 www.torrentsnipe.info
-z.mercax.com

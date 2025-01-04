@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2024-12-28 00:10:38
+! Last modified: 2025-01-04 00:10:29
 #
 # Full URLs of DoH services:
 #
@@ -69,6 +69,7 @@ https://awan.ftp.sh/dns-query
 https://awan.ftp.sh/no-vice
 https://awan.ftp.sh/noporn-cl
 https://awan.ftp.sh/unblocked
+https://bakamh.news/dns-query
 https://base.dns.mullvad.net/dns-query
 https://basic.rethinkdns.com/
 https://bazooki-infra.dev/dns-query
@@ -246,7 +247,6 @@ https://dns.paesa.es/dns-query
 https://dns.pari.network/dns-query
 https://dns.peb-schmidt.de/dns-query
 https://dns.petqa.ru/dns-query
-https://dns.pragmasec.nl/dns-query
 https://dns.propheci.xyz/dns-query
 https://dns.pub/dns-query
 https://dns.pumplex.com/dns-query
@@ -460,7 +460,6 @@ https://kiri.nonexiste.net/dns-query
 https://kiv01.dnscry.pt/dns-query
 https://kronos.plan9-dns.com/dns-query
 https://las01.dnscry.pt/dns-query
-https://lewsha.lol/dns-query
 https://lifeisa.live/dns-query
 https://lim02.dnscry.pt/dns-query
 https://lindung.pp.ua/dns-query
@@ -471,8 +470,8 @@ https://loadlow.me/dns-query
 https://lon01.dnscry.pt/dns-query
 https://lukscasino-479-tr.xyz/dns-query
 https://lukscasino-929-tr.xyz/dns-query
+https://luna-is.so-gorgeo.us.kg/dns-query
 https://mabuktogel.directory/dns-query
-https://mabuktogel.limited/dns-query
 https://mabuktogel.ltd/dns-query
 https://mabuktogel.marketing/dns-query
 https://mabuktogel.properties/dns-query
@@ -481,19 +480,26 @@ https://mad01.dnscry.pt/dns-query
 https://man01.dnscry.pt/dns-query
 https://maqgie.xyz/dns-query
 https://masters-of-cloud.de/dns-query
+https://mecca-is.so-gorgeo.us.kg/dns-query
 https://megumin.is.my.waifu.cz/dns-query
 https://mendozasdelivery.com/dns-query
 https://mikezhang.xyz/dns-query
 https://mil01.dnscry.pt/dns-query
+https://mita-is.so-gorgeo.us.kg/dns-query
 https://mnrv.trade/dns-query
 https://moamao.shop/dns-query
 https://mozilla.cloudflare-dns.com/dns-query
-https://multi.dns.marbledfennec.net/dns-query
 https://myatris.sbs/dns-query
+https://nana-is.so-gorgeo.us.kg/dns-query
+https://nekosama.store/dns-query
 https://netcup.mismat.ch/dns-query
 https://newd.rezyro.com/dns-query
 https://nicsezcheckfbi.gov
+https://nightlymoon.us.kg/dns-query
+https://nightlymoon.us.kg/family
+https://nindy-is.so-gorgeo.us.kg/dns-query
 https://nl.dns.privex.io
+https://nova-is.so-gorgeo.us.kg/dns-query
 https://ns.00dani.me/dns-query
 https://ns.data.haus/dns-query
 https://ns.net.kg/dns-query
@@ -582,6 +588,7 @@ https://sg01.dns4me.net
 https://sgn01.dnscry.pt/dns-query
 https://sin02.dnscry.pt/dns-query
 https://sin03.dnscry.pt/dns-query
+https://sitha-is.so-gorgeo.us.kg/dns-query
 https://sjc01.dnscry.pt/dns-query
 https://sky.rethinkdns.com/1:IAAgAA==
 https://sky.rethinkdns.com/dns-query
@@ -600,6 +607,7 @@ https://syd02.dnscry.pt/dns-query
 https://tbs01.dnscry.pt/dns-query
 https://tecdrive.site/dns-query
 https://testaghome.meshkov.info/dns-query
+https://tetty-is.so-gorgeo.us.kg/dns-query
 https://tiger.dns.qwer.pw/dns-query
 https://tll01.dnscry.pt/dns-query
 https://tlv01.dnscry.pt/dns-query
@@ -639,6 +647,7 @@ https://xn--durhre-yxa.de/dns-query
 https://yarp.lefolgoc.net/dns-query
 https://yhz01.dnscry.pt/dns-query
 https://yunyun.is.my.waifu.cz/dns-query
+https://yussy-is.so-gorgeo.us.kg/dns-query
 https://yvr01.dnscry.pt/dns-query
 https://yyc01.dnscry.pt/dns-query
 https://yyz01.dnscry.pt/dns-query
@@ -647,4 +656,3 @@ https://zdn.ro/dns-query
 https://zero.dns0.eu
 https://zero.dns0.eu/
 https://znegindeh2.top/dns-query
-https://zneginnl.website/dns-query
