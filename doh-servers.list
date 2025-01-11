@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2025-01-04 00:10:29
+! Last modified: 2025-01-11 00:10:45
 #
 # Domains of DoH services:
 #
@@ -33,7 +33,6 @@ adguard.dantynes.cyou
 adguard.frutuozo.com.br
 adguard.hjebbour.top
 adguard.kasbot.net
-adguard.konikoni428.com
 adguard.meddy94.de
 adguard.senthil.us
 adguard.shoupperuser.com
@@ -56,6 +55,7 @@ anycast.dns.nextdns.io
 anycast.uncensoreddns.org
 aqua.is.my.waifu.cz
 arashi.net.eu.org
+asia.tri-dns.net
 at-wie-w-p-1.nashkan.net
 ath01.dnscry.pt
 atl01.dnscry.pt
@@ -119,7 +119,6 @@ dns.blokada.org
 dns.bmwhocking.com
 dns.braene.com
 dns.brahma.world
-dns.bravoc.one
 dns.brembeck.cloud
 dns.brono.cloud
 dns.burgas.pro
@@ -200,7 +199,6 @@ dns.lars-lehmann.net
 dns.lepilleur.com
 dns.levonet.sk
 dns.liberador.net
-dns.lihj.me
 dns.lobbygod.com
 dns.luma-medien.com
 dns.marasov.id
@@ -222,7 +220,6 @@ dns.nhtsky.com
 dns.nick-slowinski.de
 dns.ningkelle.id
 dns.njal.la
-dns.novali.date
 dns.novg.net
 dns.odinpl.com
 dns.ofdoom.net
@@ -244,11 +241,8 @@ dns.redhosting.com.ar
 dns.reitmeier.me
 dns.retakecs.com
 dns.roedel.cloud
-dns.sarilouis.com
 dns.seia.io
-dns.seiffert.me
 dns.sev.monster
-dns.shareworx.net
 dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
@@ -277,6 +271,7 @@ dns.twnic.tw
 dns.unx.io
 dns.us.futuredns.eu.org
 dns.vaioswolke.xyz
+dns.vod11.xyz
 dns.vojtat.cz
 dns.w3ctag.org
 dns.wang.art
@@ -350,6 +345,7 @@ doh.opendns.com
 doh.qis.io
 doh.sandbox.opendns.com
 doh.sb
+doh.sublime9.xyz
 doh.sunoaki.net
 doh.tiar.app
 doh.tiarap.org
@@ -411,9 +407,9 @@ jp.tiar.app
 jp.tiarap.org
 jp01.dns4me.net
 kaitain.restena.lu
-kf-49509-tr.xyz
 kids.5ososea.com
 kids.dns0.eu
+kids.ns.nwps.fi
 kiri.nonexiste.net
 kiv01.dnscry.pt
 kronos.plan9-dns.com
@@ -459,7 +455,6 @@ nova-is.so-gorgeo.us.kg
 ns.00dani.me
 ns.data.haus
 ns.net.kg
-ns.nwps.fi
 ns.ral9005.org
 ns.trcnet.fi
 ns0.fdn.fr
@@ -493,7 +488,6 @@ pluton.plan9-dns.com
 pm1239-bd.xyz
 pm7051-br.xyz
 pm9352-bd.xyz
-polisitogel.diy
 polisitogel.hair
 polisitogel.limo
 polisitogel.living
@@ -507,6 +501,7 @@ privacy.plumedns.com
 private.canadianshield.cira.ca
 protected.canadianshield.cira.ca
 public.dns.iij.jp
+public.ns.nwps.fi
 qlf-doh.inria.fr
 rdd01.dnscry.pt
 regiopolis.cloud
@@ -557,6 +552,7 @@ syd01.dnscry.pt
 syd02.dnscry.pt
 tbs01.dnscry.pt
 tecdrive.site
+tensents.shop
 testaghome.meshkov.info
 tetty-is.so-gorgeo.us.kg
 tiger.dns.qwer.pw
@@ -604,4 +600,3 @@ yyz01.dnscry.pt
 zakaria.website
 zdn.ro
 zero.dns0.eu
-znegindeh2.top

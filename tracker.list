@@ -1,7 +1,7 @@
 ! Title: Tracker Domain List
 ! Description: List of domains from tracker URLs.
 ! Source: https://github.com/ngosang/trackerslist
-! Last modified: 2025-01-04 00:10:29
+! Last modified: 2025-01-11 00:10:46
 #
 # Domains of tracker services:
 #
@@ -19,7 +19,6 @@ buny.uk
 ch3oh.ru
 concen.org
 d40969.acod.regrucolo.ru
-discord.heihachi.pw
 evan.im
 exodus.desync.com
 explodie.org
@@ -28,6 +27,7 @@ highteahop.top
 home.yxgz.club
 ipv4.rer.lol
 ipv4announce.sktorrent.eu
+isk.richardsw.club
 ismaarino.com
 leet-tracker.moe
 martin-gebhardt.eu
@@ -36,8 +36,8 @@ odd-hd.fr
 open.acgtracker.com
 open.demonii.com
 open.dstud.io
-open.free-tracker.ga
 open.stealth.si
+open.tracker.cl
 open.tracker.ink
 open.trackerlist.xyz
 opentracker.io
@@ -46,6 +46,7 @@ p4p.arenabg.com
 public.tracker.vraphim.com
 retracker.lanta.me
 retracker.spark-rostov.ru
+rfc5746.mywaifu.best
 seeders-paradise.org
 seedpeer.net
 serpb.vpsburti.com
@@ -60,7 +61,7 @@ tr.nyacat.pw
 tr.zukizuki.org
 tr1.aag.moe
 tr4ck3r.duckdns.org
-trackarr.org
+tracker-udp.gbitt.info
 tracker-zhuqiy.dgj055.icu
 tracker.0x7c0.com
 tracker.bittor.pw
@@ -74,7 +75,6 @@ tracker.deadorbit.nl
 tracker.dler.com
 tracker.dler.org
 tracker.dmcomic.org
-tracker.edkj.club
 tracker.filemail.com
 tracker.fnix.net
 tracker.gcrenwp.top
@@ -95,7 +95,6 @@ tracker.renfei.net
 tracker.sbsub.com
 tracker.skynetcloud.site
 tracker.srv00.com
-tracker.theoks.net
 tracker.tiny-vps.com
 tracker.torrent.eu.org
 tracker.torrust-demo.com

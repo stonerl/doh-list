@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2025-01-04 00:10:29
+! Last modified: 2025-01-11 00:10:45
 #
 # Full URLs of DoH services:
 #
@@ -34,7 +34,6 @@ https://adguard.dantynes.cyou/dns-query
 https://adguard.frutuozo.com.br/dns-query
 https://adguard.hjebbour.top/dns-query
 https://adguard.kasbot.net/dns-query
-https://adguard.konikoni428.com/dns-query
 https://adguard.meddy94.de/dns-query
 https://adguard.senthil.us/dns-query
 https://adguard.shoupperuser.com/dns-query
@@ -58,6 +57,7 @@ https://anycast.dns.nextdns.io/dns-query
 https://anycast.uncensoreddns.org/dns-query
 https://aqua.is.my.waifu.cz/dns-query
 https://arashi.net.eu.org/dns-query
+https://asia.tri-dns.net/dns-query
 https://at-wie-w-p-1.nashkan.net/dns-query
 https://ath01.dnscry.pt/dns-query
 https://atl01.dnscry.pt/dns-query
@@ -129,7 +129,6 @@ https://dns.blokada.org/dns-query
 https://dns.bmwhocking.com/dns-query
 https://dns.braene.com/dns-query
 https://dns.brahma.world/dns-query
-https://dns.bravoc.one/dns-query
 https://dns.brembeck.cloud/dns-query
 https://dns.brono.cloud/dns-query
 https://dns.burgas.pro/dns-query
@@ -212,7 +211,6 @@ https://dns.lars-lehmann.net/dns-query
 https://dns.lepilleur.com/dns-query
 https://dns.levonet.sk/dns-query
 https://dns.liberador.net
-https://dns.lihj.me/dns-query
 https://dns.lobbygod.com/dns-query
 https://dns.luma-medien.com/dns-query
 https://dns.marasov.id/dns-query
@@ -237,7 +235,6 @@ https://dns.nhtsky.com/dns-query
 https://dns.nick-slowinski.de/dns-query
 https://dns.ningkelle.id/dns-query
 https://dns.njal.la/dns-query
-https://dns.novali.date/dns-query
 https://dns.novg.net/dns-query
 https://dns.odinpl.com/dns-query
 https://dns.ofdoom.net/dns-query
@@ -259,11 +256,8 @@ https://dns.redhosting.com.ar/dns-query
 https://dns.reitmeier.me/dns-query
 https://dns.retakecs.com/dns-query
 https://dns.roedel.cloud/dns-query
-https://dns.sarilouis.com/dns-query
 https://dns.seia.io/dns-query
-https://dns.seiffert.me/dns-query
 https://dns.sev.monster/dns-query
-https://dns.shareworx.net/dns-query
 https://dns.sheggi.ch/dns-query
 https://dns.shimul.me/dns-query
 https://dns.silen.org/dns-query
@@ -293,6 +287,7 @@ https://dns.twnic.tw/dns-query
 https://dns.unx.io/dns-query
 https://dns.us.futuredns.eu.org/dns-query/
 https://dns.vaioswolke.xyz/dns-query
+https://dns.vod11.xyz/dns-query
 https://dns.vojtat.cz/dns-query
 https://dns.w3ctag.org/dns-query
 https://dns.wang.art/dns-query
@@ -370,6 +365,7 @@ https://doh.opendns.com/dns-query
 https://doh.qis.io/dns-query
 https://doh.sandbox.opendns.com/dns-query
 https://doh.sb/dns-query
+https://doh.sublime9.xyz/dns-query
 https://doh.sunoaki.net/dns-query
 https://doh.tiar.app/dns-query
 https://doh.tiarap.org/dns-query
@@ -453,9 +449,9 @@ https://jp.tiar.app/dns-query
 https://jp.tiarap.org/dns-query
 https://jp01.dns4me.net
 https://kaitain.restena.lu/dns-query
-https://kf-49509-tr.xyz/dns-query
 https://kids.5ososea.com/dns-query
 https://kids.dns0.eu
+https://kids.ns.nwps.fi/dns-query
 https://kiri.nonexiste.net/dns-query
 https://kiv01.dnscry.pt/dns-query
 https://kronos.plan9-dns.com/dns-query
@@ -503,8 +499,6 @@ https://nova-is.so-gorgeo.us.kg/dns-query
 https://ns.00dani.me/dns-query
 https://ns.data.haus/dns-query
 https://ns.net.kg/dns-query
-https://ns.nwps.fi/dns-query/family
-https://ns.nwps.fi/dns-query/public
 https://ns.ral9005.org/dns-query
 https://ns.trcnet.fi/dns-query
 https://ns0.fdn.fr/dns-query
@@ -540,7 +534,6 @@ https://pluton.plan9-dns.com/dns-query
 https://pm1239-bd.xyz/dns-query
 https://pm7051-br.xyz/dns-query
 https://pm9352-bd.xyz/dns-query
-https://polisitogel.diy/dns-query
 https://polisitogel.hair/dns-query
 https://polisitogel.limo/dns-query
 https://polisitogel.living/dns-query
@@ -554,6 +547,7 @@ https://privacy.plumedns.com/dns-query
 https://private.canadianshield.cira.ca/dns-query
 https://protected.canadianshield.cira.ca/dns-query
 https://public.dns.iij.jp/dns-query
+https://public.ns.nwps.fi/dns-query
 https://qlf-doh.inria.fr/dns-query
 https://rdd01.dnscry.pt/dns-query
 https://regiopolis.cloud/dns-query
@@ -606,6 +600,7 @@ https://syd01.dnscry.pt/dns-query
 https://syd02.dnscry.pt/dns-query
 https://tbs01.dnscry.pt/dns-query
 https://tecdrive.site/dns-query
+https://tensents.shop/dns-query
 https://testaghome.meshkov.info/dns-query
 https://tetty-is.so-gorgeo.us.kg/dns-query
 https://tiger.dns.qwer.pw/dns-query
@@ -655,4 +650,3 @@ https://zakaria.website/dns-query
 https://zdn.ro/dns-query
 https://zero.dns0.eu
 https://zero.dns0.eu/
-https://znegindeh2.top/dns-query
