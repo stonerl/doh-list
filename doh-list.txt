@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2025-01-11 00:10:45
+! Last modified: 2025-01-18 00:10:09
 #
 # Full URLs of DoH services:
 #
@@ -16,7 +16,6 @@ https://3dns.eu/dns-query
 https://8888.google/dns-query
 https://abel.waringer-atg.de/dns-query
 https://abn01.dnscry.pt/dns-query
-https://ad.anym0re.ru/dns-query
 https://ad.justincounts.com/dns-query
 https://ada.openbld.net/dns-query
 https://adb.timnichollsphotography.com/dns-query
@@ -47,7 +46,6 @@ https://africadns1.liquidtelecom.net/dns-query
 https://africadns2.liquidtelecom.net/dns-query
 https://ag.apollohct.com/dns-query
 https://agh.dshubham.xyz/dns-query
-https://ahoj.email/dns-query
 https://all.dns.mullvad.net/dns-query
 https://ams01.dnscry.pt/dns-query
 https://ant.dns.qwer.pw/dns-query
@@ -93,11 +91,8 @@ https://dandelionsprout.asuscomm.com:2501/dns-query
 https://darkness.is.my.waifu.cz/dns-query
 https://dart.kpsn.org/dns-query
 https://de-fra-w-p-1.nashkan.net/dns-query
-https://de-fsn-w-p-1.nashkan.net/dns-query
 https://de01.dns4me.net
 https://deep-henchman-excuse.cfd/dns-query
-https://dns-1.wil.cloud/dns-query
-https://dns-2.wil.cloud/dns-query
 https://dns-doh.dnsforfamily.com/dns-query
 https://dns.0ooo.icu/dns-query
 https://dns.444723.xyz/dns-query
@@ -285,6 +280,7 @@ https://dns.tipsy.coffee/dns-query
 https://dns.tls-data.de/dns-query
 https://dns.twnic.tw/dns-query
 https://dns.unx.io/dns-query
+https://dns.us.futuredns.eu.org/dns-query
 https://dns.us.futuredns.eu.org/dns-query/
 https://dns.vaioswolke.xyz/dns-query
 https://dns.vod11.xyz/dns-query
@@ -468,7 +464,6 @@ https://lukscasino-479-tr.xyz/dns-query
 https://lukscasino-929-tr.xyz/dns-query
 https://luna-is.so-gorgeo.us.kg/dns-query
 https://mabuktogel.directory/dns-query
-https://mabuktogel.ltd/dns-query
 https://mabuktogel.marketing/dns-query
 https://mabuktogel.properties/dns-query
 https://mabuktogel.solutions/dns-query
@@ -521,6 +516,7 @@ https://ord01.dnscry.pt/dns-query
 https://ordns.he.net
 https://ordns.he.net/dns-query
 https://par01.dnscry.pt/dns-query
+https://paradise-human.shop/dns-query
 https://paranoia.mydns.network/dns-query
 https://pashagame456.com/dns-query
 https://paulo.nom.za/dns-query

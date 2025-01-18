@@ -1,17 +1,17 @@
 ! Title: Tracker Domain List
 ! Description: List of domains from tracker URLs.
 ! Source: https://github.com/ngosang/trackerslist
-! Last modified: 2025-01-11 00:10:46
+! Last modified: 2025-01-18 00:10:10
 #
 # Domains of tracker services:
 #
 0123456789nonexistent.com
 0d.kebhana.mx
 1337.abcvg.info
+6ahddutb1ucc3cp.ru
 api.ipv4online.uk
 bandito.byterunner.io
 bittorrent-tracker.e-n-c-r-y-p-t.net
-bt.ktrackers.com
 bt.poletracker.org
 bt.rer.lol
 bt1.xxxxbt.cc
@@ -23,6 +23,7 @@ evan.im
 exodus.desync.com
 explodie.org
 finbytes.org
+fleira.no
 highteahop.top
 home.yxgz.club
 ipv4.rer.lol
@@ -32,10 +33,10 @@ ismaarino.com
 leet-tracker.moe
 martin-gebhardt.eu
 ns-1.x-fins.com
-odd-hd.fr
 open.acgtracker.com
 open.demonii.com
 open.dstud.io
+open.free-tracker.ga
 open.stealth.si
 open.tracker.cl
 open.tracker.ink
@@ -43,13 +44,10 @@ open.trackerlist.xyz
 opentracker.io
 p2p.publictracker.xyz
 p4p.arenabg.com
-public.tracker.vraphim.com
+r.l5.ca
 retracker.lanta.me
 retracker.spark-rostov.ru
-rfc5746.mywaifu.best
 seeders-paradise.org
-seedpeer.net
-serpb.vpsburti.com
 servandroidkino.ru
 share.hkg-fansub.info
 shubt.net
@@ -59,7 +57,6 @@ t.overflow.biz
 taciturn-shadow.spb.ru
 tr.nyacat.pw
 tr.zukizuki.org
-tr1.aag.moe
 tr4ck3r.duckdns.org
 tracker-udp.gbitt.info
 tracker-zhuqiy.dgj055.icu
@@ -68,20 +65,19 @@ tracker.bittor.pw
 tracker.bt-hash.com
 tracker.bt4g.com
 tracker.bz
-tracker.cloudit.top
 tracker.corpscorp.online
 tracker.darkness.services
 tracker.deadorbit.nl
 tracker.dler.com
 tracker.dler.org
 tracker.dmcomic.org
+tracker.dump.cl
 tracker.filemail.com
 tracker.fnix.net
 tracker.gcrenwp.top
 tracker.gigantino.net
 tracker.gmi.gd
 tracker.ipv6tracker.org
-tracker.itscraftsoftware.my.id
 tracker.leechshield.link
 tracker.lilithraws.org
 tracker.lintk.me
@@ -89,12 +85,12 @@ tracker.moxing.party
 tracker.mywaifu.best
 tracker.ololosh.space
 tracker.opentrackr.org
-tracker.pmman.tech
 tracker.qu.ax
 tracker.renfei.net
 tracker.sbsub.com
 tracker.skynetcloud.site
 tracker.srv00.com
+tracker.theoks.net
 tracker.tiny-vps.com
 tracker.torrent.eu.org
 tracker.torrust-demo.com
@@ -103,11 +99,8 @@ tracker.vanitycore.co
 tracker.waaa.moe
 tracker.xiaoduola.xyz
 tracker.yemekyedim.com
-tracker1.itzmx.com
 tracker1.myporn.club
 tracker2.dler.org
-tracker3.itzmx.com
-tracker4.itzmx.com
 tracker810.xyz
 ttk2.nbaonlineservice.com
 wepzone.net
