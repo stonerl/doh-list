@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2025-01-18 00:10:09
+! Last modified: 2025-01-25 00:10:08
 #
 # Full URLs of DoH services:
 #
@@ -63,11 +63,6 @@ https://atris.cyou/dns-query
 https://au-syd-w-f-1.nashkan.net/dns-query
 https://au01.dns4me.net
 https://au02.dns4me.net
-https://awan.ftp.sh/dns-query
-https://awan.ftp.sh/no-vice
-https://awan.ftp.sh/noporn-cl
-https://awan.ftp.sh/unblocked
-https://bakamh.news/dns-query
 https://base.dns.mullvad.net/dns-query
 https://basic.rethinkdns.com/
 https://bazooki-infra.dev/dns-query
@@ -189,7 +184,6 @@ https://dns.hypercute.eu/dns-query
 https://dns.inclusioproject.com/dns-query
 https://dns.indybanipal.com/dns-query
 https://dns.inforlogia.com/dns-query
-https://dns.ishan.pw/dns-query
 https://dns.jupitrdns.com/dns-query
 https://dns.kapite.in/dns-query
 https://dns.karadag.me/dns-query
@@ -454,17 +448,13 @@ https://kronos.plan9-dns.com/dns-query
 https://las01.dnscry.pt/dns-query
 https://lifeisa.live/dns-query
 https://lim02.dnscry.pt/dns-query
-https://lindung.pp.ua/dns-query
-https://lindung.pp.ua/family
 https://lion.dns.qwer.pw/dns-query
 https://lis01.dnscry.pt/dns-query
 https://loadlow.me/dns-query
 https://lon01.dnscry.pt/dns-query
 https://lukscasino-479-tr.xyz/dns-query
 https://lukscasino-929-tr.xyz/dns-query
-https://luna-is.so-gorgeo.us.kg/dns-query
 https://mabuktogel.directory/dns-query
-https://mabuktogel.marketing/dns-query
 https://mabuktogel.properties/dns-query
 https://mabuktogel.solutions/dns-query
 https://mad01.dnscry.pt/dns-query
@@ -481,7 +471,6 @@ https://mnrv.trade/dns-query
 https://moamao.shop/dns-query
 https://mozilla.cloudflare-dns.com/dns-query
 https://myatris.sbs/dns-query
-https://nana-is.so-gorgeo.us.kg/dns-query
 https://nekosama.store/dns-query
 https://netcup.mismat.ch/dns-query
 https://newd.rezyro.com/dns-query
@@ -530,7 +519,6 @@ https://pluton.plan9-dns.com/dns-query
 https://pm1239-bd.xyz/dns-query
 https://pm7051-br.xyz/dns-query
 https://pm9352-bd.xyz/dns-query
-https://polisitogel.hair/dns-query
 https://polisitogel.limo/dns-query
 https://polisitogel.living/dns-query
 https://polisitogel.luxe/dns-query
@@ -572,7 +560,6 @@ https://secure.anudeep.me/dns-query
 https://secure.avastdns.com/dns-query
 https://security.cloudflare-dns.com/dns-query
 https://security.rabbitdns.org/dns-query
-https://sg-w-f-1.nashkan.net/dns-query
 https://sg-w-p-1.nashkan.net/dns-query
 https://sg01.dns4me.net
 https://sgn01.dnscry.pt/dns-query
@@ -588,22 +575,17 @@ https://sof01.dnscry.pt/dns-query
 https://solaxy.live/dns-query
 https://squidmall.vip/dns-query
 https://sto01.dnscry.pt/dns-query
-https://sundalandia.pp.ua/dns-query
-https://sundalandia.pp.ua/family
 https://sunnygyl.com/dns-query
 https://syd.adfilter.net/dns-query
 https://syd01.dnscry.pt/dns-query
 https://syd02.dnscry.pt/dns-query
 https://tbs01.dnscry.pt/dns-query
 https://tecdrive.site/dns-query
-https://tensents.shop/dns-query
 https://testaghome.meshkov.info/dns-query
-https://tetty-is.so-gorgeo.us.kg/dns-query
 https://tiger.dns.qwer.pw/dns-query
 https://tll01.dnscry.pt/dns-query
 https://tlv01.dnscry.pt/dns-query
 https://tor.vasi.li/dns-query
-https://toropyzhka.xyz/dns-query
 https://tpa01.dnscry.pt/dns-query
 https://trf01.dnscry.pt/dns-query
 https://tri-dns.net/dns-query
@@ -627,8 +609,6 @@ https://us01.dns4me.net
 https://us02.dns4me.net
 https://us1.blissdns.net/dns-query
 https://vie01.dnscry.pt/dns-query
-https://virga.pp.ua/dns-query
-https://virga.pp.ua/porn
 https://vno01.dnscry.pt/dns-query
 https://vorlif.org/dns-query
 https://waw02.dnscry.pt/dns-query
