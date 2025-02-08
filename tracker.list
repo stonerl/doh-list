@@ -1,7 +1,7 @@
 ! Title: Tracker Domain List
 ! Description: List of domains from tracker URLs.
 ! Source: https://github.com/ngosang/trackerslist
-! Last modified: 2025-02-01 00:11:25
+! Last modified: 2025-02-08 00:10:22
 #
 # Domains of tracker services:
 #
@@ -20,6 +20,7 @@ buny.uk
 ch3oh.ru
 concen.org
 d40969.acod.regrucolo.ru
+discord.heihachi.pw
 evan.im
 exodus.desync.com
 explodie.org
@@ -31,7 +32,8 @@ ipv4.rer.lol
 ipv4announce.sktorrent.eu
 isk.richardsw.club
 ismaarino.com
-martin-gebhardt.eu
+leet-tracker.moe
+new-line.net
 ns-1.x-fins.com
 open.demonii.com
 open.dstud.io
@@ -42,7 +44,6 @@ open.trackerlist.xyz
 opentracker.io
 p2p.publictracker.xyz
 p4p.arenabg.com
-r.l5.ca
 retracker.lanta.me
 retracker.spark-rostov.ru
 seeders-paradise.org
@@ -63,10 +64,8 @@ tracker.bittor.pw
 tracker.bt-hash.com
 tracker.bt4g.com
 tracker.bz
-tracker.cloudit.top
 tracker.corpscorp.online
 tracker.darkness.services
-tracker.ddunlimited.net
 tracker.dler.com
 tracker.dler.org
 tracker.dmcomic.org
@@ -87,6 +86,7 @@ tracker.opentrackr.org
 tracker.qu.ax
 tracker.renfei.net
 tracker.sbsub.com
+tracker.skyts.net
 tracker.srv00.com
 tracker.theoks.net
 tracker.tiny-vps.com
