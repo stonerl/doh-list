@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2025-02-08 00:10:21
+! Last modified: 2025-02-15 00:10:44
 #
 # Domains of DoH services:
 #
@@ -297,6 +297,7 @@ doh-02.spectrum.com
 doh-2.seby.io
 doh-de.blahdns.com
 doh-own-recursion.nicolas-dorriere.fr
+doh-pure.onedns.net
 doh-random-upstream.nicolas-dorriere.fr
 doh.360.cn
 doh.774445.xyz
@@ -333,6 +334,7 @@ doh.mmmalia.com
 doh.nic.lv
 doh.niyawe.de
 doh.nl.ahadns.net
+doh.onedns.net
 doh.opendns.com
 doh.qis.io
 doh.sandbox.opendns.com

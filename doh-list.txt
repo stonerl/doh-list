@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2025-02-08 00:10:21
+! Last modified: 2025-02-15 00:10:44
 #
 # Full URLs of DoH services:
 #
@@ -311,6 +311,7 @@ https://doh-02.spectrum.com/dns-query
 https://doh-2.seby.io/dns-query
 https://doh-de.blahdns.com/dns-query
 https://doh-own-recursion.nicolas-dorriere.fr/dns-query
+https://doh-pure.onedns.net/dns-query
 https://doh-random-upstream.nicolas-dorriere.fr/dns-query
 https://doh.360.cn/dns-query
 https://doh.774445.xyz/dns-query
@@ -351,6 +352,7 @@ https://doh.mmmalia.com/dns-query
 https://doh.nic.lv/dns-query
 https://doh.niyawe.de/dns-query
 https://doh.nl.ahadns.net/dns-query
+https://doh.onedns.net/dns-query
 https://doh.opendns.com/dns-query
 https://doh.qis.io/dns-query
 https://doh.sandbox.opendns.com/dns-query
