@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2025-02-22 00:10:30
+! Last modified: 2025-03-01 00:12:04
 #
 # Full URLs of DoH services:
 #
@@ -510,6 +510,7 @@ https://resolv1.trash.net/trash-dns
 https://resolv2.trash.net/trash-dns
 https://resolv3.trash.net/trash-dns
 https://resolver-eu.lelux.fi/dns-query
+https://resolver.dnsprivacy.org.uk/dns-query
 https://resolver.sunet.se/dns-query
 https://resolver1.absolight.net/dns-query
 https://resolver2.absolight.net/dns-query

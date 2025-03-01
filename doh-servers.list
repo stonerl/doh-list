@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2025-02-22 00:10:30
+! Last modified: 2025-03-01 00:12:04
 #
 # Domains of DoH services:
 #
@@ -469,6 +469,7 @@ resolv1.trash.net
 resolv2.trash.net
 resolv3.trash.net
 resolver-eu.lelux.fi
+resolver.dnsprivacy.org.uk
 resolver.sunet.se
 resolver1.absolight.net
 resolver2.absolight.net
