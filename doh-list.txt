@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2025-03-01 00:12:04
+! Last modified: 2025-03-08 00:09:03
 #
 # Full URLs of DoH services:
 #
@@ -116,7 +116,6 @@ https://dns.bmwhocking.com/dns-query
 https://dns.braene.com/dns-query
 https://dns.brahma.world/dns-query
 https://dns.brembeck.cloud/dns-query
-https://dns.brono.cloud/dns-query
 https://dns.burgas.pro/dns-query
 https://dns.busold.ws/dns-query
 https://dns.butterfly87.sbs/dns-query
@@ -153,6 +152,8 @@ https://dns.dns-53.us/dns-query
 https://dns.dnshome.de/dns-query
 https://dns.dnswarden.com/uncensored
 https://dns.dremaxx.de/dns-query
+https://dns.dynx.pro/dns-query
+https://dns.dynx.pro/dns-query/family
 https://dns.efficientdocuments.com/dns-query
 https://dns.elemental.software/dns-query
 https://dns.eliv.kr/dns-query
@@ -187,7 +188,6 @@ https://dns.koala.us.to/dns-query
 https://dns.kosan.moe/dns-query
 https://dns.l337.site/dns-query
 https://dns.lars-lehmann.net/dns-query
-https://dns.lepilleur.com/dns-query
 https://dns.liberador.net
 https://dns.lobbygod.com/dns-query
 https://dns.luma-medien.com/dns-query
@@ -267,7 +267,6 @@ https://dns.unx.io/dns-query
 https://dns.us.futuredns.eu.org/dns-query
 https://dns.us.futuredns.eu.org/dns-query/
 https://dns.vaioswolke.xyz/dns-query
-https://dns.vod11.xyz/dns-query
 https://dns.vojtat.cz/dns-query
 https://dns.w3ctag.org/dns-query
 https://dns.wang.art/dns-query
@@ -414,7 +413,6 @@ https://https://dns-doh.dnsforfamily.com/dns-query
 https://ibksturm.synology.me/dns-query
 https://ibuki.cgnat.net/dns-query
 https://ie01.dns4me.net
-https://ikarosalpha.xyz/dns-query
 https://imperio.top/dns-query
 https://internetsehat.bebasid.com/adblock
 https://internetsehat.bebasid.com/dns-query
@@ -472,7 +470,6 @@ https://nsec.arnor.org/dns-query
 https://ntwrkh.pro/dns-query
 https://nue01.dnscry.pt/dns-query
 https://nz01.dns4me.net
-https://obscuro.top/dns-query
 https://odvr.nic.cz/dns-query
 https://odvr.nic.cz/doh
 https://omr01.dnscry.pt/dns-query
@@ -520,7 +517,6 @@ https://rfree1.blue-shield.at/dns-query
 https://rfree2.blue-shield.at/dns-query
 https://ric.openbld.net/dns-query
 https://ro-buc-w-p-1.nashkan.net/dns-query
-https://rockwell.website/dns-query
 https://rx.techomespace.com/dns-query
 https://sa01.dns4me.net
 https://safe.dot.dns.yandex.net/dns-query
@@ -583,6 +579,7 @@ https://vorlif.org/dns-query
 https://waw02.dnscry.pt/dns-query
 https://wikimedia-dns.org/dns-query
 https://xbcpb668.com/dns-query
+https://xmr.land/dns-query
 https://xn--durhre-yxa.de/dns-query
 https://yarp.lefolgoc.net/dns-query
 https://yhz01.dnscry.pt/dns-query

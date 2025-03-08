@@ -1,14 +1,13 @@
 ! Title: Tracker Domain List
 ! Description: List of domains from tracker URLs.
 ! Source: https://github.com/ngosang/trackerslist
-! Last modified: 2025-03-01 00:12:05
+! Last modified: 2025-03-08 00:09:04
 #
 # Domains of tracker services:
 #
 0123456789nonexistent.com
 0d.kebhana.mx
 1337.abcvg.info
-api.ipv4online.uk
 bandito.byterunner.io
 bittorrent-tracker.e-n-c-r-y-p-t.net
 bt.ktrackers.com
@@ -26,7 +25,6 @@ fleira.no
 highteahop.top
 home.yxgz.club
 ipv4announce.sktorrent.eu
-isk.richardsw.club
 ismaarino.com
 leet-tracker.moe
 martin-gebhardt.eu
@@ -54,7 +52,6 @@ tr.nyacat.pw
 tr.zukizuki.org
 tr4ck3r.duckdns.org
 tracker-udp.gbitt.info
-tracker-zhuqiy.dgj055.icu
 tracker.0x7c0.com
 tracker.bittor.pw
 tracker.bt-hash.com
@@ -66,13 +63,13 @@ tracker.ddunlimited.net
 tracker.dler.com
 tracker.dler.org
 tracker.dmcomic.org
-tracker.dump.cl
 tracker.filemail.com
 tracker.fnix.net
 tracker.gcrenwp.top
-tracker.gigantino.net
 tracker.gmi.gd
 tracker.ipv6tracker.org
+tracker.itscraftsoftware.my.id
+tracker.leechshield.link
 tracker.lilithraws.org
 tracker.lintk.me
 tracker.linvk.com
@@ -84,6 +81,7 @@ tracker.pmman.tech
 tracker.qu.ax
 tracker.renfei.net
 tracker.sbsub.com
+tracker.skyts.net
 tracker.srv00.com
 tracker.tiny-vps.com
 tracker.torrent.eu.org

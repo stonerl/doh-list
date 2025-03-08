@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2025-03-01 00:12:04
+! Last modified: 2025-03-08 00:09:03
 #
 # Domains of DoH services:
 #
@@ -110,7 +110,6 @@ dns.bmwhocking.com
 dns.braene.com
 dns.brahma.world
 dns.brembeck.cloud
-dns.brono.cloud
 dns.burgas.pro
 dns.busold.ws
 dns.butterfly87.sbs
@@ -146,6 +145,7 @@ dns.dns-53.us
 dns.dnshome.de
 dns.dnswarden.com
 dns.dremaxx.de
+dns.dynx.pro
 dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
@@ -179,7 +179,6 @@ dns.koala.us.to
 dns.kosan.moe
 dns.l337.site
 dns.lars-lehmann.net
-dns.lepilleur.com
 dns.liberador.net
 dns.lobbygod.com
 dns.luma-medien.com
@@ -254,7 +253,6 @@ dns.twnic.tw
 dns.unx.io
 dns.us.futuredns.eu.org
 dns.vaioswolke.xyz
-dns.vod11.xyz
 dns.vojtat.cz
 dns.w3ctag.org
 dns.wang.art
@@ -376,7 +374,6 @@ hrk01.dnscry.pt
 ibksturm.synology.me
 ibuki.cgnat.net
 ie01.dns4me.net
-ikarosalpha.xyz
 imperio.top
 internetsehat.bebasid.com
 isb01.dnscry.pt
@@ -433,7 +430,6 @@ nsec.arnor.org
 ntwrkh.pro
 nue01.dnscry.pt
 nz01.dns4me.net
-obscuro.top
 odvr.nic.cz
 omr01.dnscry.pt
 open.dns0.eu
@@ -479,7 +475,6 @@ rfree1.blue-shield.at
 rfree2.blue-shield.at
 ric.openbld.net
 ro-buc-w-p-1.nashkan.net
-rockwell.website
 rx.techomespace.com
 sa01.dns4me.net
 safe.dot.dns.yandex.net
@@ -541,6 +536,7 @@ vorlif.org
 waw02.dnscry.pt
 wikimedia-dns.org
 xbcpb668.com
+xmr.land
 xn--durhre-yxa.de
 yarp.lefolgoc.net
 yhz01.dnscry.pt
