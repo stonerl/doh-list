@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2025-03-08 00:09:03
+! Last modified: 2025-03-15 00:11:01
 #
 # Full URLs of DoH services:
 #
@@ -90,7 +90,6 @@ https://dns.444723.xyz/dns-query
 https://dns.52306.org/dns-query
 https://dns.688447.xyz/dns-query
 https://dns.775467.xyz/dns-query
-https://dns.853852.xyz/dns-query
 https://dns.8887744.xyz/dns-query
 https://dns.9999.sg/dns-query
 https://dns.a47.me/dns-query
@@ -179,7 +178,6 @@ https://dns.indybanipal.com/dns-query
 https://dns.inforlogia.com/dns-query
 https://dns.jupitrdns.com/dns-query
 https://dns.kapite.in/dns-query
-https://dns.kastner-online.de/dns-query
 https://dns.kebree.fr/dns-query
 https://dns.kerekes.xyz/dns-query
 https://dns.kernel-error.de/dns-query
@@ -305,7 +303,6 @@ https://doh.360.cn/dns-query
 https://doh.774445.xyz/dns-query
 https://doh.aaaab3n.moe/dns-query-114514
 https://doh.angry.im/dns-query
-https://doh.apad.pro/dns-query
 https://doh.applied-privacy.net/query
 https://doh.archuser.org/dns-query
 https://doh.battle.christmas/dns-query
@@ -447,7 +444,6 @@ https://mendozasdelivery.com/dns-query
 https://mikezhang.xyz/dns-query
 https://mil01.dnscry.pt/dns-query
 https://mita-is.so-gorgeo.us.kg/dns-query
-https://mnrv.trade/dns-query
 https://moamao.shop/dns-query
 https://mozilla.cloudflare-dns.com/dns-query
 https://myatris.sbs/dns-query
@@ -491,7 +487,6 @@ https://pluton.plan9-dns.com/dns-query
 https://pm1239-bd.xyz/dns-query
 https://pm7051-br.xyz/dns-query
 https://pm9352-bd.xyz/dns-query
-https://polisitogel.webcam/dns-query
 https://pooblet.co.za/dns-query
 https://princez.uk/dns-query
 https://privacy.plumedns.com/dns-query
@@ -548,7 +543,6 @@ https://syd01.dnscry.pt/dns-query
 https://syd02.dnscry.pt/dns-query
 https://tbs01.dnscry.pt/dns-query
 https://tecdrive.site/dns-query
-https://testaghome.meshkov.info/dns-query
 https://tiger.dns.qwer.pw/dns-query
 https://tll01.dnscry.pt/dns-query
 https://tlv01.dnscry.pt/dns-query
@@ -567,7 +561,6 @@ https://us-jac-w-f-1.nashkan.net/dns-query
 https://us-jac-w-p-1.nashkan.net/dns-query
 https://us-kan-w-f-1.nashkan.net/dns-query
 https://us-kan-w-p-1.nashkan.net/dns-query
-https://us-nyc-w-f-1.nashkan.net/dns-query
 https://us-nyc-w-p-1.nashkan.net/dns-query
 https://us-saj-w-f-1.nashkan.net/dns-query
 https://us-saj-w-p-1.nashkan.net/dns-query
