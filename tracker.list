@@ -1,13 +1,13 @@
 ! Title: Tracker Domain List
 ! Description: List of domains from tracker URLs.
 ! Source: https://github.com/ngosang/trackerslist
-! Last modified: 2025-03-15 00:11:02
+! Last modified: 2025-03-22 00:11:02
 #
 # Domains of tracker services:
 #
 0123456789nonexistent.com
 0d.kebhana.mx
-4.tracker.devnak.win
+1337.abcvg.info
 bandito.byterunner.io
 bittorrent-tracker.e-n-c-r-y-p-t.net
 bt.ktrackers.com
@@ -17,18 +17,17 @@ buny.uk
 ch3oh.ru
 concen.org
 d40969.acod.regrucolo.ru
+discord.heihachi.pw
 evan.im
-exodus.desync.com
 explodie.org
 finbytes.org
 fleira.no
 highteahop.top
 home.yxgz.club
 ipv4announce.sktorrent.eu
-isk.richardsw.club
 ismaarino.com
+leet-tracker.moe
 martin-gebhardt.eu
-ns-1.x-fins.com
 open.acgtracker.com
 open.demonii.com
 open.dstud.io
@@ -49,7 +48,6 @@ sparkle.ghostchu-services.top
 t.jaekr.sh
 t.overflow.biz
 taciturn-shadow.spb.ru
-tr.nyacat.pw
 tr.zukizuki.org
 tr4ck3r.duckdns.org
 tracker-udp.gbitt.info
@@ -65,7 +63,6 @@ tracker.ddunlimited.net
 tracker.dler.com
 tracker.dler.org
 tracker.dmcomic.org
-tracker.dump.cl
 tracker.filemail.com
 tracker.fnix.net
 tracker.gcrenwp.top
@@ -86,19 +83,15 @@ tracker.pmman.tech
 tracker.qu.ax
 tracker.renfei.net
 tracker.sbsub.com
-tracker.skynetcloud.site
 tracker.srv00.com
-tracker.theoks.net
 tracker.tiny-vps.com
 tracker.torrent.eu.org
-tracker.torrust-demo.com
 tracker.tryhackx.org
 tracker.vanitycore.co
 tracker.waaa.moe
 tracker.xiaoduola.xyz
 tracker.yemekyedim.com
 tracker.zhuqiy.top
-tracker1.myporn.club
 tracker2.dler.org
 tracker810.xyz
 ttk2.nbaonlineservice.com
