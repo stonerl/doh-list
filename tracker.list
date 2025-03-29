@@ -1,7 +1,7 @@
 ! Title: Tracker Domain List
 ! Description: List of domains from tracker URLs.
 ! Source: https://github.com/ngosang/trackerslist
-! Last modified: 2025-03-22 00:11:02
+! Last modified: 2025-03-29 00:11:10
 #
 # Domains of tracker services:
 #
@@ -19,24 +19,26 @@ concen.org
 d40969.acod.regrucolo.ru
 discord.heihachi.pw
 evan.im
+exodus.desync.com
 explodie.org
 finbytes.org
-fleira.no
 highteahop.top
 home.yxgz.club
 ipv4announce.sktorrent.eu
+isk.richardsw.club
 ismaarino.com
 leet-tracker.moe
 martin-gebhardt.eu
+ns-1.x-fins.com
 open.acgtracker.com
 open.demonii.com
 open.dstud.io
-open.free-tracker.ga
 open.stealth.si
 open.trackerlist.xyz
 opentracker.io
 p2p.publictracker.xyz
 p4p.arenabg.com
+public.tracker.vraphim.com
 retracker.lanta.me
 retracker.spark-rostov.ru
 retracker01-msk-virt.corbina.net
@@ -48,6 +50,7 @@ sparkle.ghostchu-services.top
 t.jaekr.sh
 t.overflow.biz
 taciturn-shadow.spb.ru
+tr.nyacat.pw
 tr.zukizuki.org
 tr4ck3r.duckdns.org
 tracker-udp.gbitt.info
@@ -63,6 +66,7 @@ tracker.ddunlimited.net
 tracker.dler.com
 tracker.dler.org
 tracker.dmcomic.org
+tracker.dump.cl
 tracker.filemail.com
 tracker.fnix.net
 tracker.gcrenwp.top
@@ -70,32 +74,31 @@ tracker.ghostchu-services.top
 tracker.gigantino.net
 tracker.gmi.gd
 tracker.ipv6tracker.org
-tracker.itscraftsoftware.my.id
 tracker.leechshield.link
 tracker.lilithraws.org
 tracker.lintk.me
 tracker.linvk.com
 tracker.moxing.party
 tracker.mywaifu.best
-tracker.ololosh.space
 tracker.opentrackr.org
-tracker.pmman.tech
 tracker.qu.ax
 tracker.renfei.net
 tracker.sbsub.com
 tracker.srv00.com
 tracker.tiny-vps.com
 tracker.torrent.eu.org
+tracker.torrust-demo.com
 tracker.tryhackx.org
 tracker.vanitycore.co
 tracker.waaa.moe
 tracker.xiaoduola.xyz
 tracker.yemekyedim.com
 tracker.zhuqiy.top
+tracker1.itzmx.com
+tracker1.myporn.club
 tracker2.dler.org
 tracker810.xyz
 ttk2.nbaonlineservice.com
-utracker.ghostchu-services.top
 wepzone.net
 www.genesis-sp.org
 www.torrentsnipe.info

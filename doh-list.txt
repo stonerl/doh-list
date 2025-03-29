@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2025-03-22 00:11:02
+! Last modified: 2025-03-29 00:11:09
 #
 # Full URLs of DoH services:
 #
@@ -208,7 +208,6 @@ https://dns.netvpn.net/dns-query
 https://dns.nextdns.io
 https://dns.nextdns.io/dns-query
 https://dns.nick-slowinski.de/dns-query
-https://dns.nightlymoon.us.kg/dns-query
 https://dns.ningkelle.id/dns-query
 https://dns.njal.la/dns-query
 https://dns.novg.net/dns-query
@@ -438,21 +437,17 @@ https://mad01.dnscry.pt/dns-query
 https://man01.dnscry.pt/dns-query
 https://maqgie.xyz/dns-query
 https://masters-of-cloud.de/dns-query
-https://mecca-is.so-gorgeo.us.kg/dns-query
 https://megumin.is.my.waifu.cz/dns-query
 https://mendozasdelivery.com/dns-query
 https://mikezhang.xyz/dns-query
 https://mil01.dnscry.pt/dns-query
-https://mita-is.so-gorgeo.us.kg/dns-query
 https://moamao.shop/dns-query
 https://mozilla.cloudflare-dns.com/dns-query
 https://myatris.sbs/dns-query
 https://netcup.mismat.ch/dns-query
 https://newd.rezyro.com/dns-query
 https://nicsezcheckfbi.gov
-https://nindy-is.so-gorgeo.us.kg/dns-query
 https://nl.dns.privex.io
-https://nova-is.so-gorgeo.us.kg/dns-query
 https://ns.00dani.me/dns-query
 https://ns.data.haus/dns-query
 https://ns.net.kg/dns-query
@@ -527,7 +522,6 @@ https://sg01.dns4me.net
 https://sgn01.dnscry.pt/dns-query
 https://sin02.dnscry.pt/dns-query
 https://sin03.dnscry.pt/dns-query
-https://sitha-is.so-gorgeo.us.kg/dns-query
 https://sjc01.dnscry.pt/dns-query
 https://sky.rethinkdns.com/1:IAAgAA==
 https://sky.rethinkdns.com/dns-query
@@ -577,7 +571,6 @@ https://xn--durhre-yxa.de/dns-query
 https://yarp.lefolgoc.net/dns-query
 https://yhz01.dnscry.pt/dns-query
 https://yunyun.is.my.waifu.cz/dns-query
-https://yussy-is.so-gorgeo.us.kg/dns-query
 https://yvr01.dnscry.pt/dns-query
 https://yyc01.dnscry.pt/dns-query
 https://yyz01.dnscry.pt/dns-query
