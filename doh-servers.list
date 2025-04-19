@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2025-04-12 00:11:23
+! Last modified: 2025-04-19 00:11:26
 #
 # Domains of DoH services:
 #
@@ -28,7 +28,6 @@ adg.khon.dev
 adguard-kartoffel.zernico.de
 adguard.bonis.de
 adguard.dantynes.cyou
-adguard.frutuozo.com.br
 adguard.kasbot.net
 adguard.meddy94.de
 adguard.senthil.us
@@ -39,13 +38,10 @@ ae-fuj-w-p-2.nashkan.net
 ae-fuj-w-p-3.nashkan.net
 affcdn.net
 affsoft.cc
-africadns1.liquidtelecom.net
-africadns2.liquidtelecom.net
 ag.apollohct.com
 agh.dshubham.xyz
 all.dns.mullvad.net
 ams01.dnscry.pt
-ant.dns.qwer.pw
 antivirus.bebasid.com
 anycast.dns.nextdns.io
 anycast.uncensoreddns.org
@@ -84,7 +80,6 @@ deep-henchman-excuse.cfd
 dns-doh.dnsforfamily.com
 dns.0ooo.icu
 dns.444723.xyz
-dns.52306.org
 dns.688447.xyz
 dns.775467.xyz
 dns.8887744.xyz
@@ -96,10 +91,8 @@ dns.alidns.com
 dns.anon.no
 dns.applewebkit.dev
 dns.arapurayil.com
-dns.arkbotech.com
 dns.artikel10.org
 dns.asterimoon.com
-dns.asysec.com
 dns.bebasid.com
 dns.belnet.be
 dns.bitdefender.net
@@ -123,12 +116,10 @@ dns.chunghwamc.com
 dns.cloudflare.com
 dns.comff.net
 dns.controld.com
-dns.criena.net
 dns.crystalyx.net
 dns.csa-rz.de
 dns.csaonline.de
 dns.csswg.org
-dns.cybertonic.tech
 dns.cynthialabs.net
 dns.d94.xyz
 dns.d96.info
@@ -148,7 +139,6 @@ dns.dynx.pro
 dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
-dns.emiliyan.com
 dns.faked.org
 dns.fancyorg.at
 dns.farshidhakimy.de
@@ -165,7 +155,6 @@ dns.henek.ovh
 dns.hoody.com
 dns.hostux.net
 dns.inclusioproject.com
-dns.indybanipal.com
 dns.inforlogia.com
 dns.jupitrdns.com
 dns.kapite.in
@@ -191,7 +180,6 @@ dns.mnet-online.de
 dns.momou.ch
 dns.mullvad.net
 dns.mzjtechnology.com
-dns.nako.kr
 dns.neeb.it
 dns.netvpn.net
 dns.nextdns.io
@@ -199,7 +187,6 @@ dns.nick-slowinski.de
 dns.ningkelle.id
 dns.njal.la
 dns.novg.net
-dns.odinpl.com
 dns.ofdoom.net
 dns.oliviertv.co.za
 dns.oszx.co
@@ -230,7 +217,6 @@ dns.skrep.eu
 dns.slinkyman.net
 dns.smartguard.io
 dns.startupstack.tech
-dns.stevenz.net
 dns.stirringphoto.com
 dns.stormycloud.org
 dns.suhaila.dev
@@ -243,20 +229,17 @@ dns.technologycage.com
 dns.telekom.de
 dns.thebuckners.org
 dns.thiz.top
-dns.tierradeayala.com
 dns.tipsy.coffee
 dns.tls-data.de
 dns.twnic.tw
 dns.unx.io
 dns.us.futuredns.eu.org
 dns.vaioswolke.xyz
-dns.vojtat.cz
 dns.w3ctag.org
 dns.wang.art
 dns.xlion.tw
 dns.yuu-g.net
 dns0.eu
-dns1.dns-ga.de
 dns1.in-berlin.de
 dns1.nordvpn.com
 dns1.pietjacobs.be
@@ -299,12 +282,10 @@ doh.disconnect.app
 doh.dns.sb
 doh.dns4all.eu
 doh.domreg.lt
-doh.excdn.eu.org
 doh.familyshield.opendns.com
 doh.ffmuc.net
 doh.futa.gg
 doh.immerda.ch
-doh.iucc.ac.il
 doh.kel.pe
 doh.kidzonet.io
 doh.la.ahadns.net
@@ -347,7 +328,6 @@ family.dns.ningkelle.id
 family.dot.dns.yandex.net
 family.mydns.network
 family.rabbitdns.org
-farewellkou.click
 fidelius.top
 fjr01.dnscry.pt
 fra01.dnscry.pt
@@ -366,7 +346,6 @@ han01.dnscry.pt
 hard.dnsforge.de
 helios.plan9-dns.com
 home-server.store
-hrk01.dnscry.pt
 ibksturm.synology.me
 ibuki.cgnat.net
 ie01.dns4me.net
@@ -405,13 +384,11 @@ moamao.shop
 mozilla.cloudflare-dns.com
 myatris.sbs
 netcup.mismat.ch
-newd.rezyro.com
 nicsezcheckfbi.gov
 nl.dns.privex.io
 ns.00dani.me
 ns.data.haus
 ns.net.kg
-ns.ral9005.org
 ns.trcnet.fi
 ns0.fdn.fr
 ns1.fdn.fr
@@ -427,7 +404,6 @@ open.dns0.eu
 openbld.net
 ordns.he.net
 par01.dnscry.pt
-paradise-human.shop
 paranoia.mydns.network
 pashagame456.com
 pdx01.dnscry.pt
@@ -437,7 +413,6 @@ phl01.dnscry.pt
 phx01.dnscry.pt
 pihole.aws.ketan.dev
 pluton.plan9-dns.com
-pm1239-bd.xyz
 pm7051-br.xyz
 pm9352-bd.xyz
 pooblet.co.za
@@ -522,7 +497,6 @@ vno01.dnscry.pt
 vorlif.org
 waw02.dnscry.pt
 wikimedia-dns.org
-xbcpb668.com
 xmr.land
 xn--durhre-yxa.de
 yarp.lefolgoc.net
