@@ -1,7 +1,7 @@
 ! Title: Tracker Domain List
 ! Description: List of domains from tracker URLs.
 ! Source: https://github.com/ngosang/trackerslist
-! Last modified: 2025-04-19 00:11:27
+! Last modified: 2025-04-26 00:11:45
 #
 # Domains of tracker services:
 #
@@ -19,6 +19,7 @@ ch3oh.ru
 chihaya.de
 concen.org
 d40969.acod.regrucolo.ru
+discord.heihachi.pw
 evan.im
 exodus.desync.com
 explodie.org
@@ -33,11 +34,13 @@ martin-gebhardt.eu
 open.acgtracker.com
 open.demonii.com
 open.dstud.io
+open.free-tracker.ga
 open.stealth.si
 open.trackerlist.xyz
 opentracker.io
 p2p.publictracker.xyz
 p4p.arenabg.com
+public.tracker.vraphim.com
 retracker.lanta.me
 retracker.spark-rostov.ru
 retracker01-msk-virt.corbina.net
@@ -52,6 +55,7 @@ taciturn-shadow.spb.ru
 tr.nyacat.pw
 tr.zukizuki.org
 tr4ck3r.duckdns.org
+trackarr.org
 tracker.0x7c0.com
 tracker.23794.top
 tracker.bittor.pw
@@ -64,7 +68,7 @@ tracker.ddunlimited.net
 tracker.dler.com
 tracker.dler.org
 tracker.dmcomic.org
-tracker.dump.cl
+tracker.expli.top
 tracker.filemail.com
 tracker.fnix.net
 tracker.gcrenwp.top
@@ -72,6 +76,7 @@ tracker.ghostchu-services.top
 tracker.gigantino.net
 tracker.gmi.gd
 tracker.ipv6tracker.org
+tracker.itscraftsoftware.my.id
 tracker.leechshield.link
 tracker.lilithraws.org
 tracker.lintk.me
@@ -80,7 +85,6 @@ tracker.moeblog.cn
 tracker.moxing.party
 tracker.mywaifu.best
 tracker.opentrackr.org
-tracker.pmman.tech
 tracker.qu.ax
 tracker.renfei.net
 tracker.sbsub.com

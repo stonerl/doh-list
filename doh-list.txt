@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2025-04-19 00:11:26
+! Last modified: 2025-04-26 00:11:44
 #
 # Full URLs of DoH services:
 #
@@ -81,7 +81,6 @@ https://dart.kpsn.org/dns-query
 https://de01.dns4me.net
 https://deep-henchman-excuse.cfd/dns-query
 https://dns-doh.dnsforfamily.com/dns-query
-https://dns.0ooo.icu/dns-query
 https://dns.444723.xyz/dns-query
 https://dns.688447.xyz/dns-query
 https://dns.775467.xyz/dns-query
@@ -261,7 +260,6 @@ https://dns1.serdcebolit.ru/dns-query
 https://dns10.quad9.net/dns-query
 https://dns11.quad9.net/dns-query
 https://dns12.quad9.net/dns-query
-https://dns2.dns-ga.de/dns-query
 https://dns2.in-berlin.de/dns-query
 https://dns2.nordvpn.com/dns-query
 https://dns64.cloudflare-dns.com/dns-query
@@ -293,7 +291,6 @@ https://doh.buzz/dns-query
 https://doh.cleanbrowsing.org/doh/adult-filter/
 https://doh.cleanbrowsing.org/doh/family-filter/
 https://doh.cleanbrowsing.org/doh/security-filter/
-https://doh.denypradana.com/dns-query
 https://doh.disconnect.app/dns-query
 https://doh.dns.sb/dns-query
 https://doh.dns4all.eu/dns-query
@@ -528,7 +525,6 @@ https://us-chi-w-f-1.nashkan.net/dns-query
 https://us-chi-w-p-1.nashkan.net/dns-query
 https://us-jac-w-f-1.nashkan.net/dns-query
 https://us-jac-w-p-1.nashkan.net/dns-query
-https://us-kan-w-f-1.nashkan.net/dns-query
 https://us-kan-w-p-1.nashkan.net/dns-query
 https://us-nyc-w-p-1.nashkan.net/dns-query
 https://us-saj-w-f-1.nashkan.net/dns-query
@@ -540,7 +536,6 @@ https://vno01.dnscry.pt/dns-query
 https://vorlif.org/dns-query
 https://waw02.dnscry.pt/dns-query
 https://wikimedia-dns.org/dns-query
-https://xmr.land/dns-query
 https://xn--durhre-yxa.de/dns-query
 https://yarp.lefolgoc.net/dns-query
 https://yhz01.dnscry.pt/dns-query

@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2025-04-19 00:11:26
+! Last modified: 2025-04-26 00:11:44
 #
 # Domains of DoH services:
 #
@@ -78,7 +78,6 @@ dart.kpsn.org
 de01.dns4me.net
 deep-henchman-excuse.cfd
 dns-doh.dnsforfamily.com
-dns.0ooo.icu
 dns.444723.xyz
 dns.688447.xyz
 dns.775467.xyz
@@ -247,7 +246,6 @@ dns1.serdcebolit.ru
 dns10.quad9.net
 dns11.quad9.net
 dns12.quad9.net
-dns2.dns-ga.de
 dns2.in-berlin.de
 dns2.nordvpn.com
 dns64.cloudflare-dns.com
@@ -277,7 +275,6 @@ doh.battle.christmas
 doh.beauty
 doh.buzz
 doh.cleanbrowsing.org
-doh.denypradana.com
 doh.disconnect.app
 doh.dns.sb
 doh.dns4all.eu
@@ -485,7 +482,6 @@ us-chi-w-f-1.nashkan.net
 us-chi-w-p-1.nashkan.net
 us-jac-w-f-1.nashkan.net
 us-jac-w-p-1.nashkan.net
-us-kan-w-f-1.nashkan.net
 us-kan-w-p-1.nashkan.net
 us-nyc-w-p-1.nashkan.net
 us-saj-w-f-1.nashkan.net
@@ -497,7 +493,6 @@ vno01.dnscry.pt
 vorlif.org
 waw02.dnscry.pt
 wikimedia-dns.org
-xmr.land
 xn--durhre-yxa.de
 yarp.lefolgoc.net
 yhz01.dnscry.pt
