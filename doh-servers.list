@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2025-04-26 00:11:44
+! Last modified: 2025-05-03 00:11:44
 #
 # Domains of DoH services:
 #
@@ -36,7 +36,6 @@ adl.adfilter.net
 ae-fuj-w-p-1.nashkan.net
 ae-fuj-w-p-2.nashkan.net
 ae-fuj-w-p-3.nashkan.net
-affcdn.net
 affsoft.cc
 ag.apollohct.com
 agh.dshubham.xyz
@@ -114,6 +113,7 @@ dns.christerwaren.fi
 dns.chunghwamc.com
 dns.cloudflare.com
 dns.comff.net
+dns.comss.one
 dns.controld.com
 dns.crystalyx.net
 dns.csa-rz.de
@@ -207,7 +207,6 @@ dns.reitmeier.me
 dns.retakecs.com
 dns.roedel.cloud
 dns.seia.io
-dns.sev.monster
 dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
@@ -312,7 +311,6 @@ droyd.top
 dub01.dnscry.pt
 dukun.de
 dus01.dnscry.pt
-eliatofani.ovh
 eu.tri-dns.net
 eu1.dns.lavate.ch
 evn01.dnscry.pt
@@ -326,7 +324,6 @@ family.dot.dns.yandex.net
 family.mydns.network
 family.rabbitdns.org
 fidelius.top
-fjr01.dnscry.pt
 fra01.dnscry.pt
 fra02.dnscry.pt
 freedns.controld.com
@@ -377,7 +374,6 @@ megumin.is.my.waifu.cz
 mendozasdelivery.com
 mikezhang.xyz
 mil01.dnscry.pt
-moamao.shop
 mozilla.cloudflare-dns.com
 myatris.sbs
 netcup.mismat.ch
@@ -419,13 +415,9 @@ private.canadianshield.cira.ca
 protected.canadianshield.cira.ca
 public.dns.iij.jp
 public.ns.nwps.fi
-qlf-doh.inria.fr
 rdd01.dnscry.pt
 regiopolis.cloud
 renardbleu.dev
-resolv1.trash.net
-resolv2.trash.net
-resolv3.trash.net
 resolver-eu.lelux.fi
 resolver.dnsprivacy.org.uk
 resolver.sunet.se
@@ -437,6 +429,7 @@ rfree1.blue-shield.at
 rfree2.blue-shield.at
 ric.openbld.net
 ro-buc-w-p-1.nashkan.net
+router.comss.one
 rx.techomespace.com
 sa01.dns4me.net
 safe.dot.dns.yandex.net
