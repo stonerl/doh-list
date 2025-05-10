@@ -1,7 +1,7 @@
 ! Title: Tracker Domain List
 ! Description: List of domains from tracker URLs.
 ! Source: https://github.com/ngosang/trackerslist
-! Last modified: 2025-05-03 00:11:45
+! Last modified: 2025-05-10 00:11:38
 #
 # Domains of tracker services:
 #
@@ -17,6 +17,7 @@ bt1.xxxxbt.cc
 buny.uk
 chihaya.de
 d40969.acod.regrucolo.ru
+discord.heihachi.pw
 evan.im
 exodus.desync.com
 explodie.org
@@ -30,9 +31,10 @@ isk.richardsw.club
 ismaarino.com
 leet-tracker.moe
 martin-gebhardt.eu
-open.acgtracker.com
+ns-1.x-fins.com
 open.demonii.com
 open.dstud.io
+open.free-tracker.ga
 open.stealth.si
 open.trackerlist.xyz
 opentracker.io
@@ -46,15 +48,12 @@ seeders-paradise.org
 servandroidkino.ru
 share.hkg-fansub.info
 shubt.net
-sparkle.ghostchu-services.top
 t.jaekr.sh
 t.overflow.biz
 taciturn-shadow.spb.ru
 tr.nyacat.pw
 tr.zukizuki.org
 tr4ck3r.duckdns.org
-trackarr.org
-tracker-udp.gbitt.info
 tracker.0x7c0.com
 tracker.23794.top
 tracker.bittor.pw
@@ -73,7 +72,6 @@ tracker.expli.top
 tracker.filemail.com
 tracker.fnix.net
 tracker.gcrenwp.top
-tracker.ghostchu-services.top
 tracker.gigantino.net
 tracker.gmi.gd
 tracker.ipv6tracker.org
@@ -85,6 +83,7 @@ tracker.linvk.com
 tracker.moeblog.cn
 tracker.moxing.party
 tracker.mywaifu.best
+tracker.ololosh.space
 tracker.opentrackr.org
 tracker.qu.ax
 tracker.renfei.net
@@ -102,6 +101,7 @@ tracker.xiaoduola.xyz
 tracker.yemekyedim.com
 tracker.zhuqiy.top
 tracker1.itzmx.com
+tracker1.myporn.club
 tracker2.dler.org
 tracker810.xyz
 ttk2.nbaonlineservice.com

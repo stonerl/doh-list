@@ -3,11 +3,10 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2025-05-03 00:11:44
+! Last modified: 2025-05-10 00:11:37
 #
 # Domains of DoH services:
 #
-0ms.dev
 123000123.xyz
 3dcosas.xyz
 3dns.eu
@@ -58,7 +57,6 @@ base.dns.mullvad.net
 basic.rethinkdns.com
 bazooki-infra.dev
 bestwon203.com
-blitz.ahadns.com
 blocker.thethorsens.org
 bne01.dnscry.pt
 bog01.dnscry.pt
@@ -219,6 +217,7 @@ dns.stirringphoto.com
 dns.stormycloud.org
 dns.suhaila.dev
 dns.superstefan.win
+dns.surfsharkdns.com
 dns.svoi.dev
 dns.switch.ch
 dns.szpadel.ovh
@@ -345,7 +344,6 @@ ibuki.cgnat.net
 ie01.dns4me.net
 imperio.top
 internetsehat.bebasid.com
-isb01.dnscry.pt
 ist01.dnscry.pt
 jp.tiar.app
 jp.tiarap.org
@@ -382,7 +380,6 @@ nl.dns.privex.io
 ns.00dani.me
 ns.data.haus
 ns.net.kg
-ns.trcnet.fi
 ns0.fdn.fr
 ns1.fdn.fr
 ns1.opennameserver.org
@@ -409,7 +406,6 @@ pluton.plan9-dns.com
 pm7051-br.xyz
 pm9352-bd.xyz
 pooblet.co.za
-princez.uk
 privacy.plumedns.com
 private.canadianshield.cira.ca
 protected.canadianshield.cira.ca
@@ -481,6 +477,7 @@ us-saj-w-f-1.nashkan.net
 us-saj-w-p-1.nashkan.net
 us01.dns4me.net
 us02.dns4me.net
+v.recipes
 vie01.dnscry.pt
 vno01.dnscry.pt
 vorlif.org
@@ -493,6 +490,5 @@ yunyun.is.my.waifu.cz
 yvr01.dnscry.pt
 yyc01.dnscry.pt
 yyz01.dnscry.pt
-zakaria.website
 zdn.ro
 zero.dns0.eu

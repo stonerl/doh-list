@@ -3,12 +3,10 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2025-05-03 00:11:44
+! Last modified: 2025-05-10 00:11:37
 #
 # Full URLs of DoH services:
 #
-https://0ms.dev/dns-adblock
-https://0ms.dev/dns-query
 https://123000123.xyz/dns-query
 https://3dcosas.xyz/dns-query
 https://3dns.eu/dns-query
@@ -60,7 +58,6 @@ https://base.dns.mullvad.net/dns-query
 https://basic.rethinkdns.com/
 https://bazooki-infra.dev/dns-query
 https://bestwon203.com/dns-query
-https://blitz.ahadns.com
 https://blocker.thethorsens.org/dns-query
 https://bne01.dnscry.pt/dns-query
 https://bog01.dnscry.pt/dns-query
@@ -231,6 +228,7 @@ https://dns.stirringphoto.com/dns-query
 https://dns.stormycloud.org/dns-query
 https://dns.suhaila.dev/dns-query
 https://dns.superstefan.win/dns-query
+https://dns.surfsharkdns.com/dns-query
 https://dns.svoi.dev/dns-query
 https://dns.switch.ch/dns-query
 https://dns.szpadel.ovh/dns-query
@@ -385,7 +383,6 @@ https://ie01.dns4me.net
 https://imperio.top/dns-query
 https://internetsehat.bebasid.com/adblock
 https://internetsehat.bebasid.com/dns-query
-https://isb01.dnscry.pt/dns-query
 https://ist01.dnscry.pt/dns-query
 https://jp.tiar.app/dns-query
 https://jp.tiarap.org/dns-query
@@ -422,7 +419,6 @@ https://nl.dns.privex.io
 https://ns.00dani.me/dns-query
 https://ns.data.haus/dns-query
 https://ns.net.kg/dns-query
-https://ns.trcnet.fi/dns-query
 https://ns0.fdn.fr/dns-query
 https://ns1.fdn.fr/dns-query
 https://ns1.opennameserver.org/dns-query
@@ -450,7 +446,6 @@ https://pluton.plan9-dns.com/dns-query
 https://pm7051-br.xyz/dns-query
 https://pm9352-bd.xyz/dns-query
 https://pooblet.co.za/dns-query
-https://princez.uk/dns-query
 https://privacy.plumedns.com/dns-query
 https://private.canadianshield.cira.ca/dns-query
 https://protected.canadianshield.cira.ca/dns-query
@@ -523,6 +518,7 @@ https://us-saj-w-f-1.nashkan.net/dns-query
 https://us-saj-w-p-1.nashkan.net/dns-query
 https://us01.dns4me.net
 https://us02.dns4me.net
+https://v.recipes/dns-query
 https://vie01.dnscry.pt/dns-query
 https://vno01.dnscry.pt/dns-query
 https://vorlif.org/dns-query
@@ -535,7 +531,6 @@ https://yunyun.is.my.waifu.cz/dns-query
 https://yvr01.dnscry.pt/dns-query
 https://yyc01.dnscry.pt/dns-query
 https://yyz01.dnscry.pt/dns-query
-https://zakaria.website/dns-query
 https://zdn.ro/dns-query
 https://zero.dns0.eu
 https://zero.dns0.eu/
