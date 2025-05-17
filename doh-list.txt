@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2025-05-10 00:11:37
+! Last modified: 2025-05-17 00:12:00
 #
 # Full URLs of DoH services:
 #
@@ -26,7 +26,6 @@ https://adg.geili.me/dns-query
 https://adg.khon.dev/dns-query
 https://adguard-kartoffel.zernico.de/dns-query
 https://adguard.bonis.de/dns-query
-https://adguard.dantynes.cyou/dns-query
 https://adguard.kasbot.net/dns-query
 https://adguard.meddy94.de/dns-query
 https://adguard.senthil.us/dns-query
@@ -44,7 +43,6 @@ https://antivirus.bebasid.com/dns-query
 https://anycast.dns.nextdns.io
 https://anycast.dns.nextdns.io/dns-query
 https://anycast.uncensoreddns.org/dns-query
-https://aqua.is.my.waifu.cz/dns-query
 https://arashi.net.eu.org/dns-query
 https://asia.tri-dns.net/dns-query
 https://at-wie-w-p-1.nashkan.net/dns-query
@@ -72,7 +70,6 @@ https://common.dot.dns.yandex.net/dns-query
 https://cph01.dnscry.pt/dns-query
 https://cvt01.dnscry.pt/dns-query
 https://dandelionsprout.asuscomm.com:2501/dns-query
-https://darkness.is.my.waifu.cz/dns-query
 https://dart.kpsn.org/dns-query
 https://de01.dns4me.net
 https://deep-henchman-excuse.cfd/dns-query
@@ -107,6 +104,7 @@ https://dns.burgas.pro/dns-query
 https://dns.busold.ws/dns-query
 https://dns.butterfly87.sbs/dns-query
 https://dns.cabbage.zone/dns-query
+https://dns.caliph.dev/dns-query
 https://dns.caspervk.net/dns-query
 https://dns.cctld.kg/dns-query
 https://dns.cert.ee/dns-query
@@ -118,7 +116,6 @@ https://dns.cloudflare.com/dns-query
 https://dns.cloudflare.com:53/dns-query
 https://dns.comff.net/dns-query
 https://dns.comss.one/dns-query
-https://dns.controld.com/comss
 https://dns.crystalyx.net/dns-query
 https://dns.csa-rz.de/dns-query
 https://dns.csaonline.de/dns-query
@@ -170,7 +167,6 @@ https://dns.kescher.at/dns-query
 https://dns.koala.us.to/dns-query
 https://dns.kosan.moe/dns-query
 https://dns.l337.site/dns-query
-https://dns.lars-lehmann.net/dns-query
 https://dns.liberador.net
 https://dns.lobbygod.com/dns-query
 https://dns.luma-medien.com/dns-query
@@ -182,9 +178,6 @@ https://dns.mbrjun.cn/dns-query
 https://dns.mh4ckt3mh4ckt1c4s.xyz/dns-query
 https://dns.michelo.cl/dns-query
 https://dns.mnet-online.de/dns-query
-https://dns.momou.ch/dns-query
-https://dns.momou.ch/dns-query/kids
-https://dns.momou.ch/dns-query/unfiltered
 https://dns.mullvad.net/dns-query
 https://dns.mzjtechnology.com/dns-query
 https://dns.neeb.it/dns-query
@@ -263,6 +256,7 @@ https://dns64.cloudflare-dns.com/dns-query
 https://dns64.dns.google/dns-query
 https://dns9.quad9.net/dns-query
 https://dnsforge.de/dns-query
+https://dnsguard.pub/dns-query
 https://dnslow.me/dns-query
 https://dnspub.restena.lu/dns-query
 https://dnstls.mobik.com/dns-query
@@ -390,7 +384,6 @@ https://jp01.dns4me.net
 https://kaitain.restena.lu/dns-query
 https://kids.dns0.eu
 https://kids.ns.nwps.fi/dns-query
-https://kiri.nonexiste.net/dns-query
 https://kiv01.dnscry.pt/dns-query
 https://kronos.plan9-dns.com/dns-query
 https://las01.dnscry.pt/dns-query

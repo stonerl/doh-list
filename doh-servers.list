@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2025-05-10 00:11:37
+! Last modified: 2025-05-17 00:12:00
 #
 # Domains of DoH services:
 #
@@ -26,7 +26,6 @@ adg.geili.me
 adg.khon.dev
 adguard-kartoffel.zernico.de
 adguard.bonis.de
-adguard.dantynes.cyou
 adguard.kasbot.net
 adguard.meddy94.de
 adguard.senthil.us
@@ -43,7 +42,6 @@ ams01.dnscry.pt
 antivirus.bebasid.com
 anycast.dns.nextdns.io
 anycast.uncensoreddns.org
-aqua.is.my.waifu.cz
 arashi.net.eu.org
 asia.tri-dns.net
 at-wie-w-p-1.nashkan.net
@@ -70,7 +68,6 @@ cloudflare-dns.com
 common.dot.dns.yandex.net
 cph01.dnscry.pt
 cvt01.dnscry.pt
-darkness.is.my.waifu.cz
 dart.kpsn.org
 de01.dns4me.net
 deep-henchman-excuse.cfd
@@ -102,6 +99,7 @@ dns.burgas.pro
 dns.busold.ws
 dns.butterfly87.sbs
 dns.cabbage.zone
+dns.caliph.dev
 dns.caspervk.net
 dns.cctld.kg
 dns.cert.ee
@@ -112,7 +110,6 @@ dns.chunghwamc.com
 dns.cloudflare.com
 dns.comff.net
 dns.comss.one
-dns.controld.com
 dns.crystalyx.net
 dns.csa-rz.de
 dns.csaonline.de
@@ -162,7 +159,6 @@ dns.kescher.at
 dns.koala.us.to
 dns.kosan.moe
 dns.l337.site
-dns.lars-lehmann.net
 dns.liberador.net
 dns.lobbygod.com
 dns.luma-medien.com
@@ -174,7 +170,6 @@ dns.mbrjun.cn
 dns.mh4ckt3mh4ckt1c4s.xyz
 dns.michelo.cl
 dns.mnet-online.de
-dns.momou.ch
 dns.mullvad.net
 dns.mzjtechnology.com
 dns.neeb.it
@@ -250,6 +245,7 @@ dns64.cloudflare-dns.com
 dns64.dns.google
 dns9.quad9.net
 dnsforge.de
+dnsguard.pub
 dnslow.me
 dnspub.restena.lu
 dnstls.mobik.com
@@ -351,7 +347,6 @@ jp01.dns4me.net
 kaitain.restena.lu
 kids.dns0.eu
 kids.ns.nwps.fi
-kiri.nonexiste.net
 kiv01.dnscry.pt
 kronos.plan9-dns.com
 las01.dnscry.pt
