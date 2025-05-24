@@ -1,7 +1,7 @@
 ! Title: Tracker Domain List
 ! Description: List of domains from tracker URLs.
 ! Source: https://github.com/ngosang/trackerslist
-! Last modified: 2025-05-17 00:12:01
+! Last modified: 2025-05-24 00:11:47
 #
 # Domains of tracker services:
 #
@@ -9,6 +9,7 @@
 0d.kebhana.mx
 1337.abcvg.info
 bandito.byterunner.io
+bittorrent-tracker.e-n-c-r-y-p-t.net
 bt.ktrackers.com
 bt.poletracker.org
 bt.rer.lol
@@ -16,7 +17,6 @@ bt1.xxxxbt.cc
 buny.uk
 concen.org
 d40969.acod.regrucolo.ru
-discord.heihachi.pw
 evan.im
 exodus.desync.com
 explodie.org
@@ -25,10 +25,10 @@ highteahop.top
 home.yxgz.club
 ipv4.rer.lol
 ipv4announce.sktorrent.eu
+isk.richardsw.club
 martin-gebhardt.eu
 open.demonii.com
 open.dstud.io
-open.free-tracker.ga
 open.stealth.si
 open.trackerlist.xyz
 opentracker.io
@@ -71,13 +71,15 @@ tracker.ghostchu-services.top
 tracker.gigantino.net
 tracker.gmi.gd
 tracker.ipv6tracker.org
+tracker.itscraftsoftware.my.id
 tracker.leechshield.link
-tracker.lilithraws.org
 tracker.lintk.me
+tracker.linvk.com
 tracker.moeblog.cn
 tracker.moxing.party
 tracker.mywaifu.best
 tracker.opentrackr.org
+tracker.pmman.tech
 tracker.qu.ax
 tracker.renfei.net
 tracker.sbsub.com
@@ -85,7 +87,6 @@ tracker.skyts.net
 tracker.srv00.com
 tracker.theoks.net
 tracker.therarbg.to
-tracker.tiny-vps.com
 tracker.torrent.eu.org
 tracker.torrust-demo.com
 tracker.tryhackx.org
@@ -95,6 +96,7 @@ tracker.xiaoduola.xyz
 tracker.yemekyedim.com
 tracker.zhuqiy.top
 tracker1.itzmx.com
+tracker1.myporn.club
 tracker2.dler.org
 tracker810.xyz
 ttk2.nbaonlineservice.com

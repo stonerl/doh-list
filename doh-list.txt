@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2025-05-17 00:12:00
+! Last modified: 2025-05-24 00:11:47
 #
 # Full URLs of DoH services:
 #
@@ -336,6 +336,7 @@ https://family.rabbitdns.org/dns-query
 https://fidelius.top/dns-query
 https://fra01.dnscry.pt/dns-query
 https://fra02.dnscry.pt/dns-query
+https://frd4wvnobp.cloudflare-gateway.com/dns-query
 https://freedns.controld.com/family
 https://freedns.controld.com/p0
 https://freedns.controld.com/p1

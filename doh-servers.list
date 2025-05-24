@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2025-05-17 00:12:00
+! Last modified: 2025-05-24 00:11:47
 #
 # Domains of DoH services:
 #
@@ -321,6 +321,7 @@ family.rabbitdns.org
 fidelius.top
 fra01.dnscry.pt
 fra02.dnscry.pt
+frd4wvnobp.cloudflare-gateway.com
 freedns.controld.com
 freedom.mydns.network
 frog.dns.qwer.pw
