@@ -1,7 +1,7 @@
 ! Title: Tracker Domain List
 ! Description: List of domains from tracker URLs.
 ! Source: https://github.com/ngosang/trackerslist
-! Last modified: 2025-05-24 00:11:47
+! Last modified: 2025-05-31 00:12:09
 #
 # Domains of tracker services:
 #
@@ -17,6 +17,7 @@ bt1.xxxxbt.cc
 buny.uk
 concen.org
 d40969.acod.regrucolo.ru
+discord.heihachi.pw
 evan.im
 exodus.desync.com
 explodie.org
@@ -27,6 +28,7 @@ ipv4.rer.lol
 ipv4announce.sktorrent.eu
 isk.richardsw.club
 martin-gebhardt.eu
+ns-1.x-fins.com
 open.demonii.com
 open.dstud.io
 open.stealth.si
@@ -34,6 +36,7 @@ open.trackerlist.xyz
 opentracker.io
 p2p.publictracker.xyz
 p4p.arenabg.com
+public.tracker.vraphim.com
 retracker.lanta.me
 retracker.spark-rostov.ru
 retracker01-msk-virt.corbina.net
@@ -57,7 +60,6 @@ tracker.bt4g.com
 tracker.bz
 tracker.corpscorp.online
 tracker.darkness.services
-tracker.ddunlimited.net
 tracker.deadorbit.nl
 tracker.dler.com
 tracker.dler.org
@@ -71,21 +73,19 @@ tracker.ghostchu-services.top
 tracker.gigantino.net
 tracker.gmi.gd
 tracker.ipv6tracker.org
-tracker.itscraftsoftware.my.id
 tracker.leechshield.link
 tracker.lintk.me
 tracker.linvk.com
 tracker.moeblog.cn
 tracker.moxing.party
 tracker.mywaifu.best
+tracker.ololosh.space
 tracker.opentrackr.org
 tracker.pmman.tech
 tracker.qu.ax
 tracker.renfei.net
 tracker.sbsub.com
-tracker.skyts.net
 tracker.srv00.com
-tracker.theoks.net
 tracker.therarbg.to
 tracker.torrent.eu.org
 tracker.torrust-demo.com
