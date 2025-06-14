@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2025-06-07 00:12:22
+! Last modified: 2025-06-14 00:12:08
 #
 # Domains of DoH services:
 #
@@ -63,6 +63,10 @@ bru01.dnscry.pt
 bts01.dnscry.pt
 ca01.dns4me.net
 ca02.dns4me.net
+child-noads.joindns4.eu
+child.joindns4.eu
+chuncheon.dnsovertor.cc
+chuncheon1.dnsovertor.cc
 clean.dnsforge.de
 cloudflare-dns.com
 common.dot.dns.yandex.net
@@ -80,6 +84,7 @@ dns.9999.sg
 dns.a47.me
 dns.aa.net.uk
 dns.adguard-dns.com
+dns.akbxr.com
 dns.alidns.com
 dns.anon.no
 dns.applewebkit.dev
@@ -259,6 +264,7 @@ doh-de.blahdns.com
 doh-own-recursion.nicolas-dorriere.fr
 doh-pure.onedns.net
 doh-random-upstream.nicolas-dorriere.fr
+doh.18bit.cn
 doh.360.cn
 doh.774445.xyz
 doh.aaaab3n.moe
@@ -301,6 +307,10 @@ doh.tiarap.org
 doh.umbrella.com
 doh.viatech.com.tw
 doh.zknt.org
+doh0.jusprogdns.com
+doh12.jusprogdns.com
+doh16.jusprogdns.com
+doh6.jusprogdns.com
 doth.huque.com
 droyd.top
 dub01.dnscry.pt
@@ -336,12 +346,14 @@ han01.dnscry.pt
 hard.dnsforge.de
 helios.plan9-dns.com
 home-server.store
+hongkong.dnsovertor.cc
 ibksturm.synology.me
 ibuki.cgnat.net
 ie01.dns4me.net
 imperio.top
 internetsehat.bebasid.com
 ist01.dnscry.pt
+japan.dnsovertor.cc
 jp.tiar.app
 jp.tiarap.org
 jp01.dns4me.net
@@ -373,6 +385,7 @@ myatris.sbs
 netcup.mismat.ch
 nicsezcheckfbi.gov
 nl.dns.privex.io
+noads.joindns4.eu
 ns.00dani.me
 ns.data.haus
 ns.net.kg
@@ -405,6 +418,7 @@ pooblet.co.za
 privacy.plumedns.com
 private.canadianshield.cira.ca
 protected.canadianshield.cira.ca
+protective.joindns4.eu
 public.dns.iij.jp
 public.ns.nwps.fi
 rdd01.dnscry.pt
@@ -432,11 +446,13 @@ secure.anudeep.me
 secure.avastdns.com
 security.cloudflare-dns.com
 security.rabbitdns.org
+seoul.dnsovertor.cc
 sg-w-p-1.nashkan.net
 sg01.dns4me.net
 sgn01.dnscry.pt
 sin02.dnscry.pt
 sin03.dnscry.pt
+singapore.dnsovertor.cc
 sjc01.dnscry.pt
 sky.rethinkdns.com
 slc01.dnscry.pt
@@ -463,6 +479,7 @@ tuskythehusky.tech
 tyo02.dnscry.pt
 uk01.dns4me.net
 unfiltered.adguard-dns.com
+unfiltered.joindns4.eu
 us-chi-w-f-1.nashkan.net
 us-chi-w-p-1.nashkan.net
 us-jac-w-f-1.nashkan.net

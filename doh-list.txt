@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2025-06-07 00:12:22
+! Last modified: 2025-06-14 00:12:08
 #
 # Full URLs of DoH services:
 #
@@ -64,6 +64,10 @@ https://bru01.dnscry.pt/dns-query
 https://bts01.dnscry.pt/dns-query
 https://ca01.dns4me.net
 https://ca02.dns4me.net
+https://child-noads.joindns4.eu/dns-query
+https://child.joindns4.eu/dns-query
+https://chuncheon.dnsovertor.cc/dns-query
+https://chuncheon1.dnsovertor.cc/dns-query
 https://clean.dnsforge.de/dns-query
 https://cloudflare-dns.com/dns-query
 https://common.dot.dns.yandex.net/dns-query
@@ -82,6 +86,7 @@ https://dns.9999.sg/dns-query
 https://dns.a47.me/dns-query
 https://dns.aa.net.uk/dns-query
 https://dns.adguard-dns.com/dns-query
+https://dns.akbxr.com/dns-query
 https://dns.alidns.com/dns-query
 https://dns.anon.no/dns-query
 https://dns.applewebkit.dev/dns-query
@@ -270,6 +275,7 @@ https://doh-de.blahdns.com/dns-query
 https://doh-own-recursion.nicolas-dorriere.fr/dns-query
 https://doh-pure.onedns.net/dns-query
 https://doh-random-upstream.nicolas-dorriere.fr/dns-query
+https://doh.18bit.cn/dns-query
 https://doh.360.cn/dns-query
 https://doh.774445.xyz/dns-query
 https://doh.aaaab3n.moe/dns-query-114514
@@ -316,6 +322,10 @@ https://doh.tiarap.org/dns-query
 https://doh.umbrella.com/dns-query
 https://doh.viatech.com.tw/dns-query
 https://doh.zknt.org/dns-query
+https://doh0.jusprogdns.com/dns-query
+https://doh12.jusprogdns.com/dns-query
+https://doh16.jusprogdns.com/dns-query
+https://doh6.jusprogdns.com/dns-query
 https://doth.huque.com/dns-query
 https://droyd.top/dns-query
 https://dub01.dnscry.pt/dns-query
@@ -371,6 +381,7 @@ https://han01.dnscry.pt/dns-query
 https://hard.dnsforge.de/dns-query
 https://helios.plan9-dns.com/dns-query
 https://home-server.store/dns-query
+https://hongkong.dnsovertor.cc/dns-query
 https://https://dns-doh.dnsforfamily.com/dns-query
 https://ibksturm.synology.me/dns-query
 https://ibuki.cgnat.net/dns-query
@@ -379,6 +390,7 @@ https://imperio.top/dns-query
 https://internetsehat.bebasid.com/adblock
 https://internetsehat.bebasid.com/dns-query
 https://ist01.dnscry.pt/dns-query
+https://japan.dnsovertor.cc/dns-query
 https://jp.tiar.app/dns-query
 https://jp.tiarap.org/dns-query
 https://jp01.dns4me.net
@@ -410,6 +422,7 @@ https://myatris.sbs/dns-query
 https://netcup.mismat.ch/dns-query
 https://nicsezcheckfbi.gov
 https://nl.dns.privex.io
+https://noads.joindns4.eu/dns-query
 https://ns.00dani.me/dns-query
 https://ns.data.haus/dns-query
 https://ns.net.kg/dns-query
@@ -443,6 +456,7 @@ https://pooblet.co.za/dns-query
 https://privacy.plumedns.com/dns-query
 https://private.canadianshield.cira.ca/dns-query
 https://protected.canadianshield.cira.ca/dns-query
+https://protective.joindns4.eu/dns-query
 https://public.dns.iij.jp/dns-query
 https://public.ns.nwps.fi/dns-query
 https://rdd01.dnscry.pt/dns-query
@@ -470,11 +484,13 @@ https://secure.anudeep.me/dns-query
 https://secure.avastdns.com/dns-query
 https://security.cloudflare-dns.com/dns-query
 https://security.rabbitdns.org/dns-query
+https://seoul.dnsovertor.cc/dns-query
 https://sg-w-p-1.nashkan.net/dns-query
 https://sg01.dns4me.net
 https://sgn01.dnscry.pt/dns-query
 https://sin02.dnscry.pt/dns-query
 https://sin03.dnscry.pt/dns-query
+https://singapore.dnsovertor.cc/dns-query
 https://sjc01.dnscry.pt/dns-query
 https://sky.rethinkdns.com/1:IAAgAA==
 https://sky.rethinkdns.com/dns-query
@@ -502,6 +518,7 @@ https://tuskythehusky.tech/dns-query
 https://tyo02.dnscry.pt/dns-query
 https://uk01.dns4me.net
 https://unfiltered.adguard-dns.com/dns-query
+https://unfiltered.joindns4.eu/dns-query
 https://us-chi-w-f-1.nashkan.net/dns-query
 https://us-chi-w-p-1.nashkan.net/dns-query
 https://us-jac-w-f-1.nashkan.net/dns-query
