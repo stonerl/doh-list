@@ -1,7 +1,7 @@
 ! Title: Tracker Domain List
 ! Description: List of domains from tracker URLs.
 ! Source: https://github.com/ngosang/trackerslist
-! Last modified: 2025-06-21 00:12:29
+! Last modified: 2025-06-28 00:12:23
 #
 # Domains of tracker services:
 #
@@ -17,7 +17,6 @@ bt1.xxxxbt.cc
 buny.uk
 concen.org
 d40969.acod.regrucolo.ru
-discord.heihachi.pw
 evan.im
 exodus.desync.com
 explodie.org
@@ -28,6 +27,7 @@ ipv4.rer.lol
 ipv4announce.sktorrent.eu
 leet-tracker.moe
 martin-gebhardt.eu
+ns-1.x-fins.com
 open.demonii.com
 open.dstud.io
 open.free-tracker.ga
@@ -49,9 +49,7 @@ t.jaekr.sh
 t.overflow.biz
 taciturn-shadow.spb.ru
 tr.kxmp.cf
-tr.zukizuki.org
 tr4ck3r.duckdns.org
-track3r.site
 tracker.23794.top
 tracker.bittor.pw
 tracker.bt-hash.com
@@ -59,12 +57,11 @@ tracker.bt4g.com
 tracker.bz
 tracker.corpscorp.online
 tracker.darkness.services
+tracker.ddunlimited.net
 tracker.dler.com
 tracker.dler.org
 tracker.dmcomic.org
-tracker.dump.cl
 tracker.expli.top
-tracker.filemail.com
 tracker.fnix.net
 tracker.gcrenwp.top
 tracker.ghostchu-services.top
@@ -77,13 +74,11 @@ tracker.linvk.com
 tracker.moeblog.cn
 tracker.moxing.party
 tracker.mywaifu.best
-tracker.ololosh.space
 tracker.opentrackr.org
 tracker.pmman.tech
 tracker.qu.ax
 tracker.renfei.net
 tracker.sbsub.com
-tracker.skyts.net
 tracker.srv00.com
 tracker.theoks.net
 tracker.therarbg.to
