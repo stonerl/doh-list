@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2025-07-05 00:12:15
+! Last modified: 2025-07-12 00:12:47
 #
 # Domains of DoH services:
 #
@@ -44,10 +44,8 @@ anycast.dns.nextdns.io
 anycast.uncensoreddns.org
 arashi.net.eu.org
 asia.tri-dns.net
-at-wie-w-p-1.nashkan.net
 ath01.dnscry.pt
 atl01.dnscry.pt
-atris.cyou
 au-syd-w-f-1.nashkan.net
 au01.dns4me.net
 au02.dns4me.net
@@ -76,11 +74,7 @@ dart.kpsn.org
 de01.dns4me.net
 deep-henchman-excuse.cfd
 dns-doh.dnsforfamily.com
-dns.444723.xyz
 dns.688447.xyz
-dns.775467.xyz
-dns.8887744.xyz
-dns.9999.sg
 dns.a47.me
 dns.aa.net.uk
 dns.adguard-dns.com
@@ -89,7 +83,6 @@ dns.alidns.com
 dns.anon.no
 dns.applewebkit.dev
 dns.arapurayil.com
-dns.artikel10.org
 dns.asterimoon.com
 dns.bebasid.com
 dns.belnet.be
@@ -100,7 +93,6 @@ dns.bmwhocking.com
 dns.braene.com
 dns.brahma.world
 dns.brembeck.cloud
-dns.burgas.pro
 dns.busold.ws
 dns.butterfly87.sbs
 dns.cabbage.zone
@@ -124,7 +116,6 @@ dns.d94.xyz
 dns.d96.info
 dns.datenquark.de
 dns.de.futuredns.eu.org
-dns.deadsec.net
 dns.decky.eu
 dns.decloudus.com
 dns.dev-umbrellagov.com
@@ -178,7 +169,6 @@ dns.mnet-online.de
 dns.mullvad.net
 dns.mzjtechnology.com
 dns.neeb.it
-dns.netvpn.net
 dns.nextdns.io
 dns.nick-slowinski.de
 dns.ningkelle.id
@@ -188,9 +178,7 @@ dns.ofdoom.net
 dns.oliviertv.co.za
 dns.oszx.co
 dns.paesa.es
-dns.pari.network
 dns.paulo.nom.za
-dns.peb-schmidt.de
 dns.petqa.ru
 dns.propheci.xyz
 dns.pub
@@ -206,7 +194,6 @@ dns.retakecs.com
 dns.roedel.cloud
 dns.seia.io
 dns.sheggi.ch
-dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
 dns.skrep.eu
@@ -253,25 +240,21 @@ dnsforge.de
 dnsguard.pub
 dnslow.me
 dnspub.restena.lu
-dnstls.mobik.com
 dnsvps.familiamv.net
 do-39574-tr.xyz
 dog.dns.qwer.pw
 doh-01.spectrum.com
 doh-02.spectrum.com
 doh-2.seby.io
-doh-de.blahdns.com
 doh-own-recursion.nicolas-dorriere.fr
 doh-pure.onedns.net
 doh-random-upstream.nicolas-dorriere.fr
 doh.18bit.cn
 doh.360.cn
-doh.774445.xyz
 doh.aaaab3n.moe
 doh.angry.im
 doh.applied-privacy.net
 doh.archuser.org
-doh.battle.christmas
 doh.beauty
 doh.buzz
 doh.cleanbrowsing.org
@@ -290,7 +273,6 @@ doh.lacontrevoie.fr
 doh.li
 doh.libredns.gr
 doh.lv
-doh.maskab.com
 doh.mmmalia.com
 doh.nic.lv
 doh.niyawe.de
@@ -300,17 +282,13 @@ doh.opendns.com
 doh.qis.io
 doh.sandbox.opendns.com
 doh.sb
-doh.sublime9.xyz
 doh.sunoaki.net
+doh.sz-dns.com
 doh.tiar.app
 doh.tiarap.org
 doh.umbrella.com
 doh.viatech.com.tw
 doh.zknt.org
-doh0.jusprogdns.com
-doh12.jusprogdns.com
-doh16.jusprogdns.com
-doh6.jusprogdns.com
 doth.huque.com
 droyd.top
 dub01.dnscry.pt
@@ -346,7 +324,6 @@ han01.dnscry.pt
 hard.dnsforge.de
 helios.plan9-dns.com
 home-server.store
-hongkong.dnsovertor.cc
 ibksturm.synology.me
 ibuki.cgnat.net
 ie01.dns4me.net
@@ -356,7 +333,6 @@ ist01.dnscry.pt
 japan.dnsovertor.cc
 jp.tiar.app
 jp.tiarap.org
-jp01.dns4me.net
 kaitain.restena.lu
 kids.dns0.eu
 kids.ns.nwps.fi
@@ -373,7 +349,6 @@ lukscasino-479-tr.xyz
 lukscasino-929-tr.xyz
 mabuktogel.directory
 mad01.dnscry.pt
-man01.dnscry.pt
 maqgie.xyz
 masters-of-cloud.de
 megumin.is.my.waifu.cz
@@ -382,7 +357,6 @@ mikezhang.xyz
 mil01.dnscry.pt
 mozilla.cloudflare-dns.com
 myatris.sbs
-netcup.mismat.ch
 nicsezcheckfbi.gov
 nl.dns.privex.io
 noads.joindns4.eu
@@ -412,8 +386,6 @@ phl01.dnscry.pt
 phx01.dnscry.pt
 pihole.aws.ketan.dev
 pluton.plan9-dns.com
-pm7051-br.xyz
-pm9352-bd.xyz
 pooblet.co.za
 privacy.plumedns.com
 private.canadianshield.cira.ca
@@ -452,7 +424,6 @@ sg01.dns4me.net
 sgn01.dnscry.pt
 sin02.dnscry.pt
 sin03.dnscry.pt
-singapore.dnsovertor.cc
 sjc01.dnscry.pt
 sky.rethinkdns.com
 slc01.dnscry.pt
@@ -463,7 +434,6 @@ squidmall.vip
 sto01.dnscry.pt
 sunnygyl.com
 syd.adfilter.net
-syd01.dnscry.pt
 syd02.dnscry.pt
 tbs01.dnscry.pt
 tecdrive.site
@@ -476,7 +446,6 @@ tri-dns.net
 tsm01.dnscry.pt
 tujenasnaszato.xyz
 tuskythehusky.tech
-tyo02.dnscry.pt
 uk01.dns4me.net
 unfiltered.adguard-dns.com
 unfiltered.joindns4.eu
