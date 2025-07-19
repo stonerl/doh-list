@@ -3,19 +3,16 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2025-07-12 00:12:47
+! Last modified: 2025-07-19 00:13:06
 #
 # Domains of DoH services:
 #
 123000123.xyz
-3dcosas.xyz
 3dns.eu
 8888.google
 abel.waringer-atg.de
 abn01.dnscry.pt
-ad.justincounts.com
 ada.openbld.net
-adb.timnichollsphotography.com
 adblock.dns.mullvad.net
 adblock.krctech.dev
 adblock.mydns.network
@@ -28,7 +25,6 @@ adguard-kartoffel.zernico.de
 adguard.bonis.de
 adguard.kasbot.net
 adguard.meddy94.de
-adguard.senthil.us
 adguard.shoupperuser.com
 adl.adfilter.net
 ae-fuj-w-p-1.nashkan.net
@@ -52,7 +48,6 @@ au02.dns4me.net
 base.dns.mullvad.net
 basic.rethinkdns.com
 bazooki-infra.dev
-bestwon203.com
 blocker.thethorsens.org
 bne01.dnscry.pt
 bog01.dnscry.pt
@@ -126,7 +121,6 @@ dns.dnshome.de
 dns.dnswarden.com
 dns.dremaxx.de
 dns.dynx.pro
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.faked.org
@@ -139,17 +133,16 @@ dns.gamban.com
 dns.girino.org
 dns.glf.wtf
 dns.google
+dns.green-ping.lol
 dns.guard.io
 dns.haka.se
 dns.henek.ovh
 dns.hoody.com
 dns.hostux.net
-dns.inclusioproject.com
 dns.inforlogia.com
 dns.jupitrdns.com
 dns.kapite.in
 dns.kebree.fr
-dns.kerekes.xyz
 dns.kernel-error.de
 dns.kescher.at
 dns.koala.us.to
@@ -378,7 +371,6 @@ openbld.net
 ordns.he.net
 par01.dnscry.pt
 paranoia.mydns.network
-pashagame456.com
 pdx01.dnscry.pt
 pepetio.xyz
 per.adfilter.net
@@ -445,7 +437,6 @@ trf01.dnscry.pt
 tri-dns.net
 tsm01.dnscry.pt
 tujenasnaszato.xyz
-tuskythehusky.tech
 uk01.dns4me.net
 unfiltered.adguard-dns.com
 unfiltered.joindns4.eu
@@ -462,7 +453,6 @@ us02.dns4me.net
 v.recipes
 vie01.dnscry.pt
 vno01.dnscry.pt
-vorlif.org
 waw02.dnscry.pt
 wikimedia-dns.org
 xn--durhre-yxa.de
