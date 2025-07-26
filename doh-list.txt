@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2025-07-19 00:13:06
+! Last modified: 2025-07-26 00:13:00
 #
 # Full URLs of DoH services:
 #
@@ -30,7 +30,6 @@ https://adl.adfilter.net/dns-query
 https://ae-fuj-w-p-1.nashkan.net/dns-query
 https://ae-fuj-w-p-2.nashkan.net/dns-query
 https://ae-fuj-w-p-3.nashkan.net/dns-query
-https://affsoft.cc/dns-query
 https://ag.apollohct.com/dns-query
 https://agh.dshubham.xyz/dns-query
 https://all.dns.mullvad.net/dns-query
@@ -60,7 +59,6 @@ https://ca02.dns4me.net
 https://child-noads.joindns4.eu/dns-query
 https://child.joindns4.eu/dns-query
 https://chuncheon.dnsovertor.cc/dns-query
-https://chuncheon1.dnsovertor.cc/dns-query
 https://clean.dnsforge.de/dns-query
 https://cloudflare-dns.com/dns-query
 https://common.dot.dns.yandex.net/dns-query
@@ -176,7 +174,6 @@ https://dns.ningkelle.id/dns-query
 https://dns.njal.la/dns-query
 https://dns.novg.net/dns-query
 https://dns.ofdoom.net/dns-query
-https://dns.oliviertv.co.za/dns-query
 https://dns.oszx.co/dns-query
 https://dns.paesa.es/dns-query
 https://dns.paulo.nom.za/dns-query
@@ -374,8 +371,6 @@ https://lion.dns.qwer.pw/dns-query
 https://lis01.dnscry.pt/dns-query
 https://loadlow.me/dns-query
 https://lon01.dnscry.pt/dns-query
-https://lukscasino-479-tr.xyz/dns-query
-https://lukscasino-929-tr.xyz/dns-query
 https://mabuktogel.directory/dns-query
 https://mad01.dnscry.pt/dns-query
 https://maqgie.xyz/dns-query
@@ -466,7 +461,6 @@ https://sunnygyl.com/dns-query
 https://syd.adfilter.net/dns-query
 https://syd02.dnscry.pt/dns-query
 https://tbs01.dnscry.pt/dns-query
-https://tecdrive.site/dns-query
 https://tiger.dns.qwer.pw/dns-query
 https://tll01.dnscry.pt/dns-query
 https://tlv01.dnscry.pt/dns-query
