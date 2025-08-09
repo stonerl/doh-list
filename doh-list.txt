@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2025-08-02 00:13:10
+! Last modified: 2025-08-09 00:12:31
 #
 # Full URLs of DoH services:
 #
