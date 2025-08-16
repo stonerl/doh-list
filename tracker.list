@@ -1,7 +1,7 @@
 ! Title: Tracker Domain List
 ! Description: List of domains from tracker URLs.
 ! Source: https://github.com/ngosang/trackerslist
-! Last modified: 2025-08-09 00:12:32
+! Last modified: 2025-08-16 00:12:12
 #
 # Domains of tracker services:
 #
@@ -24,22 +24,25 @@ exodus.desync.com
 explodie.org
 extracker.dahrkael.net
 finbytes.org
+glotorrents.pw
 hificode.in
 highteahop.top
 home.yxgz.club
 ipv4.rer.lol
 ipv4announce.sktorrent.eu
 isk.richardsw.club
+leet-tracker.moe
 martin-gebhardt.eu
+ns-1.x-fins.com
 open.demonii.com
 open.dstud.io
+open.free-tracker.ga
 open.stealth.si
 open.tracker.cl
 open.trackerlist.xyz
 opentracker.io
 p4p.arenabg.com
 public.tracker.vraphim.com
-pybittrack.retiolus.net
 retracker.lanta.me
 retracker.spark-rostov.ru
 retracker01-msk-virt.corbina.net
@@ -50,8 +53,6 @@ shubt.net
 t.jaekr.sh
 t.overflow.biz
 torrent.hificode.in
-tr.kxmp.cf
-tr.zukizuki.org
 tr4ck3r.duckdns.org
 tracker-udp.gbitt.info
 tracker.23794.top
@@ -63,6 +64,7 @@ tracker.bt4g.com
 tracker.bz
 tracker.corpscorp.online
 tracker.cutie.dating
+tracker.darkness.services
 tracker.dler.org
 tracker.dmcomic.org
 tracker.expli.top
@@ -76,7 +78,6 @@ tracker.healthcareindia.store
 tracker.hifimarket.in
 tracker.hifitechindia.com
 tracker.ipv6tracker.org
-tracker.kmzs123.cn
 tracker.leechshield.link
 tracker.lintk.me
 tracker.moeblog.cn
@@ -92,10 +93,9 @@ tracker.renfei.net
 tracker.sbsub.com
 tracker.skillindia.site
 tracker.srv00.com
-tracker.theoks.net
 tracker.therarbg.to
-tracker.torrust-demo.com
 tracker.tritan.gg
+tracker.tryhackx.org
 tracker.valete.tf
 tracker.vanitycore.co
 tracker.waaa.moe

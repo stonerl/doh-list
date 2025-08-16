@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2025-08-09 00:12:31
+! Last modified: 2025-08-16 00:12:11
 #
 # Domains of DoH services:
 #
@@ -65,9 +65,7 @@ cph01.dnscry.pt
 cvt01.dnscry.pt
 dart.kpsn.org
 de01.dns4me.net
-deep-henchman-excuse.cfd
 dns-doh.dnsforfamily.com
-dns.688447.xyz
 dns.a47.me
 dns.aa.net.uk
 dns.adguard-dns.com
@@ -87,7 +85,6 @@ dns.braene.com
 dns.brahma.world
 dns.brembeck.cloud
 dns.busold.ws
-dns.butterfly87.sbs
 dns.cabbage.zone
 dns.caliph.dev
 dns.caspervk.net
@@ -100,7 +97,6 @@ dns.chunghwamc.com
 dns.cloudflare.com
 dns.comff.net
 dns.comss.one
-dns.crystalyx.net
 dns.csa-rz.de
 dns.csaonline.de
 dns.csswg.org
@@ -170,7 +166,6 @@ dns.oszx.co
 dns.paesa.es
 dns.paulo.nom.za
 dns.petqa.ru
-dns.propheci.xyz
 dns.pub
 dns.pumplex.com
 dns.quad9.net
@@ -185,7 +180,6 @@ dns.roedel.cloud
 dns.seia.io
 dns.sheggi.ch
 dns.silen.org
-dns.silentlybren.com
 dns.skrep.eu
 dns.slinkyman.net
 dns.smartguard.io
@@ -271,8 +265,6 @@ doh.onedns.net
 doh.opendns.com
 doh.qis.io
 doh.sandbox.opendns.com
-doh.sb
-doh.sunoaki.net
 doh.sz-dns.com
 doh.tiar.app
 doh.tiarap.org
@@ -340,8 +332,6 @@ mad01.dnscry.pt
 maqgie.xyz
 masters-of-cloud.de
 megumin.is.my.waifu.cz
-mendozasdelivery.com
-mikezhang.xyz
 mil01.dnscry.pt
 mozilla.cloudflare-dns.com
 myatris.sbs
@@ -409,7 +399,6 @@ seoul.dnsovertor.cc
 sg-w-p-1.nashkan.net
 sg01.dns4me.net
 sgn01.dnscry.pt
-sin02.dnscry.pt
 sin03.dnscry.pt
 sjc01.dnscry.pt
 sky.rethinkdns.com
@@ -417,7 +406,6 @@ slc01.dnscry.pt
 sm2.doh.pub
 sof01.dnscry.pt
 solaxy.live
-squidmall.vip
 sto01.dnscry.pt
 sunnygyl.com
 syd.adfilter.net

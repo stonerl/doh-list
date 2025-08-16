@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2025-08-09 00:12:31
+! Last modified: 2025-08-16 00:12:11
 #
 # Full URLs of DoH services:
 #
@@ -67,9 +67,7 @@ https://cvt01.dnscry.pt/dns-query
 https://dandelionsprout.asuscomm.com:2501/dns-query
 https://dart.kpsn.org/dns-query
 https://de01.dns4me.net
-https://deep-henchman-excuse.cfd/dns-query
 https://dns-doh.dnsforfamily.com/dns-query
-https://dns.688447.xyz/dns-query
 https://dns.a47.me/dns-query
 https://dns.aa.net.uk/dns-query
 https://dns.adguard-dns.com/dns-query
@@ -92,7 +90,6 @@ https://dns.braene.com/dns-query
 https://dns.brahma.world/dns-query
 https://dns.brembeck.cloud/dns-query
 https://dns.busold.ws/dns-query
-https://dns.butterfly87.sbs/dns-query
 https://dns.cabbage.zone/dns-query
 https://dns.caliph.dev/dns-query
 https://dns.caspervk.net/dns-query
@@ -106,7 +103,6 @@ https://dns.cloudflare.com/dns-query
 https://dns.cloudflare.com:53/dns-query
 https://dns.comff.net/dns-query
 https://dns.comss.one/dns-query
-https://dns.crystalyx.net/dns-query
 https://dns.csa-rz.de/dns-query
 https://dns.csaonline.de/dns-query
 https://dns.csswg.org/dns-query
@@ -178,7 +174,6 @@ https://dns.oszx.co/dns-query
 https://dns.paesa.es/dns-query
 https://dns.paulo.nom.za/dns-query
 https://dns.petqa.ru/dns-query
-https://dns.propheci.xyz/dns-query
 https://dns.pub/dns-query
 https://dns.pumplex.com/dns-query
 https://dns.quad9.net/dns-query
@@ -193,7 +188,6 @@ https://dns.roedel.cloud/dns-query
 https://dns.seia.io/dns-query
 https://dns.sheggi.ch/dns-query
 https://dns.silen.org/dns-query
-https://dns.silentlybren.com/dns-query
 https://dns.skrep.eu/dns-query
 https://dns.slinkyman.net/dns-query
 https://dns.smartguard.io/dns-query
@@ -285,8 +279,6 @@ https://doh.onedns.net/dns-query
 https://doh.opendns.com/dns-query
 https://doh.qis.io/dns-query
 https://doh.sandbox.opendns.com/dns-query
-https://doh.sb/dns-query
-https://doh.sunoaki.net/dns-query
 https://doh.sz-dns.com/dns-query
 https://doh.tiar.app/dns-query
 https://doh.tiarap.org/dns-query
@@ -376,8 +368,6 @@ https://mad01.dnscry.pt/dns-query
 https://maqgie.xyz/dns-query
 https://masters-of-cloud.de/dns-query
 https://megumin.is.my.waifu.cz/dns-query
-https://mendozasdelivery.com/dns-query
-https://mikezhang.xyz/dns-query
 https://mil01.dnscry.pt/dns-query
 https://mozilla.cloudflare-dns.com/dns-query
 https://myatris.sbs/dns-query
@@ -446,7 +436,6 @@ https://seoul.dnsovertor.cc/dns-query
 https://sg-w-p-1.nashkan.net/dns-query
 https://sg01.dns4me.net
 https://sgn01.dnscry.pt/dns-query
-https://sin02.dnscry.pt/dns-query
 https://sin03.dnscry.pt/dns-query
 https://sjc01.dnscry.pt/dns-query
 https://sky.rethinkdns.com/1:IAAgAA==
@@ -455,7 +444,6 @@ https://slc01.dnscry.pt/dns-query
 https://sm2.doh.pub/dns-query
 https://sof01.dnscry.pt/dns-query
 https://solaxy.live/dns-query
-https://squidmall.vip/dns-query
 https://sto01.dnscry.pt/dns-query
 https://sunnygyl.com/dns-query
 https://syd.adfilter.net/dns-query
