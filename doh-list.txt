@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2025-08-23 00:11:31
+! Last modified: 2025-08-30 00:11:18
 #
 # Full URLs of DoH services:
 #
@@ -139,7 +139,6 @@ https://dns.guard.io/dns-query
 https://dns.haka.se/dns-query
 https://dns.henek.ovh/dns-query
 https://dns.hoody.com/dns-query
-https://dns.hostux.net/ads
 https://dns.inforlogia.com/dns-query
 https://dns.jupitrdns.com/dns-query
 https://dns.kapite.in/dns-query
@@ -158,7 +157,6 @@ https://dns.mateo.ovh/dns-query
 https://dns.mayx.eu.org/dns-query
 https://dns.mbrjun.cn/dns-query
 https://dns.mh4ckt3mh4ckt1c4s.xyz/dns-query
-https://dns.michelo.cl/dns-query
 https://dns.mnet-online.de/dns-query
 https://dns.mullvad.net/dns-query
 https://dns.mzjtechnology.com/dns-query
@@ -235,7 +233,6 @@ https://dnsguard.pub/dns-query
 https://dnslow.me/dns-query
 https://dnspub.restena.lu/dns-query
 https://dnsvps.familiamv.net/dns-query
-https://do-39574-tr.xyz/dns-query
 https://dog.dns.qwer.pw/dns-query
 https://doh-01.spectrum.com/dns-query
 https://doh-02.spectrum.com/dns-query
@@ -261,7 +258,6 @@ https://doh.domreg.lt/dns-query
 https://doh.familyshield.opendns.com/dns-query
 https://doh.ffmuc.net/dns-query
 https://doh.futa.gg/dns-query
-https://doh.immerda.ch/dns-query
 https://doh.kel.pe
 https://doh.kidzonet.io/dns-query
 https://doh.la.ahadns.net/dns-query
@@ -339,7 +335,6 @@ https://haf01.dnscry.pt/dns-query
 https://han01.dnscry.pt/dns-query
 https://hard.dnsforge.de/dns-query
 https://helios.plan9-dns.com/dns-query
-https://home-server.store/dns-query
 https://https://dns-doh.dnsforfamily.com/dns-query
 https://ibksturm.synology.me/dns-query
 https://ibuki.cgnat.net/dns-query

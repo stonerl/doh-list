@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2025-08-23 00:11:31
+! Last modified: 2025-08-30 00:11:18
 #
 # Domains of DoH services:
 #
@@ -132,7 +132,6 @@ dns.guard.io
 dns.haka.se
 dns.henek.ovh
 dns.hoody.com
-dns.hostux.net
 dns.inforlogia.com
 dns.jupitrdns.com
 dns.kapite.in
@@ -151,7 +150,6 @@ dns.mateo.ovh
 dns.mayx.eu.org
 dns.mbrjun.cn
 dns.mh4ckt3mh4ckt1c4s.xyz
-dns.michelo.cl
 dns.mnet-online.de
 dns.mullvad.net
 dns.mzjtechnology.com
@@ -225,7 +223,6 @@ dnsguard.pub
 dnslow.me
 dnspub.restena.lu
 dnsvps.familiamv.net
-do-39574-tr.xyz
 dog.dns.qwer.pw
 doh-01.spectrum.com
 doh-02.spectrum.com
@@ -249,7 +246,6 @@ doh.domreg.lt
 doh.familyshield.opendns.com
 doh.ffmuc.net
 doh.futa.gg
-doh.immerda.ch
 doh.kel.pe
 doh.kidzonet.io
 doh.la.ahadns.net
@@ -305,7 +301,6 @@ haf01.dnscry.pt
 han01.dnscry.pt
 hard.dnsforge.de
 helios.plan9-dns.com
-home-server.store
 ibksturm.synology.me
 ibuki.cgnat.net
 ie01.dns4me.net
