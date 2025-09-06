@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2025-08-30 00:11:18
+! Last modified: 2025-09-06 00:11:24
 #
 # Full URLs of DoH services:
 #
@@ -465,6 +465,8 @@ https://us-saj-w-f-1.nashkan.net/dns-query
 https://us-saj-w-p-1.nashkan.net/dns-query
 https://us01.dns4me.net
 https://us02.dns4me.net
+https://v.recipes/dns-adblock
+https://v.recipes/dns-ecs
 https://v.recipes/dns-query
 https://vie01.dnscry.pt/dns-query
 https://vno01.dnscry.pt/dns-query

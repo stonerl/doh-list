@@ -1,7 +1,7 @@
 ! Title: Tracker Domain List
 ! Description: List of domains from tracker URLs.
 ! Source: https://github.com/ngosang/trackerslist
-! Last modified: 2025-08-30 00:11:18
+! Last modified: 2025-09-06 00:11:24
 #
 # Domains of tracker services:
 #
@@ -31,16 +31,17 @@ highteahop.top
 home.yxgz.club
 ipv4.rer.lol
 ipv4announce.sktorrent.eu
-isk.richardsw.club
 leet-tracker.moe
 martin-gebhardt.eu
+ns-1.x-fins.com
 open.demonii.com
 open.dstud.io
+open.free-tracker.ga
 open.stealth.si
-open.tracker.cl
 open.trackerlist.xyz
 opentracker.io
 p4p.arenabg.com
+passpulse.net
 public.tracker.vraphim.com
 retracker.lanta.me
 retracker.spark-rostov.ru
@@ -72,6 +73,7 @@ tracker.dmcomic.org
 tracker.expli.top
 tracker.filemail.com
 tracker.fnix.net
+tracker.gcrenwp.top
 tracker.ghostchu-services.top
 tracker.gigantino.net
 tracker.gmi.gd
@@ -79,7 +81,6 @@ tracker.healthcareindia.store
 tracker.hifimarket.in
 tracker.hifitechindia.com
 tracker.ipv6tracker.org
-tracker.kmzs123.cn
 tracker.leechshield.link
 tracker.lintk.me
 tracker.moeblog.cn
@@ -89,11 +90,13 @@ tracker.ololosh.space
 tracker.opentrackr.org
 tracker.plx.im
 tracker.pmman.tech
+tracker.privateseedbox.xyz
 tracker.qu.ax
 tracker.renfei.net
 tracker.sbsub.com
 tracker.skillindia.site
 tracker.srv00.com
+tracker.theoks.net
 tracker.therarbg.to
 tracker.torrust-demo.com
 tracker.tritan.gg
@@ -101,8 +104,9 @@ tracker.tryhackx.org
 tracker.valete.tf
 tracker.vanitycore.co
 tracker.waaa.moe
+tracker.wepzone.net
 tracker.xiaoduola.xyz
-tracker.yume-hatsuyuki.moe
+tracker.yemekyedim.com
 tracker.zhuqiy.top
 tracker.zupix.online
 tracker1.bt.moack.co.kr
@@ -111,5 +115,6 @@ tracker2.dler.org
 tracker810.xyz
 ttk2.nbaonlineservice.com
 udp.tracker.projectk.org
+wepzone.net
 www.genesis-sp.org
 www.torrentsnipe.info
