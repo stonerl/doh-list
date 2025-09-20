@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2025-09-13 00:10:54
+! Last modified: 2025-09-20 00:11:12
 #
 # Domains of DoH services:
 #
@@ -33,7 +33,6 @@ ae-fuj-w-p-3.nashkan.net
 ag.apollohct.com
 agh.dshubham.xyz
 all.dns.mullvad.net
-ams01.dnscry.pt
 antivirus.bebasid.com
 anycast.dns.nextdns.io
 anycast.uncensoreddns.org
@@ -130,7 +129,6 @@ dns.google
 dns.green-ping.lol
 dns.guard.io
 dns.haka.se
-dns.henek.ovh
 dns.hoody.com
 dns.inforlogia.com
 dns.jupitrdns.com
@@ -148,7 +146,6 @@ dns.marasov.id
 dns.marbledfennec.net
 dns.mateo.ovh
 dns.mayx.eu.org
-dns.mbrjun.cn
 dns.mh4ckt3mh4ckt1c4s.xyz
 dns.mnet-online.de
 dns.mullvad.net
@@ -193,8 +190,6 @@ dns.szpadel.ovh
 dns.t53.de
 dns.technologycage.com
 dns.telekom.de
-dns.thebuckners.org
-dns.thiz.top
 dns.tipsy.coffee
 dns.tls-data.de
 dns.twnic.tw
@@ -207,14 +202,11 @@ dns.xlion.tw
 dns.yuu-g.net
 dns0.eu
 dns1.in-berlin.de
-dns1.nordvpn.com
-dns1.pietjacobs.be
 dns1.serdcebolit.ru
 dns10.quad9.net
 dns11.quad9.net
 dns12.quad9.net
 dns2.in-berlin.de
-dns2.nordvpn.com
 dns64.cloudflare-dns.com
 dns64.dns.google
 dns9.quad9.net
@@ -317,7 +309,6 @@ kiv01.dnscry.pt
 kronos.plan9-dns.com
 las01.dnscry.pt
 lifeisa.live
-lim02.dnscry.pt
 lion.dns.qwer.pw
 lis01.dnscry.pt
 loadlow.me
@@ -329,9 +320,7 @@ masters-of-cloud.de
 megumin.is.my.waifu.cz
 mil01.dnscry.pt
 mozilla.cloudflare-dns.com
-myatris.sbs
 nicsezcheckfbi.gov
-nl.dns.privex.io
 noads.joindns4.eu
 ns.00dani.me
 ns.data.haus
