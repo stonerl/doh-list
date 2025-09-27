@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2025-09-20 00:11:12
+! Last modified: 2025-09-27 00:11:16
 #
 # Domains of DoH services:
 #
@@ -46,7 +46,6 @@ au02.dns4me.net
 base.dns.mullvad.net
 basic.rethinkdns.com
 bazooki-infra.dev
-blocker.thethorsens.org
 bne01.dnscry.pt
 bog01.dnscry.pt
 bom01.dnscry.pt
@@ -310,14 +309,12 @@ kronos.plan9-dns.com
 las01.dnscry.pt
 lifeisa.live
 lion.dns.qwer.pw
-lis01.dnscry.pt
 loadlow.me
 lon01.dnscry.pt
 mabuktogel.directory
 mad01.dnscry.pt
 maqgie.xyz
 masters-of-cloud.de
-megumin.is.my.waifu.cz
 mil01.dnscry.pt
 mozilla.cloudflare-dns.com
 nicsezcheckfbi.gov
@@ -424,7 +421,6 @@ wikimedia-dns.org
 xn--durhre-yxa.de
 yarp.lefolgoc.net
 yhz01.dnscry.pt
-yunyun.is.my.waifu.cz
 yvr01.dnscry.pt
 yyc01.dnscry.pt
 yyz01.dnscry.pt

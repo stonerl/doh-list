@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2025-09-20 00:11:12
+! Last modified: 2025-09-27 00:11:16
 #
 # Full URLs of DoH services:
 #
@@ -47,7 +47,6 @@ https://au02.dns4me.net
 https://base.dns.mullvad.net/dns-query
 https://basic.rethinkdns.com/
 https://bazooki-infra.dev/dns-query
-https://blocker.thethorsens.org/dns-query
 https://bne01.dnscry.pt/dns-query
 https://bog01.dnscry.pt/dns-query
 https://bom01.dnscry.pt/dns-query
@@ -345,14 +344,12 @@ https://kronos.plan9-dns.com/dns-query
 https://las01.dnscry.pt/dns-query
 https://lifeisa.live/dns-query
 https://lion.dns.qwer.pw/dns-query
-https://lis01.dnscry.pt/dns-query
 https://loadlow.me/dns-query
 https://lon01.dnscry.pt/dns-query
 https://mabuktogel.directory/dns-query
 https://mad01.dnscry.pt/dns-query
 https://maqgie.xyz/dns-query
 https://masters-of-cloud.de/dns-query
-https://megumin.is.my.waifu.cz/dns-query
 https://mil01.dnscry.pt/dns-query
 https://mozilla.cloudflare-dns.com/dns-query
 https://nicsezcheckfbi.gov
@@ -463,7 +460,6 @@ https://wikimedia-dns.org/dns-query
 https://xn--durhre-yxa.de/dns-query
 https://yarp.lefolgoc.net/dns-query
 https://yhz01.dnscry.pt/dns-query
-https://yunyun.is.my.waifu.cz/dns-query
 https://yvr01.dnscry.pt/dns-query
 https://yyc01.dnscry.pt/dns-query
 https://yyz01.dnscry.pt/dns-query
