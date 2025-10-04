@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2025-09-27 00:11:16
+! Last modified: 2025-10-04 00:11:05
 #
 # Full URLs of DoH services:
 #
@@ -132,7 +132,6 @@ https://dns.gamban.com/dns-query
 https://dns.girino.org/dns-query
 https://dns.glf.wtf/dns-query
 https://dns.google/dns-query
-https://dns.green-ping.lol/dns-query
 https://dns.guard.io/dns-query
 https://dns.haka.se/dns-query
 https://dns.hoody.com/dns-query
@@ -348,7 +347,6 @@ https://loadlow.me/dns-query
 https://lon01.dnscry.pt/dns-query
 https://mabuktogel.directory/dns-query
 https://mad01.dnscry.pt/dns-query
-https://maqgie.xyz/dns-query
 https://masters-of-cloud.de/dns-query
 https://mil01.dnscry.pt/dns-query
 https://mozilla.cloudflare-dns.com/dns-query
