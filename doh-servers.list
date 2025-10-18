@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2025-10-11 00:11:03
+! Last modified: 2025-10-18 00:11:08
 #
 # Domains of DoH services:
 #
@@ -77,7 +77,6 @@ dns.arapurayil.com
 dns.asterimoon.com
 dns.bebasid.com
 dns.belnet.be
-dns.bibica.net
 dns.bitdefender.net
 dns.bitservices.io
 dns.blokada.org
@@ -103,13 +102,13 @@ dns.csswg.org
 dns.cynthialabs.net
 dns.d94.xyz
 dns.datenquark.de
-dns.de.futuredns.eu.org
 dns.decky.eu
 dns.decloudus.com
 dns.dev-umbrellagov.com
 dns.digitale-gesellschaft.ch
 dns.digitalsize.net
 dns.dns-53.us
+dns.dnsguard.pub
 dns.dnshome.de
 dns.dnswarden.com
 dns.dremaxx.de
@@ -193,10 +192,8 @@ dns.tipsy.coffee
 dns.tls-data.de
 dns.twnic.tw
 dns.unx.io
-dns.us.futuredns.eu.org
 dns.vaioswolke.xyz
 dns.w3ctag.org
-dns.wang.art
 dns.xlion.tw
 dns.yuu-g.net
 dns.yuzia.cc
@@ -212,7 +209,6 @@ dns64.cloudflare-dns.com
 dns64.dns.google
 dns9.quad9.net
 dnsforge.de
-dnsguard.pub
 dnslow.me
 dnspub.restena.lu
 dnsvps.familiamv.net
@@ -264,7 +260,6 @@ doth.huque.com
 droyd.top
 dub01.dnscry.pt
 dukun.de
-dus01.dnscry.pt
 es-ma.foxyfy.net
 eu.tri-dns.net
 eu1.dns.lavate.ch
@@ -322,7 +317,6 @@ mil01.dnscry.pt
 mozilla.cloudflare-dns.com
 nicsezcheckfbi.gov
 noads.joindns4.eu
-ns.00dani.me
 ns.data.haus
 ns.net.kg
 ns0.fdn.fr
@@ -404,7 +398,6 @@ tpa01.dnscry.pt
 trf01.dnscry.pt
 tri-dns.net
 tsm01.dnscry.pt
-tujenasnaszato.xyz
 uk01.dns4me.net
 unfiltered.adguard-dns.com
 unfiltered.joindns4.eu
