@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2025-10-18 00:11:08
+! Last modified: 2025-10-25 00:11:37
 #
 # Domains of DoH services:
 #
@@ -197,7 +197,6 @@ dns.w3ctag.org
 dns.xlion.tw
 dns.yuu-g.net
 dns.yuzia.cc
-dns0.eu
 dns1.in-berlin.de
 dns1.serdcebolit.ru
 dns10.quad9.net
@@ -301,7 +300,6 @@ jp-to.foxyfy.net
 jp.tiar.app
 jp.tiarap.org
 kaitain.restena.lu
-kids.dns0.eu
 kids.ns.nwps.fi
 kiv01.dnscry.pt
 kronos.plan9-dns.com
@@ -329,7 +327,6 @@ nue01.dnscry.pt
 nz01.dns4me.net
 odvr.nic.cz
 omr01.dnscry.pt
-open.dns0.eu
 openbld.net
 ordns.he.net
 par01.dnscry.pt
@@ -393,7 +390,6 @@ syd02.dnscry.pt
 tbs01.dnscry.pt
 tiger.dns.qwer.pw
 tll01.dnscry.pt
-tlv01.dnscry.pt
 tpa01.dnscry.pt
 trf01.dnscry.pt
 tri-dns.net
@@ -425,4 +421,3 @@ yvr01.dnscry.pt
 yyc01.dnscry.pt
 yyz01.dnscry.pt
 zdn.ro
-zero.dns0.eu
