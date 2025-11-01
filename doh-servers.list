@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2025-10-25 00:11:37
+! Last modified: 2025-11-01 00:13:50
 #
 # Domains of DoH services:
 #
@@ -22,7 +22,6 @@ adfreedns.top
 adg.geili.me
 adg.khon.dev
 adguard-kartoffel.zernico.de
-adguard.bonis.de
 adguard.kasbot.net
 adguard.meddy94.de
 adguard.shoupperuser.com
@@ -37,7 +36,6 @@ antivirus.bebasid.com
 anycast.dns.nextdns.io
 anycast.uncensoreddns.org
 arashi.net.eu.org
-asia.tri-dns.net
 ath01.dnscry.pt
 atl01.dnscry.pt
 au-syd-w-f-1.nashkan.net
@@ -81,7 +79,6 @@ dns.bitdefender.net
 dns.bitservices.io
 dns.blokada.org
 dns.bmwhocking.com
-dns.braene.com
 dns.brahma.world
 dns.brembeck.cloud
 dns.busold.ws
@@ -94,7 +91,6 @@ dns.chenu.ch
 dns.christerwaren.fi
 dns.chunghwamc.com
 dns.cloudflare.com
-dns.comff.net
 dns.comss.one
 dns.csa-rz.de
 dns.csaonline.de
@@ -196,7 +192,6 @@ dns.vaioswolke.xyz
 dns.w3ctag.org
 dns.xlion.tw
 dns.yuu-g.net
-dns.yuzia.cc
 dns1.in-berlin.de
 dns1.serdcebolit.ru
 dns10.quad9.net
@@ -260,7 +255,6 @@ droyd.top
 dub01.dnscry.pt
 dukun.de
 es-ma.foxyfy.net
-eu.tri-dns.net
 eu1.dns.lavate.ch
 evn01.dnscry.pt
 extended.dns.mullvad.net
@@ -367,7 +361,6 @@ safe.dot.dns.yandex.net
 safeservedns.com
 sea01.dnscry.pt
 secondary.dns.seia.io
-secure.anudeep.me
 secure.avastdns.com
 secure.hafnova.com
 security.cloudflare-dns.com
@@ -392,7 +385,6 @@ tiger.dns.qwer.pw
 tll01.dnscry.pt
 tpa01.dnscry.pt
 trf01.dnscry.pt
-tri-dns.net
 tsm01.dnscry.pt
 uk01.dns4me.net
 unfiltered.adguard-dns.com
@@ -402,7 +394,6 @@ us-chi-w-p-1.nashkan.net
 us-jac-w-f-1.nashkan.net
 us-jac-w-p-1.nashkan.net
 us-kan-w-p-1.nashkan.net
-us-ny.foxyfy.net
 us-nyc-w-p-1.nashkan.net
 us-saj-w-f-1.nashkan.net
 us-saj-w-p-1.nashkan.net

@@ -1,7 +1,7 @@
 ! Title: Tracker Domain List
 ! Description: List of domains from tracker URLs.
 ! Source: https://github.com/ngosang/trackerslist
-! Last modified: 2025-10-25 00:11:37
+! Last modified: 2025-11-01 00:13:50
 #
 # Domains of tracker services:
 #
@@ -24,13 +24,16 @@ d40969.acod.regrucolo.ru
 exodus.desync.com
 explodie.org
 extracker.dahrkael.net
+glotorrents.pw
+hificode.in
 home.yxgz.club
 ipv4announce.sktorrent.eu
+isk.richardsw.club
+leet-tracker.moe
 martin-gebhardt.eu
-open.acgtracker.com
+ns-1.x-fins.com
 open.demonii.com
 open.demonoid.ch
-open.dstud.io
 open.free-tracker.ga
 open.stealth.si
 open.trackerlist.xyz
@@ -55,8 +58,8 @@ torrentclub.online
 tr.nyacat.pw
 tr4ck3r.duckdns.org
 tracker-udp.gbitt.info
+tracker.1h.is
 tracker.23794.top
-tracker.aburaya.live
 tracker.alaskantf.com
 tracker.belmult.online
 tracker.bittor.pw
@@ -78,11 +81,13 @@ tracker.ghostchu-services.top
 tracker.gmi.gd
 tracker.hifimarket.in
 tracker.ipv6tracker.org
+tracker.kmzs123.cn
 tracker.leechshield.link
 tracker.lintk.me
 tracker.moeblog.cn
 tracker.moxing.party
 tracker.mywaifu.best
+tracker.ololosh.space
 tracker.opentrackr.org
 tracker.plx.im
 tracker.pmman.tech
@@ -92,6 +97,8 @@ tracker.sbsub.com
 tracker.skyts.net
 tracker.srv00.com
 tracker.startwork.cv
+tracker.t-1.org
+tracker.theoks.net
 tracker.therarbg.to
 tracker.torrent.eu.org
 tracker.torrust-demo.com
@@ -99,7 +106,6 @@ tracker.tritan.gg
 tracker.tryhackx.org
 tracker.tvunderground.org.ru
 tracker.uraniumhexafluori.de
-tracker.valete.tf
 tracker.vanitycore.co
 tracker.waaa.moe
 tracker.xiaoduola.xyz
