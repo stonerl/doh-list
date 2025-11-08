@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2025-11-01 00:13:50
+! Last modified: 2025-11-08 00:11:35
 #
 # Domains of DoH services:
 #
@@ -22,7 +22,6 @@ adfreedns.top
 adg.geili.me
 adg.khon.dev
 adguard-kartoffel.zernico.de
-adguard.kasbot.net
 adguard.meddy94.de
 adguard.shoupperuser.com
 adl.adfilter.net
@@ -103,7 +102,6 @@ dns.decloudus.com
 dns.dev-umbrellagov.com
 dns.digitale-gesellschaft.ch
 dns.digitalsize.net
-dns.dns-53.us
 dns.dnsguard.pub
 dns.dnshome.de
 dns.dnswarden.com
@@ -290,7 +288,6 @@ imperio.top
 internetsehat.bebasid.com
 ist01.dnscry.pt
 japan.dnsovertor.cc
-jp-to.foxyfy.net
 jp.tiar.app
 jp.tiarap.org
 kaitain.restena.lu
@@ -412,3 +409,4 @@ yvr01.dnscry.pt
 yyc01.dnscry.pt
 yyz01.dnscry.pt
 zdn.ro
+zero.dns0.eu

@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2025-11-01 00:13:50
+! Last modified: 2025-11-08 00:11:35
 #
 # Full URLs of DoH services:
 #
@@ -22,7 +22,6 @@ https://adfreedns.top/dns-query
 https://adg.geili.me/dns-query
 https://adg.khon.dev/dns-query
 https://adguard-kartoffel.zernico.de/dns-query
-https://adguard.kasbot.net/dns-query
 https://adguard.meddy94.de/dns-query
 https://adguard.shoupperuser.com/dns-query
 https://adl.adfilter.net/dns-query
@@ -109,7 +108,6 @@ https://dns.decloudus.com/dns-query
 https://dns.dev-umbrellagov.com/dns-query
 https://dns.digitale-gesellschaft.ch/dns-query
 https://dns.digitalsize.net/dns-query
-https://dns.dns-53.us/dns-query
 https://dns.dnsguard.pub/dns-query
 https://dns.dnshome.de/dns-query
 https://dns.dnswarden.com/uncensored
@@ -324,7 +322,6 @@ https://internetsehat.bebasid.com/adblock
 https://internetsehat.bebasid.com/dns-query
 https://ist01.dnscry.pt/dns-query
 https://japan.dnsovertor.cc/dns-query
-https://jp-to.foxyfy.net/dns-query
 https://jp.tiar.app/dns-query
 https://jp.tiarap.org/dns-query
 https://kaitain.restena.lu/dns-query
@@ -450,3 +447,5 @@ https://yvr01.dnscry.pt/dns-query
 https://yyc01.dnscry.pt/dns-query
 https://yyz01.dnscry.pt/dns-query
 https://zdn.ro/dns-query
+https://zero.dns0.eu
+https://zero.dns0.eu/

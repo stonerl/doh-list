@@ -1,15 +1,13 @@
 ! Title: Tracker Domain List
 ! Description: List of domains from tracker URLs.
 ! Source: https://github.com/ngosang/trackerslist
-! Last modified: 2025-11-01 00:13:50
+! Last modified: 2025-11-08 00:11:35
 #
 # Domains of tracker services:
 #
 0123456789nonexistent.com
 0d.kebhana.mx
 1337.abcvg.info
-1c.premierzal.ru
-6ahddutb1ucc3cp.ru
 aboutbeautifulgallopinghorsesinthegreenpasture.online
 bandito.byterunner.io
 bittorrent-tracker.e-n-c-r-y-p-t.net
@@ -21,20 +19,18 @@ buny.uk
 bvarf.tracker.sh
 concen.org
 d40969.acod.regrucolo.ru
-exodus.desync.com
 explodie.org
 extracker.dahrkael.net
-glotorrents.pw
 hificode.in
 home.yxgz.club
 ipv4announce.sktorrent.eu
-isk.richardsw.club
 leet-tracker.moe
 martin-gebhardt.eu
 ns-1.x-fins.com
+open.acgtracker.com
 open.demonii.com
 open.demonoid.ch
-open.free-tracker.ga
+open.dstud.io
 open.stealth.si
 open.trackerlist.xyz
 opentracker.io
@@ -55,16 +51,15 @@ t.overflow.biz
 torrent.hificode.in
 torrent.tracker.durukanbal.com
 torrentclub.online
+tr.kxmp.cf
 tr.nyacat.pw
 tr4ck3r.duckdns.org
-tracker-udp.gbitt.info
 tracker.1h.is
 tracker.23794.top
 tracker.alaskantf.com
 tracker.belmult.online
 tracker.bittor.pw
 tracker.bt-hash.com
-tracker.bt4g.com
 tracker.bz
 tracker.cloudbase.store
 tracker.corpscorp.online
@@ -74,27 +69,23 @@ tracker.dhitechnical.com
 tracker.dler.org
 tracker.dmcomic.org
 tracker.ducks.party
-tracker.filemail.com
 tracker.fnix.net
 tracker.gcrenwp.top
 tracker.ghostchu-services.top
 tracker.gmi.gd
 tracker.hifimarket.in
 tracker.ipv6tracker.org
-tracker.kmzs123.cn
 tracker.leechshield.link
 tracker.lintk.me
 tracker.moeblog.cn
 tracker.moxing.party
 tracker.mywaifu.best
-tracker.ololosh.space
 tracker.opentrackr.org
 tracker.plx.im
 tracker.pmman.tech
 tracker.qu.ax
 tracker.renfei.net
 tracker.sbsub.com
-tracker.skyts.net
 tracker.srv00.com
 tracker.startwork.cv
 tracker.t-1.org
@@ -111,7 +102,6 @@ tracker.waaa.moe
 tracker.xiaoduola.xyz
 tracker.yemekyedim.com
 tracker.zhuqiy.com
-tracker.zupix.online
 tracker1.bt.moack.co.kr
 tracker2.dler.org
 tracker810.xyz
