@@ -1,13 +1,14 @@
 ! Title: Tracker Domain List
 ! Description: List of domains from tracker URLs.
 ! Source: https://github.com/ngosang/trackerslist
-! Last modified: 2025-11-08 00:11:35
+! Last modified: 2025-11-15 00:12:30
 #
 # Domains of tracker services:
 #
 0123456789nonexistent.com
 0d.kebhana.mx
 1337.abcvg.info
+6ahddutb1ucc3cp.ru
 aboutbeautifulgallopinghorsesinthegreenpasture.online
 bandito.byterunner.io
 bittorrent-tracker.e-n-c-r-y-p-t.net
@@ -24,7 +25,6 @@ extracker.dahrkael.net
 hificode.in
 home.yxgz.club
 ipv4announce.sktorrent.eu
-leet-tracker.moe
 martin-gebhardt.eu
 ns-1.x-fins.com
 open.acgtracker.com
@@ -35,7 +35,6 @@ open.stealth.si
 open.trackerlist.xyz
 opentracker.io
 p4p.arenabg.com
-public.tracker.vraphim.com
 rekcart.duckdns.org
 retracker.lanta.me
 retracker.spark-rostov.ru
@@ -53,13 +52,14 @@ torrent.tracker.durukanbal.com
 torrentclub.online
 tr.kxmp.cf
 tr.nyacat.pw
+tr.zukizuki.org
 tr4ck3r.duckdns.org
-tracker.1h.is
 tracker.23794.top
 tracker.alaskantf.com
 tracker.belmult.online
 tracker.bittor.pw
 tracker.bt-hash.com
+tracker.bt4g.com
 tracker.bz
 tracker.cloudbase.store
 tracker.corpscorp.online
@@ -69,6 +69,7 @@ tracker.dhitechnical.com
 tracker.dler.org
 tracker.dmcomic.org
 tracker.ducks.party
+tracker.filemail.com
 tracker.fnix.net
 tracker.gcrenwp.top
 tracker.ghostchu-services.top
@@ -88,7 +89,6 @@ tracker.renfei.net
 tracker.sbsub.com
 tracker.srv00.com
 tracker.startwork.cv
-tracker.t-1.org
 tracker.theoks.net
 tracker.therarbg.to
 tracker.torrent.eu.org
@@ -102,6 +102,7 @@ tracker.waaa.moe
 tracker.xiaoduola.xyz
 tracker.yemekyedim.com
 tracker.zhuqiy.com
+tracker.zupix.online
 tracker1.bt.moack.co.kr
 tracker2.dler.org
 tracker810.xyz
@@ -110,4 +111,3 @@ udp.tracker.projectk.org
 wepzone.net
 www.genesis-sp.org
 www.torrentsnipe.info
-yuki.bt.bontal.net

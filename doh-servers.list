@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2025-11-08 00:11:35
+! Last modified: 2025-11-15 00:12:29
 #
 # Domains of DoH services:
 #
@@ -122,11 +122,9 @@ dns.glf.wtf
 dns.google
 dns.guard.io
 dns.haka.se
-dns.hoody.com
 dns.inforlogia.com
 dns.jupitrdns.com
 dns.kapite.in
-dns.kebree.fr
 dns.kernel-error.de
 dns.kescher.at
 dns.koala.us.to
@@ -176,7 +174,6 @@ dns.stormycloud.org
 dns.suhaila.dev
 dns.superstefan.win
 dns.surfsharkdns.com
-dns.svoi.dev
 dns.switch.ch
 dns.szpadel.ovh
 dns.t53.de
@@ -191,7 +188,6 @@ dns.w3ctag.org
 dns.xlion.tw
 dns.yuu-g.net
 dns1.in-berlin.de
-dns1.serdcebolit.ru
 dns10.quad9.net
 dns11.quad9.net
 dns12.quad9.net
@@ -227,7 +223,6 @@ doh.familyshield.opendns.com
 doh.ffmuc.net
 doh.futa.gg
 doh.kel.pe
-doh.kidzonet.io
 doh.la.ahadns.net
 doh.lacontrevoie.fr
 doh.li
@@ -299,7 +294,6 @@ lifeisa.live
 lion.dns.qwer.pw
 loadlow.me
 lon01.dnscry.pt
-mabuktogel.directory
 mad01.dnscry.pt
 masters-of-cloud.de
 mil01.dnscry.pt
@@ -409,4 +403,3 @@ yvr01.dnscry.pt
 yyc01.dnscry.pt
 yyz01.dnscry.pt
 zdn.ro
-zero.dns0.eu
