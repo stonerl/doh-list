@@ -1,7 +1,7 @@
 ! Title: Tracker Domain List
 ! Description: List of domains from tracker URLs.
 ! Source: https://github.com/ngosang/trackerslist
-! Last modified: 2025-11-15 00:12:30
+! Last modified: 2025-11-22 00:12:09
 #
 # Domains of tracker services:
 #
@@ -20,22 +20,21 @@ buny.uk
 bvarf.tracker.sh
 concen.org
 d40969.acod.regrucolo.ru
+discord.heihachi.pw
 explodie.org
 extracker.dahrkael.net
-hificode.in
 home.yxgz.club
 ipv4announce.sktorrent.eu
+leet-tracker.moe
 martin-gebhardt.eu
-ns-1.x-fins.com
 open.acgtracker.com
 open.demonii.com
 open.demonoid.ch
 open.dstud.io
+open.free-tracker.ga
 open.stealth.si
 open.trackerlist.xyz
 opentracker.io
-p4p.arenabg.com
-rekcart.duckdns.org
 retracker.lanta.me
 retracker.spark-rostov.ru
 retracker01-msk-virt.corbina.net
@@ -52,8 +51,8 @@ torrent.tracker.durukanbal.com
 torrentclub.online
 tr.kxmp.cf
 tr.nyacat.pw
-tr.zukizuki.org
 tr4ck3r.duckdns.org
+tracker.1h.is
 tracker.23794.top
 tracker.alaskantf.com
 tracker.belmult.online
@@ -87,12 +86,12 @@ tracker.pmman.tech
 tracker.qu.ax
 tracker.renfei.net
 tracker.sbsub.com
+tracker.skynetcloud.site
 tracker.srv00.com
 tracker.startwork.cv
-tracker.theoks.net
+tracker.t-1.org
 tracker.therarbg.to
 tracker.torrent.eu.org
-tracker.torrust-demo.com
 tracker.tritan.gg
 tracker.tryhackx.org
 tracker.tvunderground.org.ru
@@ -103,7 +102,7 @@ tracker.xiaoduola.xyz
 tracker.yemekyedim.com
 tracker.zhuqiy.com
 tracker.zupix.online
-tracker1.bt.moack.co.kr
+tracker1.myporn.club
 tracker2.dler.org
 tracker810.xyz
 ttk2.nbaonlineservice.com
@@ -111,3 +110,4 @@ udp.tracker.projectk.org
 wepzone.net
 www.genesis-sp.org
 www.torrentsnipe.info
+yuki.bt.bontal.net

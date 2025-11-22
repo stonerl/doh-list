@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2025-11-15 00:12:29
+! Last modified: 2025-11-22 00:12:09
 #
 # Domains of DoH services:
 #
@@ -159,7 +159,6 @@ dns.quiet.rocks
 dns.rabbitdns.org
 dns.rbn.gr
 dns.redhosting.com.ar
-dns.reitmeier.me
 dns.retakecs.com
 dns.roedel.cloud
 dns.seia.io
@@ -338,7 +337,6 @@ resolver.dnsprivacy.org.uk
 resolver.sunet.se
 resolver1.absolight.net
 resolver2.absolight.net
-resolver3.absolight.net
 revelio.top
 rfree1.blue-shield.at
 rfree2.blue-shield.at
