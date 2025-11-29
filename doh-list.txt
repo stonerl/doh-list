@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2025-11-22 00:12:09
+! Last modified: 2025-11-29 00:12:25
 #
 # Full URLs of DoH services:
 #
@@ -323,7 +323,6 @@ https://kids.ns.nwps.fi/dns-query
 https://kiv01.dnscry.pt/dns-query
 https://kronos.plan9-dns.com/dns-query
 https://las01.dnscry.pt/dns-query
-https://lifeisa.live/dns-query
 https://lion.dns.qwer.pw/dns-query
 https://loadlow.me/dns-query
 https://lon01.dnscry.pt/dns-query

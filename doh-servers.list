@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2025-11-22 00:12:09
+! Last modified: 2025-11-29 00:12:25
 #
 # Domains of DoH services:
 #
@@ -289,7 +289,6 @@ kids.ns.nwps.fi
 kiv01.dnscry.pt
 kronos.plan9-dns.com
 las01.dnscry.pt
-lifeisa.live
 lion.dns.qwer.pw
 loadlow.me
 lon01.dnscry.pt
