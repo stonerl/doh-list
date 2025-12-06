@@ -1,7 +1,7 @@
 ! Title: Tracker Domain List
 ! Description: List of domains from tracker URLs.
 ! Source: https://github.com/ngosang/trackerslist
-! Last modified: 2025-11-29 00:12:26
+! Last modified: 2025-12-06 00:12:30
 #
 # Domains of tracker services:
 #
@@ -20,14 +20,14 @@ buny.uk
 bvarf.tracker.sh
 concen.org
 d40969.acod.regrucolo.ru
-discord.heihachi.pw
-exodus.desync.com
-explodie.org
 extracker.dahrkael.net
+glotorrents.pw
 hificode.in
 home.yxgz.club
 ipv4announce.sktorrent.eu
+leet-tracker.moe
 martin-gebhardt.eu
+ns-1.x-fins.com
 open.acgtracker.com
 open.demonii.com
 open.demonoid.ch
@@ -39,7 +39,6 @@ p4p.arenabg.com
 retracker.lanta.me
 retracker.spark-rostov.ru
 retracker01-msk-virt.corbina.net
-run.publictracker.xyz
 seeders-paradise.org
 servandroidkino.ru
 shahidrazi.online
@@ -55,6 +54,7 @@ tr.nyacat.pw
 tr.zukizuki.org
 tr4ck3r.duckdns.org
 tracker-udp.gbitt.info
+tracker.0x7c0.com
 tracker.1h.is
 tracker.alaskantf.com
 tracker.belmult.online
@@ -70,7 +70,6 @@ tracker.dhitechnical.com
 tracker.dler.org
 tracker.dmcomic.org
 tracker.ducks.party
-tracker.filemail.com
 tracker.fnix.net
 tracker.gcrenwp.top
 tracker.ghostchu-services.top
@@ -82,23 +81,24 @@ tracker.lintk.me
 tracker.moeblog.cn
 tracker.moxing.party
 tracker.mywaifu.best
+tracker.ololosh.space
 tracker.opentrackr.org
 tracker.plx.im
 tracker.pmman.tech
 tracker.qu.ax
 tracker.renfei.net
 tracker.sbsub.com
-tracker.srv00.com
 tracker.startwork.cv
 tracker.t-1.org
 tracker.therarbg.to
+tracker.torrent.eu.org
 tracker.torrust-demo.com
-tracker.tritan.gg
 tracker.tryhackx.org
 tracker.tvunderground.org.ru
 tracker.uraniumhexafluori.de
 tracker.vanitycore.co
 tracker.waaa.moe
+tracker.wepzone.net
 tracker.xiaoduola.xyz
 tracker.yemekyedim.com
 tracker.zhuqiy.com

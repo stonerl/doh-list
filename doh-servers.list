@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2025-11-29 00:12:25
+! Last modified: 2025-12-06 00:12:29
 #
 # Domains of DoH services:
 #
@@ -21,7 +21,6 @@ adfree.usableprivacy.net
 adfreedns.top
 adg.geili.me
 adg.khon.dev
-adguard-kartoffel.zernico.de
 adguard.meddy94.de
 adguard.shoupperuser.com
 adl.adfilter.net
@@ -284,6 +283,7 @@ ist01.dnscry.pt
 japan.dnsovertor.cc
 jp.tiar.app
 jp.tiarap.org
+juuri.hagezi.org
 kaitain.restena.lu
 kids.ns.nwps.fi
 kiv01.dnscry.pt
@@ -305,7 +305,6 @@ ns1.fdn.fr
 ns1.opennameserver.org
 ns2.4netguides.org
 nsec.arnor.org
-ntwrkh.pro
 nue01.dnscry.pt
 nz01.dns4me.net
 odvr.nic.cz
@@ -340,8 +339,8 @@ revelio.top
 rfree1.blue-shield.at
 rfree2.blue-shield.at
 ric.openbld.net
-ro-bu.foxyfy.net
 ro-buc-w-p-1.nashkan.net
+root.hagezi.org
 router.comss.one
 rx.techomespace.com
 sa01.dns4me.net
@@ -383,9 +382,6 @@ us-jac-w-f-1.nashkan.net
 us-jac-w-p-1.nashkan.net
 us-kan-w-p-1.nashkan.net
 us-nyc-w-p-1.nashkan.net
-us-saj-w-f-1.nashkan.net
-us-saj-w-p-1.nashkan.net
-us-sj.foxyfy.net
 us01.dns4me.net
 us02.dns4me.net
 v.recipes
@@ -393,6 +389,7 @@ vie01.dnscry.pt
 vno01.dnscry.pt
 waw02.dnscry.pt
 wikimedia-dns.org
+wurzn.hagezi.org
 xn--durhre-yxa.de
 yarp.lefolgoc.net
 yhz01.dnscry.pt

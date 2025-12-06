@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2025-11-29 00:12:25
+! Last modified: 2025-12-06 00:12:29
 #
 # Full URLs of DoH services:
 #
@@ -21,7 +21,6 @@ https://adfree.usableprivacy.net/dns-query
 https://adfreedns.top/dns-query
 https://adg.geili.me/dns-query
 https://adg.khon.dev/dns-query
-https://adguard-kartoffel.zernico.de/dns-query
 https://adguard.meddy94.de/dns-query
 https://adguard.shoupperuser.com/dns-query
 https://adl.adfilter.net/dns-query
@@ -318,6 +317,7 @@ https://ist01.dnscry.pt/dns-query
 https://japan.dnsovertor.cc/dns-query
 https://jp.tiar.app/dns-query
 https://jp.tiarap.org/dns-query
+https://juuri.hagezi.org/dns-query
 https://kaitain.restena.lu/dns-query
 https://kids.ns.nwps.fi/dns-query
 https://kiv01.dnscry.pt/dns-query
@@ -339,7 +339,6 @@ https://ns1.fdn.fr/dns-query
 https://ns1.opennameserver.org/dns-query
 https://ns2.4netguides.org/dns-query
 https://nsec.arnor.org/dns-query
-https://ntwrkh.pro/dns-query
 https://nue01.dnscry.pt/dns-query
 https://nz01.dns4me.net
 https://odvr.nic.cz/dns-query
@@ -375,8 +374,8 @@ https://revelio.top/dns-query
 https://rfree1.blue-shield.at/dns-query
 https://rfree2.blue-shield.at/dns-query
 https://ric.openbld.net/dns-query
-https://ro-bu.foxyfy.net/dns-query
 https://ro-buc-w-p-1.nashkan.net/dns-query
+https://root.hagezi.org/dns-query
 https://router.comss.one/dns-query
 https://rx.techomespace.com/dns-query
 https://sa01.dns4me.net
@@ -419,9 +418,6 @@ https://us-jac-w-f-1.nashkan.net/dns-query
 https://us-jac-w-p-1.nashkan.net/dns-query
 https://us-kan-w-p-1.nashkan.net/dns-query
 https://us-nyc-w-p-1.nashkan.net/dns-query
-https://us-saj-w-f-1.nashkan.net/dns-query
-https://us-saj-w-p-1.nashkan.net/dns-query
-https://us-sj.foxyfy.net/dns-query
 https://us01.dns4me.net
 https://us02.dns4me.net
 https://v.recipes/dns-adblock
@@ -431,6 +427,7 @@ https://vie01.dnscry.pt/dns-query
 https://vno01.dnscry.pt/dns-query
 https://waw02.dnscry.pt/dns-query
 https://wikimedia-dns.org/dns-query
+https://wurzn.hagezi.org/dns-query
 https://xn--durhre-yxa.de/dns-query
 https://yarp.lefolgoc.net/dns-query
 https://yhz01.dnscry.pt/dns-query
