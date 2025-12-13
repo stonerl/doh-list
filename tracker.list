@@ -1,7 +1,7 @@
 ! Title: Tracker Domain List
 ! Description: List of domains from tracker URLs.
 ! Source: https://github.com/ngosang/trackerslist
-! Last modified: 2025-12-06 00:12:30
+! Last modified: 2025-12-13 00:13:11
 #
 # Domains of tracker services:
 #
@@ -20,17 +20,16 @@ buny.uk
 bvarf.tracker.sh
 concen.org
 d40969.acod.regrucolo.ru
+explodie.org
 extracker.dahrkael.net
 glotorrents.pw
-hificode.in
 home.yxgz.club
 ipv4announce.sktorrent.eu
-leet-tracker.moe
 martin-gebhardt.eu
-ns-1.x-fins.com
 open.acgtracker.com
 open.demonii.com
 open.demonoid.ch
+open.dstud.io
 open.free-tracker.ga
 open.stealth.si
 open.trackerlist.xyz
@@ -39,13 +38,13 @@ p4p.arenabg.com
 retracker.lanta.me
 retracker.spark-rostov.ru
 retracker01-msk-virt.corbina.net
+run.publictracker.xyz
 seeders-paradise.org
 servandroidkino.ru
 shahidrazi.online
 share.hkg-fansub.info
 shubt.net
 t.213891.xyz
-t.overflow.biz
 torrent.hificode.in
 torrent.tracker.durukanbal.com
 torrentclub.online
@@ -56,8 +55,8 @@ tr4ck3r.duckdns.org
 tracker-udp.gbitt.info
 tracker.0x7c0.com
 tracker.1h.is
+tracker.23794.top
 tracker.alaskantf.com
-tracker.belmult.online
 tracker.bittor.pw
 tracker.bt-hash.com
 tracker.bt4g.com
@@ -74,31 +73,30 @@ tracker.fnix.net
 tracker.gcrenwp.top
 tracker.ghostchu-services.top
 tracker.gmi.gd
-tracker.hifimarket.in
 tracker.ipv6tracker.org
 tracker.leechshield.link
 tracker.lintk.me
 tracker.moeblog.cn
 tracker.moxing.party
 tracker.mywaifu.best
-tracker.ololosh.space
 tracker.opentrackr.org
 tracker.plx.im
 tracker.pmman.tech
 tracker.qu.ax
 tracker.renfei.net
 tracker.sbsub.com
-tracker.startwork.cv
+tracker.srv00.com
 tracker.t-1.org
+tracker.theoks.net
 tracker.therarbg.to
 tracker.torrent.eu.org
 tracker.torrust-demo.com
+tracker.tritan.gg
 tracker.tryhackx.org
 tracker.tvunderground.org.ru
 tracker.uraniumhexafluori.de
 tracker.vanitycore.co
 tracker.waaa.moe
-tracker.wepzone.net
 tracker.xiaoduola.xyz
 tracker.yemekyedim.com
 tracker.zhuqiy.com
@@ -107,6 +105,5 @@ tracker1.myporn.club
 tracker2.dler.org
 tracker810.xyz
 udp.tracker.projectk.org
-wepzone.net
 www.genesis-sp.org
 www.torrentsnipe.info

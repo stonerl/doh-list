@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2025-12-06 00:12:29
+! Last modified: 2025-12-13 00:13:11
 #
 # Full URLs of DoH services:
 #
@@ -60,7 +60,6 @@ https://cph01.dnscry.pt/dns-query
 https://cvt01.dnscry.pt/dns-query
 https://dandelionsprout.asuscomm.com:2501/dns-query
 https://dart.kpsn.org/dns-query
-https://de-d2.foxyfy.net/dns-query
 https://de-f1.foxyfy.net/dns-query
 https://de01.dns4me.net
 https://dns-doh.dnsforfamily.com/dns-query
@@ -202,6 +201,7 @@ https://dns4eu.online/dns-query
 https://dns64.cloudflare-dns.com/dns-query
 https://dns64.dns.google/dns-query
 https://dns9.quad9.net/dns-query
+https://dnsdoh.art/dns-query
 https://dnsforge.de/dns-query
 https://dnslow.me/dns-query
 https://dnspub.restena.lu/dns-query
