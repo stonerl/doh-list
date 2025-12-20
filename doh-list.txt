@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2025-12-13 00:13:11
+! Last modified: 2025-12-20 00:13:12
 #
 # Full URLs of DoH services:
 #
@@ -59,7 +59,6 @@ https://common.dot.dns.yandex.net/dns-query
 https://cph01.dnscry.pt/dns-query
 https://cvt01.dnscry.pt/dns-query
 https://dandelionsprout.asuscomm.com:2501/dns-query
-https://dart.kpsn.org/dns-query
 https://de-f1.foxyfy.net/dns-query
 https://de01.dns4me.net
 https://dns-doh.dnsforfamily.com/dns-query
@@ -254,7 +253,6 @@ https://doh.umbrella.com/dns-query
 https://doh.viatech.com.tw/dns-query
 https://doh.zknt.org/dns-query
 https://doth.huque.com/dns-query
-https://droyd.top/dns-query
 https://dub01.dnscry.pt/dns-query
 https://dukun.de/dns-query
 https://es-ma.foxyfy.net/dns-query
@@ -349,7 +347,6 @@ https://ordns.he.net/dns-query
 https://par01.dnscry.pt/dns-query
 https://paranoia.mydns.network/dns-query
 https://pdx01.dnscry.pt/dns-query
-https://pepetio.xyz/dns-query
 https://per.adfilter.net/dns-query
 https://phl01.dnscry.pt/dns-query
 https://phx01.dnscry.pt/dns-query
