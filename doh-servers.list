@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2026-01-03 00:13:05
+! Last modified: 2026-01-10 00:13:24
 #
 # Domains of DoH services:
 #
@@ -52,10 +52,10 @@ ca02.dns4me.net
 child-noads.joindns4.eu
 child.joindns4.eu
 chuncheon.dnsovertor.cc
-clean.dnsforge.de
 cloudflare-dns.com
 common.dot.dns.yandex.net
 cph01.dnscry.pt
+cryptostorm.is
 cvt01.dnscry.pt
 de-f1.foxyfy.net
 de01.dns4me.net
@@ -109,6 +109,7 @@ dns.eliv.kr
 dns.faked.org
 dns.fancyorg.at
 dns.farshidhakimy.de
+dns.flatuslifir.is
 dns.floriantinney.de
 dns.flymc.cc
 dns.foxyfy.net
@@ -270,7 +271,6 @@ gru01.dnscry.pt
 gva01.dnscry.pt
 haf01.dnscry.pt
 han01.dnscry.pt
-hard.dnsforge.de
 helios.plan9-dns.com
 ibksturm.synology.me
 ibuki.cgnat.net
@@ -359,7 +359,6 @@ sky.rethinkdns.com
 slc01.dnscry.pt
 sm2.doh.pub
 sof01.dnscry.pt
-solaxy.live
 sto01.dnscry.pt
 sunnygyl.com
 syd.adfilter.net
