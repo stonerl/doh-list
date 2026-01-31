@@ -1,21 +1,23 @@
 ! Title: Tracker Domain List
 ! Description: List of domains from tracker URLs.
 ! Source: https://github.com/ngosang/trackerslist
-! Last modified: 2026-01-24 00:13:37
+! Last modified: 2026-01-31 00:16:16
 #
 # Domains of tracker services:
 #
 1337.abcvg.info
 6ahddutb1ucc3cp.ru
-aboutbeautifulgallopinghorsesinthegreenpasture.online
 bandito.byterunner.io
-bt.bontal.net
-bt.rer.lol
+bt.poletracker.org
+bt1.xxxxbt.cc
+buny.uk
 bvarf.tracker.sh
 d40969.acod.regrucolo.ru
 evan.im
+exodus.desync.com
 explodie.org
 extracker.dahrkael.net
+ftp.pet
 ipv4announce.sktorrent.eu
 leet-tracker.moe
 lucke.fenesisu.moe
@@ -26,38 +28,39 @@ open.demonii.com
 open.demonoid.ch
 open.dstud.io
 open.stealth.si
+open.tracker.cl
 opentracker.io
+rekcart.duckdns.org
 retracker.lanta.me
-retracker01-msk-virt.corbina.net
-run.publictracker.xyz
-shahidrazi.online
+retracker.spark-rostov.ru
+seeders-paradise.org
+shubt.net
 t.213891.xyz
 t.overflow.biz
+torrent.hificode.in
 torrent.tracker.durukanbal.com
 torrentclub.online
-tr.highstar.shop
 tr.kxmp.cf
 tr.nyacat.pw
 tr.zukizuki.org
-tr4ck3r.duckdns.org
 tracker-de-2.cutie.dating
 tracker-udp.gbitt.info
 tracker.1h.is
-tracker.23794.top
-tracker.alaskantf.com
 tracker.bittor.pw
 tracker.bt4g.com
+tracker.bz
 tracker.darkness.services
 tracker.dhitechnical.com
 tracker.dler.org
 tracker.ducks.party
-tracker.filemail.com
 tracker.flatuslifir.is
 tracker.fnix.net
+tracker.gcrenwp.top
 tracker.ghostchu-services.top
 tracker.gmi.gd
+tracker.lintk.me
 tracker.moeblog.cn
-tracker.moeking.me
+tracker.moxing.party
 tracker.mywaifu.best
 tracker.opentorrent.top
 tracker.opentrackr.org
@@ -66,6 +69,7 @@ tracker.plx.im
 tracker.pmman.tech
 tracker.qu.ax
 tracker.renfei.net
+tracker.sbsub.com
 tracker.skyts.net
 tracker.srv00.com
 tracker.t-1.org
@@ -77,13 +81,12 @@ tracker.tritan.gg
 tracker.tryhackx.org
 tracker.tvunderground.org.ru
 tracker.uraniumhexafluori.de
+tracker.vanitycore.co
 tracker.waaa.moe
-tracker.wepzone.net
 tracker.zhuqiy.com
-tracker1.myporn.club
+tracker.zupix.online
 tracker1.t-1.org
 tracker2.dler.org
 tracker3.t-1.org
 udp.tracker.projectk.org
 utracker.ghostchu-services.top
-wepzone.net

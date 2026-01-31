@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2026-01-24 00:13:37
+! Last modified: 2026-01-31 00:16:16
 #
 # Domains of DoH services:
 #
@@ -80,7 +80,6 @@ dns.brembeck.cloud
 dns.busold.ws
 dns.caliph.dev
 dns.caspervk.net
-dns.cctld.kg
 dns.cert.ee
 dns.cfiec.net
 dns.chenu.ch
@@ -103,11 +102,9 @@ dns.dnsguard.pub
 dns.dnshome.de
 dns.dnswarden.com
 dns.dremaxx.de
-dns.dynx.pro
 dns.elemental.software
 dns.eliv.kr
 dns.faked.org
-dns.fancyorg.at
 dns.farshidhakimy.de
 dns.flatuslifir.is
 dns.floriantinney.de
@@ -115,7 +112,6 @@ dns.flymc.cc
 dns.foxyfy.net
 dns.froth.zone
 dns.gamban.com
-dns.girino.org
 dns.glf.wtf
 dns.google
 dns.guard.io
@@ -174,11 +170,9 @@ dns.surfsharkdns.com
 dns.switch.ch
 dns.szpadel.ovh
 dns.t53.de
-dns.technologycage.com
 dns.telekom.de
 dns.tipsy.coffee
 dns.tls-data.de
-dns.twnic.tw
 dns.unx.io
 dns.vaioswolke.xyz
 dns.w3ctag.org
