@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2026-01-31 00:16:16
+! Last modified: 2026-02-07 00:17:28
 #
 # Domains of DoH services:
 #
@@ -33,7 +33,6 @@ all.dns.mullvad.net
 antivirus.bebasid.com
 anycast.dns.nextdns.io
 anycast.uncensoreddns.org
-arashi.net.eu.org
 ath01.dnscry.pt
 atl01.dnscry.pt
 au-syd-w-f-1.nashkan.net
@@ -104,6 +103,7 @@ dns.dnswarden.com
 dns.dremaxx.de
 dns.elemental.software
 dns.eliv.kr
+dns.envs.net
 dns.faked.org
 dns.farshidhakimy.de
 dns.flatuslifir.is
@@ -132,7 +132,6 @@ dns.marbledfennec.net
 dns.mateo.ovh
 dns.mayx.eu.org
 dns.mh4ckt3mh4ckt1c4s.xyz
-dns.mnet-online.de
 dns.mullvad.net
 dns.mzjtechnology.com
 dns.neeb.it
@@ -146,6 +145,7 @@ dns.oszx.co
 dns.paesa.es
 dns.paulo.nom.za
 dns.petqa.ru
+dns.practicallyunhackable.com
 dns.pub
 dns.pumplex.com
 dns.quad9.net
@@ -241,7 +241,6 @@ dub01.dnscry.pt
 dukun.de
 es-ma.foxyfy.net
 eu1.dns.lavate.ch
-evn01.dnscry.pt
 extended.dns.mullvad.net
 family.adguard-dns.com
 family.canadianshield.cira.ca
@@ -292,7 +291,6 @@ mozilla.cloudflare-dns.com
 nicsezcheckfbi.gov
 noads.joindns4.eu
 ns.data.haus
-ns.net.kg
 ns0.fdn.fr
 ns1.fdn.fr
 ns1.opennameserver.org
@@ -340,7 +338,6 @@ safe.dot.dns.yandex.net
 safeservedns.com
 sea01.dnscry.pt
 secondary.dns.seia.io
-secure.avastdns.com
 secure.hafnova.com
 security.cloudflare-dns.com
 security.rabbitdns.org
@@ -382,7 +379,6 @@ waw02.dnscry.pt
 wikimedia-dns.org
 wurzn.hagezi.org
 xn--durhre-yxa.de
-yarp.lefolgoc.net
 yhz01.dnscry.pt
 yvr01.dnscry.pt
 yyc01.dnscry.pt
