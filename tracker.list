@@ -1,7 +1,7 @@
 ! Title: Tracker Domain List
 ! Description: List of domains from tracker URLs.
 ! Source: https://github.com/ngosang/trackerslist
-! Last modified: 2026-03-07 00:16:42
+! Last modified: 2026-03-14 00:16:44
 #
 # Domains of tracker services:
 #
@@ -15,6 +15,7 @@ cny.fan
 d40969.acod.regrucolo.ru
 evan.im
 exodus.desync.com
+explodie.org
 extracker.dahrkael.net
 ipv4announce.sktorrent.eu
 leet-tracker.moe
@@ -38,6 +39,7 @@ tr.kxmp.cf
 tr.nyacat.pw
 tr.zukizuki.org
 tr4ck3r.duckdns.org
+tracker-de-2.cutie.dating
 tracker-udp.gbitt.info
 tracker.1h.is
 tracker.alaskantf.com
@@ -58,9 +60,9 @@ tracker.gcrenwp.top
 tracker.ghostchu-services.top
 tracker.gmi.gd
 tracker.iochimari.moe
+tracker.iperson.xyz
 tracker.ixuexi.click
 tracker.moeblog.cn
-tracker.moeking.me
 tracker.mywaifu.best
 tracker.opentorrent.top
 tracker.opentrackr.org
@@ -82,6 +84,7 @@ tracker.tvunderground.org.ru
 tracker.waaa.moe
 tracker.wepzone.net
 tracker.zhuqiy.com
+tracker1.myporn.club
 tracker2.dler.org
 udp.tracker.projectk.org
 utracker.ghostchu-services.top
