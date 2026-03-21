@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2026-03-14 00:16:44
+! Last modified: 2026-03-21 00:16:59
 #
 # Domains of DoH services:
 #
@@ -373,6 +373,7 @@ us-nyc-w-p-1.nashkan.net
 us01.dns4me.net
 us02.dns4me.net
 v.recipes
+v0dka.ru
 vie01.dnscry.pt
 vno01.dnscry.pt
 waw02.dnscry.pt

@@ -1,15 +1,18 @@
 ! Title: Tracker Domain List
 ! Description: List of domains from tracker URLs.
 ! Source: https://github.com/ngosang/trackerslist
-! Last modified: 2026-03-14 00:16:44
+! Last modified: 2026-03-21 00:17:00
 #
 # Domains of tracker services:
 #
+0d.kebhana.mx
 1337.abcvg.info
 6ahddutb1ucc3cp.ru
 aboutbeautifulgallopinghorsesinthegreenpasture.online
 bandito.byterunner.io
 bittorrent-tracker.e-n-c-r-y-p-t.net
+bt1.xxxxbt.cc
+buny.uk
 bvarf.tracker.sh
 cny.fan
 d40969.acod.regrucolo.ru
@@ -27,12 +30,15 @@ open.demonii.com
 open.demonoid.ch
 open.dstud.io
 open.stealth.si
+open.trackerlist.xyz
+opentracker.io
+pybittrack.retiolus.net
 rekcart.duckdns.org
 retracker.lanta.me
 shahidrazi.online
 t.213891.xyz
 t.overflow.biz
-torrent.tracker.durukanbal.com
+torrent.hificode.in
 torrentclub.online
 tr.highstar.shop
 tr.kxmp.cf
@@ -40,12 +46,11 @@ tr.nyacat.pw
 tr.zukizuki.org
 tr4ck3r.duckdns.org
 tracker-de-2.cutie.dating
-tracker-udp.gbitt.info
 tracker.1h.is
-tracker.alaskantf.com
 tracker.bittor.pw
 tracker.bluefrog.pw
 tracker.bt4g.com
+tracker.bz
 tracker.corpscorp.online
 tracker.darkness.services
 tracker.ddunlimited.net
@@ -53,16 +58,15 @@ tracker.dhitechnical.com
 tracker.dler.com
 tracker.dler.org
 tracker.ducks.party
-tracker.filemail.com
 tracker.flatuslifir.is
 tracker.fnix.net
 tracker.gcrenwp.top
 tracker.ghostchu-services.top
 tracker.gmi.gd
-tracker.iochimari.moe
-tracker.iperson.xyz
+tracker.ipv6tracker.org
 tracker.ixuexi.click
 tracker.moeblog.cn
+tracker.moxing.party
 tracker.mywaifu.best
 tracker.opentorrent.top
 tracker.opentrackr.org
@@ -71,6 +75,7 @@ tracker.plx.im
 tracker.pmman.tech
 tracker.qu.ax
 tracker.renfei.net
+tracker.sbsub.com
 tracker.skyts.net
 tracker.srv00.com
 tracker.t-1.org
@@ -81,11 +86,11 @@ tracker.torrust-demo.com
 tracker.tritan.gg
 tracker.tryhackx.org
 tracker.tvunderground.org.ru
-tracker.waaa.moe
 tracker.wepzone.net
 tracker.zhuqiy.com
 tracker1.myporn.club
 tracker2.dler.org
+tracker810.xyz
 udp.tracker.projectk.org
-utracker.ghostchu-services.top
 wepzone.net
+www.genesis-sp.org
