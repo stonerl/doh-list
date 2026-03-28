@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2026-03-21 00:16:59
+! Last modified: 2026-03-28 00:18:48
 #
 # Full URLs of DoH services:
 #
@@ -63,6 +63,7 @@ https://dns-doh.dnsforfamily.com/dns-query
 https://dns.a47.me/dns-query
 https://dns.aa.net.uk/dns-query
 https://dns.adguard-dns.com/dns-query
+https://dns.adnull.com/dns-query
 https://dns.akbxr.com/dns-query
 https://dns.alidns.com/dns-query
 https://dns.anon.no/dns-query
