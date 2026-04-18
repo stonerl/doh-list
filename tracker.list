@@ -1,26 +1,30 @@
 ! Title: Tracker Domain List
 ! Description: List of domains from tracker URLs.
 ! Source: https://github.com/ngosang/trackerslist
-! Last modified: 2026-04-11 00:20:21
+! Last modified: 2026-04-18 00:23:03
 #
 # Domains of tracker services:
 #
 004430.xyz
+0123456789nonexistent.com
 1337.abcvg.info
-6ahddutb1ucc3cp.ru
 aboutbeautifulgallopinghorsesinthegreenpasture.online
 bandito.byterunner.io
 bittorrent-tracker.e-n-c-r-y-p-t.net
+bt.poletracker.org
+bt1.xxxxbt.cc
 bvarf.tracker.sh
 evan.im
+explodie.org
 ipv4announce.sktorrent.eu
 leet-tracker.moe
-lucke.fenesisu.moe
 martin-gebhardt.eu
 ns575949.ip-51-222-82.net
+open.demonii.com
 open.stealth.si
 pybittrack.retiolus.net
 rekcart.duckdns.org
+retracker.spark-rostov.ru
 seedpeer.net
 shahidrazi.online
 t.213891.xyz
@@ -33,6 +37,7 @@ tr4ck3r.duckdns.org
 tracker-udp.gbitt.info
 tracker.004430.xyz
 tracker.1h.is
+tracker.23794.top
 tracker.bittor.pw
 tracker.bluefrog.pw
 tracker.bt4g.com
@@ -43,6 +48,7 @@ tracker.ddunlimited.net
 tracker.dhitechnical.com
 tracker.dler.com
 tracker.dler.org
+tracker.dmcomic.org
 tracker.ducks.party
 tracker.flatuslifir.is
 tracker.fnix.net
@@ -50,7 +56,7 @@ tracker.gcrenwp.top
 tracker.ghostchu-services.top
 tracker.gmi.gd
 tracker.ixuexi.click
-tracker.moeblog.cn
+tracker.moxing.party
 tracker.mywaifu.best
 tracker.nekomi.cn
 tracker.opentorrent.top
@@ -65,15 +71,15 @@ tracker.srv00.com
 tracker.t-1.org
 tracker.theoks.net
 tracker.therarbg.to
+tracker.torrent.eu.org
 tracker.torrust-demo.com
 tracker.tryhackx.org
 tracker.tvunderground.org.ru
 tracker.waaa.moe
-tracker.wepzone.net
 tracker.yemekyedim.com
-tracker.yume-hatsuyuki.moe
 tracker.zhuqiy.com
 tracker1.myporn.club
 tracker2.dler.org
 udp.tracker.projectk.org
 utracker.ghostchu-services.top
+www.genesis-sp.org

@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2026-04-11 00:20:20
+! Last modified: 2026-04-18 00:23:03
 #
 # Domains of DoH services:
 #
@@ -338,6 +338,7 @@ security.rabbitdns.org
 seoul.dnsovertor.cc
 sg-w-p-1.nashkan.net
 sg01.dns4me.net
+shitblocker.com
 sin03.dnscry.pt
 sjc01.dnscry.pt
 sky.rethinkdns.com
