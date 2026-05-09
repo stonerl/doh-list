@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2026-05-02 00:29:43
+! Last modified: 2026-05-09 00:32:04
 #
 # Domains of DoH services:
 #
@@ -36,7 +36,6 @@ ath01.dnscry.pt
 atl01.dnscry.pt
 au-syd-w-f-1.nashkan.net
 au01.dns4me.net
-au02.dns4me.net
 base.dns.mullvad.net
 basic.rethinkdns.com
 bazooki-infra.dev
@@ -86,7 +85,6 @@ dns.christerwaren.fi
 dns.chunghwamc.com
 dns.cloudflare.com
 dns.comss.one
-dns.csa-rz.de
 dns.csaonline.de
 dns.cynthialabs.net
 dns.d94.xyz
@@ -107,7 +105,6 @@ dns.farshidhakimy.de
 dns.flatuslifir.is
 dns.floriantinney.de
 dns.flymc.cc
-dns.foxyfy.net
 dns.gamban.com
 dns.glf.wtf
 dns.google
@@ -231,12 +228,10 @@ doh.tiar.app
 doh.tiarap.org
 doh.umbrella.com
 doh.viatech.com.tw
-doh.zknt.org
 doth.huque.com
 dub01.dnscry.pt
 dukun.de
 es-ma.foxyfy.net
-eu1.dns.lavate.ch
 extended.dns.mullvad.net
 family.adguard-dns.com
 family.canadianshield.cira.ca
@@ -300,7 +295,6 @@ par01.dnscry.pt
 paranoia.mydns.network
 pdx01.dnscry.pt
 per.adfilter.net
-phl01.dnscry.pt
 phx01.dnscry.pt
 pihole.aws.ketan.dev
 pluton.plan9-dns.com
