@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2026-05-16 00:31:22
+! Last modified: 2026-05-23 00:35:17
 #
 # Full URLs of DoH services:
 #
@@ -110,6 +110,7 @@ https://dns.farshidhakimy.de/dns-query
 https://dns.flatuslifir.is/dns-query
 https://dns.floriantinney.de/dns-query
 https://dns.flymc.cc/dns-query
+https://dns.furrix.zone/dns-query
 https://dns.gamban.com/dns-query
 https://dns.glf.wtf/dns-query
 https://dns.google/dns-query

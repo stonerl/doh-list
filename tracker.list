@@ -1,23 +1,22 @@
 ! Title: Tracker Domain List
 ! Description: List of domains from tracker URLs.
 ! Source: https://github.com/ngosang/trackerslist
-! Last modified: 2026-05-16 00:31:23
+! Last modified: 2026-05-23 00:35:18
 #
 # Domains of tracker services:
 #
 004430.xyz
 0123456789nonexistent.com
-0d.kebhana.mx
 1337.abcvg.info
-6ahddutb1ucc3cp.ru
 aboutbeautifulgallopinghorsesinthegreenpasture.online
 admin.52ywp.com
 bandito.byterunner.io
 bittorrent-tracker.e-n-c-r-y-p-t.net
 bt.poletracker.org
+bt1.xxxxbt.cc
+buny.uk
 bvarf.tracker.sh
 evan.im
-explodie.org
 home.yxgz.club
 ipv4announce.sktorrent.eu
 jvavav.com
@@ -31,13 +30,15 @@ open.stealth.si
 pybittrack.retiolus.net
 rekcart.duckdns.org
 retracker.spark-rostov.ru
+seeders-paradise.org
 seedpeer.net
+shahidrazi.online
+share.hkg-fansub.info
 t.213891.xyz
 t.overflow.biz
 torrent.hificode.in
 torrentclub.online
 torrents.tmtime.dev
-tr.btube3.com
 tr.highstar.shop
 tr.kxmp.cf
 tr.nyacat.pw
@@ -50,7 +51,9 @@ tracker.7471.top
 tracker.auctor.tv
 tracker.bittor.pw
 tracker.bluefrog.pw
+tracker.bt-hash.com
 tracker.bt4g.com
+tracker.bz
 tracker.corpscorp.online
 tracker.ddunlimited.net
 tracker.dhitechnical.com
@@ -62,10 +65,11 @@ tracker.flatuslifir.is
 tracker.fnix.net
 tracker.gcrenwp.top
 tracker.gmi.gd
+tracker.hismz.cn
 tracker.iperson.xyz
 tracker.ipv6tracker.org
+tracker.leechshield.link
 tracker.lintk.me
-tracker.moeking.me
 tracker.mywaifu.best
 tracker.nekomi.cn
 tracker.nyaa.vc
@@ -76,28 +80,24 @@ tracker.plx.im
 tracker.pmman.tech
 tracker.qu.ax
 tracker.renfei.net
+tracker.sbsub.com
 tracker.skyts.net
 tracker.srv00.com
 tracker.startwork.cv
 tracker.t-1.org
-tracker.theoks.net
+tracker.therarbg.to
 tracker.torrent.eu.org
-tracker.torrust-demo.com
 tracker.tritan.gg
 tracker.tryhackx.org
 tracker.vanitycore.co
 tracker.waaa.moe
 tracker.wildkat.net
+tracker.xiaoduola.xyz
 tracker.yemekyedim.com
 tracker.zhuqiy.com
 tracker2.dler.org
-u.peer-exchange.download
+tracker810.xyz
 uabits.today
 udp.tracker.projectk.org
-vito-tracker.duckdns.org
-vito-tracker.space
-wepzone.net
 www.genesis-sp.org
-www.nartlof.com
-www.torrentsnipe.info
 yuptracker-eu.gaijinent.com
