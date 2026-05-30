@@ -1,25 +1,19 @@
 ! Title: Tracker Domain List
 ! Description: List of domains from tracker URLs.
 ! Source: https://github.com/ngosang/trackerslist
-! Last modified: 2026-05-23 00:35:18
+! Last modified: 2026-05-30 00:36:28
 #
 # Domains of tracker services:
 #
 004430.xyz
-0123456789nonexistent.com
 1337.abcvg.info
 aboutbeautifulgallopinghorsesinthegreenpasture.online
 admin.52ywp.com
-bandito.byterunner.io
 bittorrent-tracker.e-n-c-r-y-p-t.net
-bt.poletracker.org
-bt1.xxxxbt.cc
-buny.uk
 bvarf.tracker.sh
 evan.im
-home.yxgz.club
+exodus.desync.com
 ipv4announce.sktorrent.eu
-jvavav.com
 leet-tracker.moe
 martin-gebhardt.eu
 ns575949.ip-51-222-82.net
@@ -29,20 +23,16 @@ open.ftorrent.com
 open.stealth.si
 pybittrack.retiolus.net
 rekcart.duckdns.org
-retracker.spark-rostov.ru
-seeders-paradise.org
+retracker01-msk-virt.corbina.net
 seedpeer.net
 shahidrazi.online
-share.hkg-fansub.info
 t.213891.xyz
 t.overflow.biz
-torrent.hificode.in
 torrentclub.online
 torrents.tmtime.dev
 tr.highstar.shop
 tr.kxmp.cf
 tr.nyacat.pw
-tr4ck3r.duckdns.org
 tracker-udp.gbitt.info
 tracker.004430.xyz
 tracker.1h.is
@@ -51,15 +41,10 @@ tracker.7471.top
 tracker.auctor.tv
 tracker.bittor.pw
 tracker.bluefrog.pw
-tracker.bt-hash.com
 tracker.bt4g.com
-tracker.bz
 tracker.corpscorp.online
 tracker.ddunlimited.net
 tracker.dhitechnical.com
-tracker.dler.com
-tracker.dler.org
-tracker.dmcomic.org
 tracker.ducks.party
 tracker.flatuslifir.is
 tracker.fnix.net
@@ -67,9 +52,8 @@ tracker.gcrenwp.top
 tracker.gmi.gd
 tracker.hismz.cn
 tracker.iperson.xyz
-tracker.ipv6tracker.org
 tracker.leechshield.link
-tracker.lintk.me
+tracker.moeking.me
 tracker.mywaifu.best
 tracker.nekomi.cn
 tracker.nyaa.vc
@@ -78,26 +62,24 @@ tracker.opentrackr.org
 tracker.playground.ru
 tracker.plx.im
 tracker.pmman.tech
+tracker.privateseedbox.xyz
+tracker.publictracker.xyz
 tracker.qu.ax
 tracker.renfei.net
-tracker.sbsub.com
 tracker.skyts.net
-tracker.srv00.com
 tracker.startwork.cv
 tracker.t-1.org
+tracker.theoks.net
 tracker.therarbg.to
 tracker.torrent.eu.org
-tracker.tritan.gg
 tracker.tryhackx.org
-tracker.vanitycore.co
 tracker.waaa.moe
 tracker.wildkat.net
-tracker.xiaoduola.xyz
 tracker.yemekyedim.com
+tracker.yume-hatsuyuki.moe
 tracker.zhuqiy.com
-tracker2.dler.org
-tracker810.xyz
 uabits.today
 udp.tracker.projectk.org
-www.genesis-sp.org
+vito-tracker.duckdns.org
 yuptracker-eu.gaijinent.com
+zer0day.ch

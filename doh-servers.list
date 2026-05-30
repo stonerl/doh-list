@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2026-05-23 00:35:17
+! Last modified: 2026-05-30 00:36:27
 #
 # Domains of DoH services:
 #
@@ -15,11 +15,9 @@ abn01.dnscry.pt
 ada.openbld.net
 adblock.dns.mullvad.net
 adblock.krctech.dev
-adblock.mydns.network
 addns1.m-it.ro
 adfree.usableprivacy.net
 adfreedns.top
-adg.geili.me
 adguard.meddy94.de
 adguard.shoupperuser.com
 adl.adfilter.net
@@ -97,14 +95,12 @@ dns.digitalsize.net
 dns.dnsguard.pub
 dns.dnshome.de
 dns.dnswarden.com
-dns.dremaxx.de
 dns.elemental.software
 dns.envs.net
 dns.faked.org
 dns.farshidhakimy.de
 dns.flatuslifir.is
 dns.floriantinney.de
-dns.flymc.cc
 dns.furrix.zone
 dns.gamban.com
 dns.glf.wtf
@@ -151,7 +147,6 @@ dns.redhosting.com.ar
 dns.retakecs.com
 dns.roedel.cloud
 dns.seia.io
-dns.sheggi.ch
 dns.silen.org
 dns.skrep.eu
 dns.slinkyman.net
@@ -159,7 +154,6 @@ dns.smartguard.io
 dns.startupstack.tech
 dns.stirringphoto.com
 dns.stormycloud.org
-dns.suhaila.dev
 dns.superstefan.win
 dns.surfsharkdns.com
 dns.switch.ch
@@ -190,9 +184,9 @@ dnsvps.familiamv.net
 dog.dns.qwer.pw
 doh-01.spectrum.com
 doh-02.spectrum.com
-doh-own-recursion.nicolas-dorriere.fr
+doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr
 doh-pure.onedns.net
-doh-random-upstream.nicolas-dorriere.fr
+doh-recursive-to-root.technitium.nicolas-dorriere.fr
 doh.18bit.cn
 doh.360.cn
 doh.aaaab3n.moe
@@ -239,14 +233,12 @@ family.canadianshield.cira.ca
 family.cloudflare-dns.com
 family.dns.mullvad.net
 family.dot.dns.yandex.net
-family.mydns.network
 family.rabbitdns.org
 fidelius.top
 fra01.dnscry.pt
 fra02.dnscry.pt
 frd4wvnobp.cloudflare-gateway.com
 freedns.controld.com
-freedom.mydns.network
 gb-lon-w-p-2.nashkan.net
 geg01.dnscry.pt
 gibblets.top
@@ -293,7 +285,6 @@ omr01.dnscry.pt
 openbld.net
 ordns.he.net
 par01.dnscry.pt
-paranoia.mydns.network
 pdx01.dnscry.pt
 per.adfilter.net
 phx01.dnscry.pt
@@ -312,8 +303,6 @@ renardbleu.dev
 resolver-eu.lelux.fi
 resolver.dnsprivacy.org.uk
 resolver.sunet.se
-resolver1.absolight.net
-resolver2.absolight.net
 revelio.top
 rfree1.blue-shield.at
 rfree2.blue-shield.at
@@ -333,7 +322,6 @@ security.rabbitdns.org
 seoul.dnsovertor.cc
 sg-w-p-1.nashkan.net
 sg01.dns4me.net
-shitblocker.com
 sin03.dnscry.pt
 sjc01.dnscry.pt
 sky.rethinkdns.com

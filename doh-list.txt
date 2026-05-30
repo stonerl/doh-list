@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2026-05-23 00:35:17
+! Last modified: 2026-05-30 00:36:27
 #
 # Full URLs of DoH services:
 #
@@ -15,11 +15,9 @@ https://abn01.dnscry.pt/dns-query
 https://ada.openbld.net/dns-query
 https://adblock.dns.mullvad.net/dns-query
 https://adblock.krctech.dev/dns-query
-https://adblock.mydns.network/dns-query
 https://addns1.m-it.ro/dns-query
 https://adfree.usableprivacy.net/dns-query
 https://adfreedns.top/dns-query
-https://adg.geili.me/dns-query
 https://adguard.meddy94.de/dns-query
 https://adguard.shoupperuser.com/dns-query
 https://adl.adfilter.net/dns-query
@@ -102,14 +100,12 @@ https://dns.digitalsize.net/dns-query
 https://dns.dnsguard.pub/dns-query
 https://dns.dnshome.de/dns-query
 https://dns.dnswarden.com/uncensored
-https://dns.dremaxx.de/dns-query
 https://dns.elemental.software/dns-query
 https://dns.envs.net/dns-query
 https://dns.faked.org/dns-query
 https://dns.farshidhakimy.de/dns-query
 https://dns.flatuslifir.is/dns-query
 https://dns.floriantinney.de/dns-query
-https://dns.flymc.cc/dns-query
 https://dns.furrix.zone/dns-query
 https://dns.gamban.com/dns-query
 https://dns.glf.wtf/dns-query
@@ -158,7 +154,6 @@ https://dns.redhosting.com.ar/dns-query
 https://dns.retakecs.com/dns-query
 https://dns.roedel.cloud/dns-query
 https://dns.seia.io/dns-query
-https://dns.sheggi.ch/dns-query
 https://dns.silen.org/dns-query
 https://dns.skrep.eu/dns-query
 https://dns.slinkyman.net/dns-query
@@ -166,7 +161,6 @@ https://dns.smartguard.io/dns-query
 https://dns.startupstack.tech/dns-query
 https://dns.stirringphoto.com/dns-query
 https://dns.stormycloud.org/dns-query
-https://dns.suhaila.dev/dns-query
 https://dns.superstefan.win/dns-query
 https://dns.surfsharkdns.com/dns-query
 https://dns.switch.ch/dns-query
@@ -197,9 +191,9 @@ https://dnsvps.familiamv.net/dns-query
 https://dog.dns.qwer.pw/dns-query
 https://doh-01.spectrum.com/dns-query
 https://doh-02.spectrum.com/dns-query
-https://doh-own-recursion.nicolas-dorriere.fr/dns-query
+https://doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr/dns-query
 https://doh-pure.onedns.net/dns-query
-https://doh-random-upstream.nicolas-dorriere.fr/dns-query
+https://doh-recursive-to-root.technitium.nicolas-dorriere.fr/dns-query
 https://doh.18bit.cn/dns-query
 https://doh.360.cn/dns-query
 https://doh.aaaab3n.moe/dns-query-114514
@@ -250,7 +244,6 @@ https://family.canadianshield.cira.ca/dns-query
 https://family.cloudflare-dns.com/dns-query
 https://family.dns.mullvad.net/dns-query
 https://family.dot.dns.yandex.net/dns-query
-https://family.mydns.network/dns-query
 https://family.rabbitdns.org/dns-query
 https://fidelius.top/dns-query
 https://fra01.dnscry.pt/dns-query
@@ -277,7 +270,6 @@ https://freedns.controld.com/x-hagezi-ultimate
 https://freedns.controld.com/x-oisd
 https://freedns.controld.com/x-oisd-basic
 https://freedns.controld.com/x-stevenblack
-https://freedom.mydns.network/dns-query
 https://gb-lon-w-p-2.nashkan.net/dns-query
 https://geg01.dnscry.pt/dns-query
 https://gibblets.top/dns-query
@@ -327,7 +319,6 @@ https://omr01.dnscry.pt/dns-query
 https://openbld.net/
 https://ordns.he.net/dns-query
 https://par01.dnscry.pt/dns-query
-https://paranoia.mydns.network/dns-query
 https://pdx01.dnscry.pt/dns-query
 https://per.adfilter.net/dns-query
 https://phx01.dnscry.pt/dns-query
@@ -346,8 +337,6 @@ https://renardbleu.dev/dns-query
 https://resolver-eu.lelux.fi/dns-query
 https://resolver.dnsprivacy.org.uk/dns-query
 https://resolver.sunet.se/dns-query
-https://resolver1.absolight.net/dns-query
-https://resolver2.absolight.net/dns-query
 https://revelio.top/dns-query
 https://rfree1.blue-shield.at/dns-query
 https://rfree2.blue-shield.at/dns-query
@@ -367,7 +356,6 @@ https://security.rabbitdns.org/dns-query
 https://seoul.dnsovertor.cc/dns-query
 https://sg-w-p-1.nashkan.net/dns-query
 https://sg01.dns4me.net
-https://shitblocker.com/dns-query
 https://sin03.dnscry.pt/dns-query
 https://sjc01.dnscry.pt/dns-query
 https://sky.rethinkdns.com/1:IAAgAA==
