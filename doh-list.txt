@@ -3,11 +3,10 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2026-05-30 00:36:27
+! Last modified: 2026-06-06 00:37:52
 #
 # Full URLs of DoH services:
 #
-https://123000123.xyz/dns-query
 https://3dns.eu/dns-query
 https://8888.google/dns-query
 https://abel.waringer-atg.de/dns-query
@@ -173,7 +172,6 @@ https://dns.unx.io/dns-query
 https://dns.vaioswolke.xyz/dns-query
 https://dns.w3ctag.org/dns-query
 https://dns.xlion.tw/dns-query
-https://dns.yuu-g.net/dns-query
 https://dns1.in-berlin.de/dns-query
 https://dns1.techniverse.net/dns-query
 https://dns10.quad9.net/dns-query
@@ -193,7 +191,6 @@ https://doh-01.spectrum.com/dns-query
 https://doh-02.spectrum.com/dns-query
 https://doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr/dns-query
 https://doh-pure.onedns.net/dns-query
-https://doh-recursive-to-root.technitium.nicolas-dorriere.fr/dns-query
 https://doh.18bit.cn/dns-query
 https://doh.360.cn/dns-query
 https://doh.aaaab3n.moe/dns-query-114514

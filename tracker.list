@@ -1,19 +1,22 @@
 ! Title: Tracker Domain List
 ! Description: List of domains from tracker URLs.
 ! Source: https://github.com/ngosang/trackerslist
-! Last modified: 2026-05-30 00:36:28
+! Last modified: 2026-06-06 00:37:53
 #
 # Domains of tracker services:
 #
 004430.xyz
 1337.abcvg.info
+6ahddutb1ucc3cp.ru
 aboutbeautifulgallopinghorsesinthegreenpasture.online
 admin.52ywp.com
 bittorrent-tracker.e-n-c-r-y-p-t.net
+bt1.xxxxbt.cc
 bvarf.tracker.sh
 evan.im
-exodus.desync.com
+explodie.org
 ipv4announce.sktorrent.eu
+jvavav.com
 leet-tracker.moe
 martin-gebhardt.eu
 ns575949.ip-51-222-82.net
@@ -24,8 +27,11 @@ open.stealth.si
 pybittrack.retiolus.net
 rekcart.duckdns.org
 retracker01-msk-virt.corbina.net
+seeders-paradise.org
 seedpeer.net
 shahidrazi.online
+share.hkg-fansub.info
+shubt.net
 t.213891.xyz
 t.overflow.biz
 torrentclub.online
@@ -33,6 +39,8 @@ torrents.tmtime.dev
 tr.highstar.shop
 tr.kxmp.cf
 tr.nyacat.pw
+tr.zukizuki.org
+tr4ck3r.duckdns.org
 tracker-udp.gbitt.info
 tracker.004430.xyz
 tracker.1h.is
@@ -45,41 +53,45 @@ tracker.bt4g.com
 tracker.corpscorp.online
 tracker.ddunlimited.net
 tracker.dhitechnical.com
+tracker.dler.com
+tracker.dler.org
+tracker.dmcomic.org
 tracker.ducks.party
+tracker.filemail.com
 tracker.flatuslifir.is
 tracker.fnix.net
 tracker.gcrenwp.top
 tracker.gmi.gd
 tracker.hismz.cn
-tracker.iperson.xyz
 tracker.leechshield.link
-tracker.moeking.me
+tracker.lintk.me
 tracker.mywaifu.best
 tracker.nekomi.cn
-tracker.nyaa.vc
 tracker.opentorrent.top
 tracker.opentrackr.org
 tracker.playground.ru
-tracker.plx.im
 tracker.pmman.tech
 tracker.privateseedbox.xyz
 tracker.publictracker.xyz
 tracker.qu.ax
 tracker.renfei.net
+tracker.sbsub.com
 tracker.skyts.net
 tracker.startwork.cv
 tracker.t-1.org
-tracker.theoks.net
-tracker.therarbg.to
 tracker.torrent.eu.org
+tracker.tritan.gg
 tracker.tryhackx.org
+tracker.vanitycore.co
 tracker.waaa.moe
 tracker.wildkat.net
+tracker.xiaoduola.xyz
 tracker.yemekyedim.com
-tracker.yume-hatsuyuki.moe
 tracker.zhuqiy.com
+tracker2.dler.org
 uabits.today
 udp.tracker.projectk.org
-vito-tracker.duckdns.org
+www.genesis-sp.org
+www.torrentsnipe.info
 yuptracker-eu.gaijinent.com
 zer0day.ch

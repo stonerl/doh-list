@@ -3,11 +3,10 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2026-05-30 00:36:27
+! Last modified: 2026-06-06 00:37:52
 #
 # Domains of DoH services:
 #
-123000123.xyz
 3dns.eu
 8888.google
 abel.waringer-atg.de
@@ -166,7 +165,6 @@ dns.unx.io
 dns.vaioswolke.xyz
 dns.w3ctag.org
 dns.xlion.tw
-dns.yuu-g.net
 dns1.in-berlin.de
 dns1.techniverse.net
 dns10.quad9.net
@@ -186,7 +184,6 @@ doh-01.spectrum.com
 doh-02.spectrum.com
 doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr
 doh-pure.onedns.net
-doh-recursive-to-root.technitium.nicolas-dorriere.fr
 doh.18bit.cn
 doh.360.cn
 doh.aaaab3n.moe
