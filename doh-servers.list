@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2026-06-06 00:37:52
+! Last modified: 2026-06-13 00:43:06
 #
 # Domains of DoH services:
 #
@@ -29,7 +29,6 @@ all.dns.mullvad.net
 antivirus.bebasid.com
 anycast.dns.nextdns.io
 anycast.uncensoreddns.org
-ath01.dnscry.pt
 atl01.dnscry.pt
 au-syd-w-f-1.nashkan.net
 au01.dns4me.net
@@ -164,7 +163,6 @@ dns.tls-data.de
 dns.unx.io
 dns.vaioswolke.xyz
 dns.w3ctag.org
-dns.xlion.tw
 dns1.in-berlin.de
 dns1.techniverse.net
 dns10.quad9.net
@@ -272,7 +270,6 @@ noads.joindns4.eu
 ns.data.haus
 ns0.fdn.fr
 ns1.fdn.fr
-ns1.opennameserver.org
 ns2.4netguides.org
 nsec.arnor.org
 nue01.dnscry.pt
