@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2026-06-20 00:39:05
+! Last modified: 2026-06-27 00:37:36
 #
 # Domains of DoH services:
 #
@@ -61,7 +61,6 @@ dns.akbxr.com
 dns.alidns.com
 dns.anon.no
 dns.applewebkit.dev
-dns.arapurayil.com
 dns.asterimoon.com
 dns.bebasid.com
 dns.belnet.be
@@ -74,7 +73,6 @@ dns.busold.ws
 dns.caliph.dev
 dns.caspervk.net
 dns.cert.ee
-dns.cfiec.net
 dns.chenu.ch
 dns.christerwaren.fi
 dns.chunghwamc.com
@@ -90,7 +88,6 @@ dns.digitale-gesellschaft.ch
 dns.digitalsize.net
 dns.dnsguard.pub
 dns.dnshome.de
-dns.dnswarden.com
 dns.elemental.software
 dns.envs.net
 dns.faked.org
@@ -137,7 +134,6 @@ dns.pub
 dns.pumplex.com
 dns.quad9.net
 dns.quiet.rocks
-dns.rabbitdns.org
 dns.rbn.gr
 dns.redhosting.com.ar
 dns.retakecs.com
@@ -208,7 +204,6 @@ doh.niyawe.de
 doh.nl.ahadns.net
 doh.onedns.net
 doh.opendns.com
-doh.qis.io
 doh.sandbox.opendns.com
 doh.seby.io
 doh.sz-dns.com
@@ -226,7 +221,6 @@ family.canadianshield.cira.ca
 family.cloudflare-dns.com
 family.dns.mullvad.net
 family.dot.dns.yandex.net
-family.rabbitdns.org
 fidelius.top
 fra01.dnscry.pt
 fra02.dnscry.pt
@@ -236,7 +230,6 @@ gb-lon-w-p-2.nashkan.net
 geg01.dnscry.pt
 gibblets.top
 glacius.top
-gru01.dnscry.pt
 gva01.dnscry.pt
 haf01.dnscry.pt
 han01.dnscry.pt
@@ -251,7 +244,6 @@ japan.dnsovertor.cc
 jp.tiar.app
 jp.tiarap.org
 juuri.hagezi.org
-kaitain.restena.lu
 kids.ns.nwps.fi
 kiv01.dnscry.pt
 kronos.plan9-dns.com
@@ -291,7 +283,6 @@ public.ns.nwps.fi
 rdd01.dnscry.pt
 regiopolis.cloud
 renardbleu.dev
-resolver-eu.lelux.fi
 resolver.dnsprivacy.org.uk
 resolver.sunet.se
 revelio.top
@@ -301,7 +292,6 @@ ric.openbld.net
 ro-buc-w-p-1.nashkan.net
 root.hagezi.org
 router.comss.one
-rx.techomespace.com
 sa01.dns4me.net
 safe.dot.dns.yandex.net
 safeservedns.com
@@ -309,7 +299,6 @@ sea01.dnscry.pt
 secondary.dns.seia.io
 secure.hafnova.com
 security.cloudflare-dns.com
-security.rabbitdns.org
 seoul.dnsovertor.cc
 sg-w-p-1.nashkan.net
 sg01.dns4me.net
@@ -347,6 +336,7 @@ vno01.dnscry.pt
 waw02.dnscry.pt
 wikimedia-dns.org
 wurzn.hagezi.org
+www.rethinkdns.com
 xn--durhre-yxa.de
 yhz01.dnscry.pt
 yvr01.dnscry.pt
