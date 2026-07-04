@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2026-06-27 00:37:36
+! Last modified: 2026-07-04 00:31:02
 #
 # Domains of DoH services:
 #
@@ -14,6 +14,7 @@ abn01.dnscry.pt
 ada.openbld.net
 adblock.dns.mullvad.net
 adblock.krctech.dev
+adblock.mydns.network
 addns1.m-it.ro
 adfree.usableprivacy.net
 adfreedns.top
@@ -146,7 +147,6 @@ dns.smartguard.io
 dns.startupstack.tech
 dns.stirringphoto.com
 dns.stormycloud.org
-dns.superstefan.win
 dns.surfsharkdns.com
 dns.switch.ch
 dns.szpadel.ovh
@@ -192,7 +192,6 @@ doh.domreg.lt
 doh.familyshield.opendns.com
 doh.ffmuc.net
 doh.futa.gg
-doh.kel.pe
 doh.la.ahadns.net
 doh.lacontrevoie.fr
 doh.li
@@ -221,11 +220,13 @@ family.canadianshield.cira.ca
 family.cloudflare-dns.com
 family.dns.mullvad.net
 family.dot.dns.yandex.net
+family.mydns.network
 fidelius.top
 fra01.dnscry.pt
 fra02.dnscry.pt
 frd4wvnobp.cloudflare-gateway.com
 freedns.controld.com
+freedom.mydns.network
 gb-lon-w-p-2.nashkan.net
 geg01.dnscry.pt
 gibblets.top
@@ -269,6 +270,7 @@ omr01.dnscry.pt
 openbld.net
 ordns.he.net
 par01.dnscry.pt
+paranoia.mydns.network
 pdx01.dnscry.pt
 per.adfilter.net
 phx01.dnscry.pt
@@ -317,7 +319,6 @@ tiger.dns.qwer.pw
 tll01.dnscry.pt
 tpa01.dnscry.pt
 trf01.dnscry.pt
-tsm01.dnscry.pt
 uk01.dns4me.net
 unfiltered.adguard-dns.com
 unfiltered.joindns4.eu

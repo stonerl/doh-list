@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2026-06-27 00:37:36
+! Last modified: 2026-07-04 00:31:02
 #
 # Full URLs of DoH services:
 #
@@ -14,6 +14,7 @@ https://abn01.dnscry.pt/dns-query
 https://ada.openbld.net/dns-query
 https://adblock.dns.mullvad.net/dns-query
 https://adblock.krctech.dev/dns-query
+https://adblock.mydns.network/dns-query
 https://addns1.m-it.ro/dns-query
 https://adfree.usableprivacy.net/dns-query
 https://adfreedns.top/dns-query
@@ -153,7 +154,6 @@ https://dns.smartguard.io/dns-query
 https://dns.startupstack.tech/dns-query
 https://dns.stirringphoto.com/dns-query
 https://dns.stormycloud.org/dns-query
-https://dns.superstefan.win/dns-query
 https://dns.surfsharkdns.com/dns-query
 https://dns.switch.ch/dns-query
 https://dns.szpadel.ovh/dns-query
@@ -201,7 +201,6 @@ https://doh.domreg.lt/dns-query
 https://doh.familyshield.opendns.com/dns-query
 https://doh.ffmuc.net/dns-query
 https://doh.futa.gg/dns-query
-https://doh.kel.pe
 https://doh.la.ahadns.net/dns-query
 https://doh.lacontrevoie.fr/dns-query
 https://doh.li/dns-query
@@ -232,6 +231,7 @@ https://family.canadianshield.cira.ca/dns-query
 https://family.cloudflare-dns.com/dns-query
 https://family.dns.mullvad.net/dns-query
 https://family.dot.dns.yandex.net/dns-query
+https://family.mydns.network/dns-query
 https://fidelius.top/dns-query
 https://fra01.dnscry.pt/dns-query
 https://fra02.dnscry.pt/dns-query
@@ -257,6 +257,7 @@ https://freedns.controld.com/x-hagezi-ultimate
 https://freedns.controld.com/x-oisd
 https://freedns.controld.com/x-oisd-basic
 https://freedns.controld.com/x-stevenblack
+https://freedom.mydns.network/dns-query
 https://gb-lon-w-p-2.nashkan.net/dns-query
 https://geg01.dnscry.pt/dns-query
 https://gibblets.top/dns-query
@@ -302,6 +303,7 @@ https://omr01.dnscry.pt/dns-query
 https://openbld.net/
 https://ordns.he.net/dns-query
 https://par01.dnscry.pt/dns-query
+https://paranoia.mydns.network/dns-query
 https://pdx01.dnscry.pt/dns-query
 https://per.adfilter.net/dns-query
 https://phx01.dnscry.pt/dns-query
@@ -351,7 +353,6 @@ https://tiger.dns.qwer.pw/dns-query
 https://tll01.dnscry.pt/dns-query
 https://tpa01.dnscry.pt/dns-query
 https://trf01.dnscry.pt/dns-query
-https://tsm01.dnscry.pt/dns-query
 https://uk01.dns4me.net
 https://unfiltered.adguard-dns.com/dns-query
 https://unfiltered.joindns4.eu/dns-query
