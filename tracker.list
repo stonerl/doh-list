@@ -1,22 +1,25 @@
 ! Title: Tracker Domain List
 ! Description: List of domains from tracker URLs.
 ! Source: https://github.com/ngosang/trackerslist
-! Last modified: 2026-07-04 00:31:03
+! Last modified: 2026-07-11 02:02:22
 #
 # Domains of tracker services:
 #
 004430.xyz
+0123456789nonexistent.com
+0d.kebhana.mx
 1337.abcvg.info
 aboutbeautifulgallopinghorsesinthegreenpasture.online
 admin.52ywp.com
 bittorrent-tracker.e-n-c-r-y-p-t.net
 bt.poletracker.org
-concen.org
+buny.uk
 evan.im
 exodus.desync.com
 explodie.org
 home.yxgz.club
 ipv4announce.sktorrent.eu
+jvavav.com
 leet-tracker.moe
 martin-gebhardt.eu
 ns575949.ip-51-222-82.net
@@ -24,25 +27,25 @@ open.demonii.com
 open.demonoid.ch
 open.ftorrent.com
 open.stealth.si
-open.trackerlist.xyz
+open.tracker.cl
 pybittrack.retiolus.net
 rekcart.duckdns.org
+retracker.spark-rostov.ru
 retracker01-msk-virt.corbina.net
 seeders-paradise.org
 shahidrazi.online
+share.hkg-fansub.info
 shubt.net
 t.213891.xyz
-t.overflow.biz
 torrent.hificode.in
 torrentclub.online
-torrents.tmtime.dev
 tr.btube3.com
 tr.highstar.shop
 tr.kxmp.cf
 tr.nyacat.pw
+tr.zukizuki.org
 tr4ck3r.duckdns.org
 tracker-udp.gbitt.info
-tracker.004430.xyz
 tracker.7471.top
 tracker.auctor.tv
 tracker.bittor.pw
@@ -55,31 +58,32 @@ tracker.dler.com
 tracker.dler.org
 tracker.ducks.party
 tracker.filemail.com
+tracker.flatuslifir.is
 tracker.gcrenwp.top
 tracker.gmi.gd
-tracker.hismz.cn
 tracker.leechshield.link
 tracker.moxing.party
 tracker.mywaifu.best
 tracker.nekomi.cn
-tracker.nyaa.vc
 tracker.opentorrent.top
 tracker.opentrackr.org
 tracker.peerfect.org
 tracker.playground.ru
+tracker.plx.im
 tracker.pmman.tech
 tracker.privateseedbox.xyz
 tracker.publictracker.xyz
 tracker.qu.ax
 tracker.renfei.net
-tracker.sbsub.com
+tracker.skynetcloud.site
 tracker.therarbg.to
-tracker.tritan.gg
-tracker.vanitycore.co
+tracker.torrent.eu.org
+tracker.tryhackx.org
 tracker.waaa.moe
 tracker.wildkat.net
 tracker.yemekyedim.com
 tracker.zhuqiy.com
 tracker2.dler.org
 tracker810.xyz
-zer0day.ch
+www.genesis-sp.org
+www.torrentsnipe.info
