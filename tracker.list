@@ -1,7 +1,7 @@
 ! Title: Tracker Domain List
 ! Description: List of domains from tracker URLs.
 ! Source: https://github.com/ngosang/trackerslist
-! Last modified: 2026-07-18 01:53:03
+! Last modified: 2026-07-25 02:03:54
 #
 # Domains of tracker services:
 #
@@ -9,13 +9,18 @@
 1337.abcvg.info
 aboutbeautifulgallopinghorsesinthegreenpasture.online
 admin.52ywp.com
+anime-tracker.aruku.kro.kr
+banananetwork.qzz.io
 bittorrent-tracker.e-n-c-r-y-p-t.net
+edgev.duckdns.org
 evan.im
 exodus.desync.com
 explodie.org
+ht.therarbg.to
 ipv4announce.sktorrent.eu
 leet-tracker.moe
 lucke.fenesisu.moe
+mail.segso.net
 martin-gebhardt.eu
 ns575949.ip-51-222-82.net
 open.demonii.com
@@ -23,6 +28,7 @@ open.demonoid.ch
 open.ftorrent.com
 open.stealth.si
 open.tracker.cl
+orgtgju.org
 pybittrack.retiolus.net
 rekcart.duckdns.org
 retracker01-msk-virt.corbina.net
@@ -31,6 +37,7 @@ shahidrazi.online
 t.213891.xyz
 t.overflow.biz
 torrentclub.online
+tr.btube3.com
 tr.highstar.shop
 tr.kxmp.cf
 tr.nyacat.pw
@@ -38,6 +45,7 @@ tr.zukizuki.org
 tr4ck3r.duckdns.org
 tracker-udp.gbitt.info
 tracker.7471.top
+tracker.aruku.ovh
 tracker.auctor.tv
 tracker.bittor.pw
 tracker.bt4g.com
@@ -47,26 +55,29 @@ tracker.dhitechnical.com
 tracker.dler.com
 tracker.dler.org
 tracker.ducks.party
+tracker.filemail.com
+tracker.flatuslifir.is
+tracker.gcrenwp.top
 tracker.gmi.gd
+tracker.ilibr.org
 tracker.leechshield.link
 tracker.mywaifu.best
-tracker.nekomi.cn
-tracker.nyaa.vc
-tracker.opentorrent.top
+tracker.nexusstream.eu
+tracker.opentrackr.com
 tracker.opentrackr.org
 tracker.peerfect.org
 tracker.playground.ru
+tracker.plx.im
 tracker.pmman.tech
 tracker.privateseedbox.xyz
 tracker.publictracker.xyz
 tracker.qu.ax
 tracker.renfei.net
-tracker.skynetcloud.site
-tracker.theoks.net
-tracker.torrent.eu.org
+tracker.teambelgium.net
+tracker.tryhackx.org
 tracker.waaa.moe
 tracker.wildkat.net
-tracker.yemekyedim.com
 tracker.zhuqiy.com
+tracker.zhuqiy.dgj055.icu
 tracker2.dler.org
 zer0day.ch
