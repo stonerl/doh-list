@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2026-07-25 02:03:54
+! Last modified: 2026-08-01 02:10:23
 #
 # Domains of DoH services:
 #
@@ -41,7 +41,6 @@ child.joindns4.eu
 chuncheon.dnsovertor.cc
 cloudflare-dns.com
 common.dot.dns.yandex.net
-cryptostorm.is
 de01.dns4me.net
 dns-doh.dnsforfamily.com
 dns.a47.me
@@ -130,6 +129,7 @@ dns.retakecs.com
 dns.roedel.cloud
 dns.seia.io
 dns.silen.org
+dns.simplylinux.ch
 dns.skrep.eu
 dns.slinkyman.net
 dns.smartguard.io
