@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2026-08-08 01:06:40
+! Last modified: 2026-08-15 00:51:40
 #
 # Domains of DoH services:
 #
@@ -75,6 +75,7 @@ dns.digitale-gesellschaft.ch
 dns.digitalsize.net
 dns.dnsguard.pub
 dns.dnshome.de
+dns.easyhns.com
 dns.elemental.software
 dns.envs.net
 dns.faked.org
@@ -112,6 +113,7 @@ dns.nick-slowinski.de
 dns.njal.la
 dns.novg.net
 dns.ofdoom.net
+dns.omada.cafe
 dns.oszx.co
 dns.paesa.es
 dns.paulo.nom.za
@@ -212,6 +214,7 @@ gb-lon-w-p-2.nashkan.net
 gibblets.top
 glacius.top
 helios.plan9-dns.com
+hnsdoh.com
 ibksturm.synology.me
 ibuki.cgnat.net
 ie01.dns4me.net
