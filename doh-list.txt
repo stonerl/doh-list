@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2026-08-15 00:51:40
+! Last modified: 2026-08-22 00:51:33
 #
 # Full URLs of DoH services:
 #
@@ -46,7 +46,6 @@ https://dns-doh.dnsforfamily.com/dns-query
 https://dns.a47.me/dns-query
 https://dns.aa.net.uk/dns-query
 https://dns.adguard-dns.com/dns-query
-https://dns.akbxr.com/dns-query
 https://dns.alidns.com/dns-query
 https://dns.anon.no/dns-query
 https://dns.applewebkit.dev/dns-query
@@ -119,7 +118,6 @@ https://dns.nextdns.io/dns-query
 https://dns.nick-slowinski.de/dns-query
 https://dns.njal.la/dns-query
 https://dns.novg.net/dns-query
-https://dns.ofdoom.net/dns-query
 https://dns.omada.cafe/dns-query
 https://dns.oszx.co/dns-query
 https://dns.paesa.es/dns-query
@@ -261,7 +259,6 @@ https://kronos.plan9-dns.com/dns-query
 https://loadlow.me/dns-query
 https://masters-of-cloud.de/dns-query
 https://mozilla.cloudflare-dns.com/dns-query
-https://nicsezcheckfbi.gov
 https://noads.joindns4.eu/dns-query
 https://ns.data.haus/dns-query
 https://ns0.fdn.fr/dns-query
@@ -283,7 +280,6 @@ https://protective.joindns4.eu/dns-query
 https://public.dns.iij.jp/dns-query
 https://public.ns.nwps.fi/dns-query
 https://regiopolis.cloud/dns-query
-https://renardbleu.dev/dns-query
 https://resolver.dnsprivacy.org.uk/dns-query
 https://resolver.sunet.se/dns-query
 https://revelio.top/dns-query
@@ -305,7 +301,6 @@ https://sg01.dns4me.net
 https://sky.rethinkdns.com/1:IAAgAA==
 https://sky.rethinkdns.com/dns-query
 https://sm2.doh.pub/dns-query
-https://syd.adfilter.net/dns-query
 https://tiger.dns.qwer.pw/dns-query
 https://uk01.dns4me.net
 https://unfiltered.adguard-dns.com/dns-query

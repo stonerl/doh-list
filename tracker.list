@@ -1,7 +1,7 @@
 ! Title: Tracker Domain List
 ! Description: List of domains from tracker URLs.
 ! Source: https://github.com/ngosang/trackerslist
-! Last modified: 2026-08-15 00:51:40
+! Last modified: 2026-08-22 00:51:34
 #
 # Domains of tracker services:
 #
@@ -17,7 +17,6 @@ explodie.org
 ht.therarbg.to
 ipv4announce.sktorrent.eu
 leet-tracker.moe
-lucke.fenesisu.moe
 mail.segso.net
 martin-gebhardt.eu
 ns575949.ip-51-222-82.net
@@ -33,7 +32,6 @@ t.213891.xyz
 t.overflow.biz
 torrentclub.online
 tr.btube3.com
-tr.kxmp.cf
 tr.nyacat.pw
 tr.zukizuki.org
 tr4ck3r.duckdns.org
@@ -51,7 +49,9 @@ tracker.dler.com
 tracker.dler.org
 tracker.ducks.party
 tracker.farted.net
+tracker.filemail.com
 tracker.gcrenwp.top
+tracker.gmi.gd
 tracker.ilibr.org
 tracker.leechshield.link
 tracker.linvk.com
@@ -68,14 +68,13 @@ tracker.privateseedbox.xyz
 tracker.publictracker.xyz
 tracker.qu.ax
 tracker.renfei.net
-tracker.skynetcloud.site
 tracker.teambelgium.net
-tracker.theoks.net
 tracker.torrent.eu.org
+tracker.tryhackx.org
 tracker.waaa.moe
 tracker.wildkat.net
 tracker.yemekyedim.com
 tracker.zhuqiy.com
-tracker.zhuqiy.dgj055.icu
 tracker2.dler.org
+yuptracker-eu.gaijinent.com
 zer0day.ch

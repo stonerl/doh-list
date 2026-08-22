@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2026-08-15 00:51:40
+! Last modified: 2026-08-22 00:51:33
 #
 # Domains of DoH services:
 #
@@ -45,7 +45,6 @@ dns-doh.dnsforfamily.com
 dns.a47.me
 dns.aa.net.uk
 dns.adguard-dns.com
-dns.akbxr.com
 dns.alidns.com
 dns.anon.no
 dns.applewebkit.dev
@@ -112,7 +111,6 @@ dns.nextdns.io
 dns.nick-slowinski.de
 dns.njal.la
 dns.novg.net
-dns.ofdoom.net
 dns.omada.cafe
 dns.oszx.co
 dns.paesa.es
@@ -229,7 +227,6 @@ kronos.plan9-dns.com
 loadlow.me
 masters-of-cloud.de
 mozilla.cloudflare-dns.com
-nicsezcheckfbi.gov
 noads.joindns4.eu
 ns.data.haus
 ns0.fdn.fr
@@ -250,7 +247,6 @@ protective.joindns4.eu
 public.dns.iij.jp
 public.ns.nwps.fi
 regiopolis.cloud
-renardbleu.dev
 resolver.dnsprivacy.org.uk
 resolver.sunet.se
 revelio.top
@@ -271,7 +267,6 @@ sg-w-p-1.nashkan.net
 sg01.dns4me.net
 sky.rethinkdns.com
 sm2.doh.pub
-syd.adfilter.net
 tiger.dns.qwer.pw
 uk01.dns4me.net
 unfiltered.adguard-dns.com
