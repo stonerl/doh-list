@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2026-08-22 00:51:33
+! Last modified: 2026-08-29 05:09:08
 #
 # Domains of DoH services:
 #
@@ -62,7 +62,6 @@ dns.cert.ee
 dns.chenu.ch
 dns.christerwaren.fi
 dns.chunghwamc.com
-dns.cloudflare.com
 dns.comss.one
 dns.cynthialabs.net
 dns.d94.xyz
@@ -115,7 +114,6 @@ dns.omada.cafe
 dns.oszx.co
 dns.paesa.es
 dns.paulo.nom.za
-dns.petqa.ru
 dns.practicallyunhackable.com
 dns.pub
 dns.pumplex.com

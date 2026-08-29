@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2026-08-22 00:51:33
+! Last modified: 2026-08-29 05:09:08
 #
 # Full URLs of DoH services:
 #
@@ -66,7 +66,6 @@ https://dns.cert.ee/dns-query
 https://dns.chenu.ch/dns-query
 https://dns.christerwaren.fi
 https://dns.chunghwamc.com/dns-query
-https://dns.cloudflare.com/dns-query
 https://dns.cloudflare.com:53/dns-query
 https://dns.comss.one/dns-query
 https://dns.cynthialabs.net/dns-query
@@ -122,7 +121,6 @@ https://dns.omada.cafe/dns-query
 https://dns.oszx.co/dns-query
 https://dns.paesa.es/dns-query
 https://dns.paulo.nom.za/dns-query
-https://dns.petqa.ru/dns-query
 https://dns.practicallyunhackable.com/dns-query
 https://dns.pub/dns-query
 https://dns.pumplex.com/dns-query
