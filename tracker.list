@@ -1,23 +1,17 @@
 ! Title: Tracker Domain List
 ! Description: List of domains from tracker URLs.
 ! Source: https://github.com/ngosang/trackerslist
-! Last modified: 2026-08-29 05:09:09
+! Last modified: 2026-09-05 02:26:28
 #
 # Domains of tracker services:
 #
 004430.xyz
-0123456789nonexistent.com
 1337.abcvg.info
-aboutbeautifulgallopinghorsesinthegreenpasture.online
 admin.52ywp.com
 bittorrent-tracker.e-n-c-r-y-p-t.net
-bt.poletracker.org
 evan.im
-exodus.desync.com
 explodie.org
-ht.therarbg.to
 ipv4announce.sktorrent.eu
-jvavav.com
 leet-tracker.moe
 mail.segso.net
 martin-gebhardt.eu
@@ -26,29 +20,23 @@ open.demonii.com
 open.demonoid.ch
 open.ftorrent.com
 open.stealth.si
-open.trackerlist.xyz
 pybittrack.retiolus.net
 rekcart.duckdns.org
-retracker.spark-rostov.ru
 retracker01-msk-virt.corbina.net
-seeders-paradise.org
 seedpeer.net
 t.213891.xyz
 t.overflow.biz
-torrent.hificode.in
 torrentclub.online
 tr.nyacat.pw
-tr.zukizuki.org
 tr4ck3r.duckdns.org
 tracker-udp.gbitt.info
+tracker.004430.xyz
 tracker.0x7c0.com
 tracker.7471.top
 tracker.aruku.ovh
 tracker.auctor.tv
 tracker.bittor.pw
-tracker.bt-hash.com
 tracker.bt4g.com
-tracker.bz
 tracker.corpscorp.online
 tracker.ddunlimited.net
 tracker.dhitechnical.com
@@ -56,14 +44,10 @@ tracker.dler.com
 tracker.dler.org
 tracker.ducks.party
 tracker.farted.net
-tracker.filemail.com
-tracker.gcrenwp.top
+tracker.fnix.net
 tracker.gmi.gd
 tracker.ilibr.org
-tracker.ipv6tracker.org
 tracker.leechshield.link
-tracker.lintk.me
-tracker.moxing.party
 tracker.mywaifu.best
 tracker.nekomi.cn
 tracker.nexusstream.eu
@@ -71,20 +55,19 @@ tracker.opentrackr.com
 tracker.opentrackr.org
 tracker.peerfect.org
 tracker.playground.ru
+tracker.plx.im
 tracker.pmman.tech
 tracker.privateseedbox.xyz
 tracker.publictracker.xyz
 tracker.qu.ax
 tracker.renfei.net
-tracker.sbsub.com
 tracker.teambelgium.net
 tracker.therarbg.to
 tracker.torrent.eu.org
+tracker.tryhackx.org
 tracker.waaa.moe
-tracker.wildkat.net
 tracker.zhuqiy.com
 tracker.zhuqiy.dgj055.icu
 tracker2.dler.org
-tracker810.xyz
 yuptracker-eu.gaijinent.com
 zer0day.ch
