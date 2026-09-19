@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2026-09-12 02:37:18
+! Last modified: 2026-09-19 02:39:14
 #
 # Domains of DoH services:
 #
@@ -140,6 +140,7 @@ dns.tls-data.de
 dns.unx.io
 dns.vaioswolke.xyz
 dns.w3ctag.org
+dns.yunzheng.space
 dns1.in-berlin.de
 dns1.techniverse.net
 dns10.quad9.net
@@ -203,6 +204,7 @@ family.dns.mullvad.net
 family.dot.dns.yandex.net
 family.mydns.network
 fidelius.top
+filter.dns.yunzheng.space
 frd4wvnobp.cloudflare-gateway.com
 freedns.controld.com
 freedom.mydns.network
