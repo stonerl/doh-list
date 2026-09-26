@@ -3,14 +3,13 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2026-09-19 02:39:14
+! Last modified: 2026-09-26 02:59:36
 #
 # Domains of DoH services:
 #
 8888.google
 abel.waringer-atg.de
 ada.openbld.net
-adblock.dns.mullvad.net
 adblock.krctech.dev
 adblock.mydns.network
 addns1.m-it.ro
@@ -24,13 +23,11 @@ ae-fuj-w-p-2.nashkan.net
 ae-fuj-w-p-3.nashkan.net
 ag.apollohct.com
 agh.dshubham.xyz
-all.dns.mullvad.net
 antivirus.bebasid.com
 anycast.dns.nextdns.io
 anycast.uncensoreddns.org
 au-syd-w-f-1.nashkan.net
 au01.dns4me.net
-base.dns.mullvad.net
 basic.rethinkdns.com
 bazooki-infra.dev
 ca01.dns4me.net
@@ -103,7 +100,6 @@ dns.marbledfennec.net
 dns.mateo.ovh
 dns.mayx.eu.org
 dns.mh4ckt3mh4ckt1c4s.xyz
-dns.mullvad.net
 dns.mzjtechnology.com
 dns.neeb.it
 dns.nextdns.io
@@ -196,11 +192,9 @@ doh.viatech.com.tw
 doth.huque.com
 dukun.de
 es-ma.foxyfy.net
-extended.dns.mullvad.net
 family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
-family.dns.mullvad.net
 family.dot.dns.yandex.net
 family.mydns.network
 fidelius.top

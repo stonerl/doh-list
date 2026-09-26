@@ -1,16 +1,17 @@
 ! Title: Tracker Domain List
 ! Description: List of domains from tracker URLs.
 ! Source: https://github.com/ngosang/trackerslist
-! Last modified: 2026-09-19 02:39:14
+! Last modified: 2026-09-26 02:59:37
 #
 # Domains of tracker services:
 #
+004430.xyz
 1337.abcvg.info
 admin.52ywp.com
 anime-tracker.aruku.kro.kr
-archive.torrentonline.cc
 bittorrent-tracker.e-n-c-r-y-p-t.net
 evan.im
+exodus.desync.com
 explodie.org
 ipv4announce.sktorrent.eu
 mail.segso.net
@@ -30,11 +31,11 @@ tr.nyacat.pw
 tr3.ysagin.top
 tr4ck3r.duckdns.org
 tracker-udp.gbitt.info
-tracker.0x7c0.com
+tracker.004430.xyz
+tracker.23794.top
 tracker.7471.top
 tracker.aruku.ovh
 tracker.bittor.pw
-tracker.bt4g.com
 tracker.cn.nyaa.net
 tracker.corpscorp.online
 tracker.ddunlimited.net
@@ -43,29 +44,28 @@ tracker.dler.com
 tracker.dler.org
 tracker.ducks.party
 tracker.farted.net
+tracker.filemail.com
 tracker.foreverpirates.co
-tracker.gmi.gd
-tracker.govt.hu
 tracker.ilibr.org
 tracker.k.vu
 tracker.mywaifu.best
 tracker.nekomi.cn
 tracker.nyaa.net
 tracker.nyaa.vc
-tracker.onetracker.net
+tracker.opentorrent.top
 tracker.opentrackr.com
 tracker.opentrackr.org
 tracker.peerfect.org
 tracker.playground.ru
-tracker.plx.im
 tracker.pmman.tech
 tracker.qu.ax
 tracker.renfei.net
+tracker.skynetcloud.site
 tracker.teambelgium.net
-tracker.torrent.eu.org
 tracker.torrents.observer
 tracker.waaa.moe
 tracker.wildkat.net
+tracker.zhuqiy.com
 tracker.zhuqiy.dgj055.icu
 tracker2.dler.org
 yuptracker-eu.gaijinent.com
