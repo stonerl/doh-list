@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2026-09-26 02:59:36
+! Last modified: 2026-10-03 03:18:21
 #
 # Domains of DoH services:
 #
@@ -84,6 +84,7 @@ dns.google
 dns.guard.io
 dns.haka.se
 dns.hostux.net
+dns.hqdns.sarl
 dns.inforlogia.com
 dns.jupitrdns.com
 dns.kapite.in

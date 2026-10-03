@@ -1,7 +1,7 @@
 ! Title: Tracker Domain List
 ! Description: List of domains from tracker URLs.
 ! Source: https://github.com/ngosang/trackerslist
-! Last modified: 2026-09-26 02:59:37
+! Last modified: 2026-10-03 03:18:22
 #
 # Domains of tracker services:
 #
@@ -9,26 +9,27 @@
 1337.abcvg.info
 admin.52ywp.com
 anime-tracker.aruku.kro.kr
+archive.torrentonline.cc
 bittorrent-tracker.e-n-c-r-y-p-t.net
+edgev.duckdns.org
 evan.im
 exodus.desync.com
 explodie.org
 ipv4announce.sktorrent.eu
+kolankoalastree.newtrackon.co.nz
 mail.segso.net
 martin-gebhardt.eu
 ns575949.ip-51-222-82.net
 open.demonii.com
 open.ftorrent.com
 open.stealth.si
+open.tracker.cl
 pybittrack.retiolus.net
-rekcart.duckdns.org
 retracker01-msk-virt.corbina.net
-seedpeer.net
 t.213891.xyz
 t.overflow.biz
-torrent.tracker.durukanbal.com
+tr.btube3.com
 tr.nyacat.pw
-tr3.ysagin.top
 tr4ck3r.duckdns.org
 tracker-udp.gbitt.info
 tracker.004430.xyz
@@ -43,11 +44,10 @@ tracker.dhitechnical.com
 tracker.dler.com
 tracker.dler.org
 tracker.ducks.party
-tracker.farted.net
-tracker.filemail.com
+tracker.fnix.net
 tracker.foreverpirates.co
+tracker.gmi.gd
 tracker.ilibr.org
-tracker.k.vu
 tracker.mywaifu.best
 tracker.nekomi.cn
 tracker.nyaa.net
@@ -61,8 +61,10 @@ tracker.pmman.tech
 tracker.qu.ax
 tracker.renfei.net
 tracker.skynetcloud.site
-tracker.teambelgium.net
+tracker.theoks.net
+tracker.torrent.eu.org
 tracker.torrents.observer
+tracker.tryhackx.org
 tracker.waaa.moe
 tracker.wildkat.net
 tracker.zhuqiy.com
