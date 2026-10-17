@@ -1,7 +1,7 @@
 ! Title: Tracker Domain List
 ! Description: List of domains from tracker URLs.
 ! Source: https://github.com/ngosang/trackerslist
-! Last modified: 2026-10-10 03:49:17
+! Last modified: 2026-10-17 02:32:07
 #
 # Domains of tracker services:
 #
@@ -13,6 +13,7 @@ edgev.duckdns.org
 evan.im
 exodus.desync.com
 explodie.org
+ht.therarbg.to
 ipv4announce.sktorrent.eu
 kolankoalastree.newtrackon.co.nz
 mail.segso.net
@@ -22,11 +23,11 @@ open.demonii.com
 open.ftorrent.com
 open.stealth.si
 open.tracker.cl
-pybittrack.retiolus.net
 retracker01-msk-virt.corbina.net
 seedpeer.net
 t.213891.xyz
 t.overflow.biz
+tr.btube3.com
 tr.nyacat.pw
 tr3.ysagin.top
 tr4ck3r.duckdns.org
@@ -35,7 +36,6 @@ tracker.004430.xyz
 tracker.7471.top
 tracker.aruku.ovh
 tracker.bittor.pw
-tracker.bug38.com
 tracker.cn.nyaa.net
 tracker.corpscorp.online
 tracker.ddunlimited.net
@@ -45,14 +45,12 @@ tracker.dler.org
 tracker.ducks.party
 tracker.farted.net
 tracker.filemail.com
-tracker.fnix.net
 tracker.foreverpirates.co
 tracker.gmi.gd
 tracker.ilibr.org
 tracker.k.vu
 tracker.mywaifu.best
 tracker.nekomi.cn
-tracker.nyaa.net
 tracker.nyaa.vc
 tracker.opentrackr.com
 tracker.opentrackr.org
@@ -67,6 +65,8 @@ tracker.torrents.observer
 tracker.tryhackx.org
 tracker.waaa.moe
 tracker.wildkat.net
+tracker.zhuqiy.com
 tracker.zhuqiy.dgj055.icu
 tracker2.dler.org
+whybother.torrentonline.cc
 yuptracker-eu.gaijinent.com
