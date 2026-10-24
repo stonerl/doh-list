@@ -1,13 +1,14 @@
 ! Title: Tracker Domain List
 ! Description: List of domains from tracker URLs.
 ! Source: https://github.com/ngosang/trackerslist
-! Last modified: 2026-10-17 02:32:07
+! Last modified: 2026-10-24 02:51:26
 #
 # Domains of tracker services:
 #
 004430.xyz
 1337.abcvg.info
 admin.52ywp.com
+archive.torrentonline.cc
 bittorrent-tracker.e-n-c-r-y-p-t.net
 edgev.duckdns.org
 evan.im
@@ -28,6 +29,7 @@ seedpeer.net
 t.213891.xyz
 t.overflow.biz
 tr.btube3.com
+tr.highstar.shop
 tr.nyacat.pw
 tr3.ysagin.top
 tr4ck3r.duckdns.org
@@ -43,14 +45,12 @@ tracker.dhitechnical.com
 tracker.dler.com
 tracker.dler.org
 tracker.ducks.party
-tracker.farted.net
-tracker.filemail.com
 tracker.foreverpirates.co
 tracker.gmi.gd
 tracker.ilibr.org
-tracker.k.vu
 tracker.mywaifu.best
 tracker.nekomi.cn
+tracker.nyaa.net
 tracker.nyaa.vc
 tracker.opentrackr.com
 tracker.opentrackr.org

@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2026-10-17 02:32:06
+! Last modified: 2026-10-24 02:51:25
 #
 # Domains of DoH services:
 #
@@ -197,6 +197,7 @@ es-ma.foxyfy.net
 family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
+family.dns.dremaxx.com
 family.dot.dns.yandex.net
 family.mydns.network
 fidelius.top
@@ -231,6 +232,7 @@ ns2.4netguides.org
 nsec.arnor.org
 nz01.dns4me.net
 odvr.nic.cz
+open.dns.dremaxx.com
 openbld.net
 ordns.he.net
 paranoia.mydns.network
