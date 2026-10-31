@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2026-10-24 02:51:25
+! Last modified: 2026-10-31 03:39:23
 #
 # Domains of DoH services:
 #
@@ -75,7 +75,6 @@ dns.elemental.software
 dns.envs.net
 dns.faked.org
 dns.farshidhakimy.de
-dns.flatuslifir.is
 dns.floriantinney.de
 dns.furrix.zone
 dns.gamban.com
@@ -84,7 +83,6 @@ dns.google
 dns.guard.io
 dns.haka.se
 dns.hostux.net
-dns.hqdns.sarl
 dns.inforlogia.com
 dns.jupitrdns.com
 dns.kapite.in
@@ -144,7 +142,6 @@ dns10.quad9.net
 dns11.quad9.net
 dns12.quad9.net
 dns2.in-berlin.de
-dns4eu.online
 dns64.cloudflare-dns.com
 dns64.dns.google
 dns9.quad9.net
@@ -154,8 +151,6 @@ dnslow.me
 dnspub.restena.lu
 dnsvps.familiamv.net
 dog.dns.qwer.pw
-doh-01.spectrum.com
-doh-02.spectrum.com
 doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr
 doh-pure.onedns.net
 doh.18bit.cn
@@ -177,9 +172,7 @@ doh.la.ahadns.net
 doh.lacontrevoie.fr
 doh.li
 doh.libredns.gr
-doh.lv
 doh.mmmalia.com
-doh.nic.lv
 doh.niyawe.de
 doh.nl.ahadns.net
 doh.onedns.net
@@ -193,27 +186,22 @@ doh.umbrella.com
 doh.viatech.com.tw
 doth.huque.com
 dukun.de
-es-ma.foxyfy.net
 family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
 family.dns.dremaxx.com
 family.dot.dns.yandex.net
 family.mydns.network
-fidelius.top
 filter.dns.yunzheng.space
 frd4wvnobp.cloudflare-gateway.com
 freedns.controld.com
 freedom.mydns.network
 gb-lon-w-p-2.nashkan.net
-gibblets.top
-glacius.top
 helios.plan9-dns.com
 hnsdoh.com
 ibksturm.synology.me
 ibuki.cgnat.net
 ie01.dns4me.net
-imperio.top
 internetsehat.bebasid.com
 japan.dnsovertor.cc
 jp.tiar.app
@@ -225,7 +213,6 @@ loadlow.me
 masters-of-cloud.de
 mozilla.cloudflare-dns.com
 noads.joindns4.eu
-ns.data.haus
 ns0.fdn.fr
 ns1.fdn.fr
 ns2.4netguides.org
@@ -237,7 +224,6 @@ openbld.net
 ordns.he.net
 paranoia.mydns.network
 per.adfilter.net
-pooblet.co.za
 privacy.plumedns.com
 private.canadianshield.cira.ca
 protected.canadianshield.cira.ca
@@ -247,7 +233,6 @@ public.ns.nwps.fi
 regiopolis.cloud
 resolver.dnsprivacy.org.uk
 resolver.sunet.se
-revelio.top
 rfree1.blue-shield.at
 rfree2.blue-shield.at
 ric.openbld.net
