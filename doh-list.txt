@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2026-10-31 03:39:23
+! Last modified: 2026-11-07 04:05:16
 #
 # Full URLs of DoH services:
 #
@@ -31,6 +31,7 @@ https://au-syd-w-f-1.nashkan.net/dns-query
 https://au01.dns4me.net
 https://basic.rethinkdns.com/
 https://bazooki-infra.dev/dns-query
+https://beatquantum.com/dns-query
 https://ca01.dns4me.net
 https://ca02.dns4me.net
 https://child-noads.joindns4.eu/dns-query
@@ -83,7 +84,6 @@ https://dns.farshidhakimy.de/dns-query
 https://dns.floriantinney.de/dns-query
 https://dns.furrix.zone/dns-query
 https://dns.gamban.com/dns-query
-https://dns.glf.wtf/dns-query
 https://dns.google/dns-query
 https://dns.guard.io/dns-query
 https://dns.haka.se/dns-query
@@ -129,6 +129,7 @@ https://dns.seia.io/dns-query
 https://dns.silen.org/dns-query
 https://dns.simplylinux.ch/dns-query
 https://dns.skrep.eu/dns-query
+https://dns.sktr.com.tr/dns-query
 https://dns.slinkyman.net/dns-query
 https://dns.smartguard.io/dns-query
 https://dns.startupstack.tech/dns-query
@@ -194,7 +195,6 @@ https://doh.sz-dns.com/dns-query
 https://doh.tiar.app/dns-query
 https://doh.tiarap.org/dns-query
 https://doh.umbrella.com/dns-query
-https://doh.viatech.com.tw/dns-query
 https://doth.huque.com/dns-query
 https://dukun.de/dns-query
 https://family.adguard-dns.com/dns-query

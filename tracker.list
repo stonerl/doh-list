@@ -1,7 +1,7 @@
 ! Title: Tracker Domain List
 ! Description: List of domains from tracker URLs.
 ! Source: https://github.com/ngosang/trackerslist
-! Last modified: 2026-10-31 03:39:24
+! Last modified: 2026-11-07 04:05:17
 #
 # Domains of tracker services:
 #
@@ -11,7 +11,6 @@ admin.52ywp.com
 anime-tracker.aruku.kro.kr
 archive.torrentonline.cc
 bittorrent-tracker.e-n-c-r-y-p-t.net
-edgev.duckdns.org
 evan.im
 exodus.desync.com
 explodie.org
@@ -29,7 +28,6 @@ retracker01-msk-virt.corbina.net
 seedpeer.net
 t.213891.xyz
 t.overflow.biz
-tr.btube3.com
 tr.highstar.shop
 tr.nyacat.pw
 tr4ck3r.duckdns.org
@@ -37,9 +35,10 @@ tracker-udp.gbitt.info
 tracker.004430.xyz
 tracker.7471.top
 tracker.aruku.ovh
+tracker.bittor.pw
+tracker.bt4g.com
 tracker.cn.nyaa.net
 tracker.corpscorp.online
-tracker.ddunlimited.net
 tracker.dhitechnical.com
 tracker.dler.com
 tracker.dler.org
@@ -47,6 +46,7 @@ tracker.ducks.party
 tracker.evergarden.uk
 tracker.farted.net
 tracker.filemail.com
+tracker.flatuslifir.is
 tracker.fnix.net
 tracker.foreverpirates.co
 tracker.gmi.gd
@@ -63,12 +63,13 @@ tracker.playground.ru
 tracker.pmman.tech
 tracker.qu.ax
 tracker.renfei.net
-tracker.skynetcloud.site
+tracker.skyts.net
+tracker.theoks.net
 tracker.torrent.eu.org
 tracker.torrents.observer
+tracker.tryhackx.org
 tracker.waaa.moe
 tracker.wildkat.net
-tracker.zhuqiy.com
 tracker.zhuqiy.dgj055.icu
 tracker2.dler.org
 whybother.torrentonline.cc
