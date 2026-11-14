@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2026-11-07 04:05:16
+! Last modified: 2026-11-14 04:29:50
 #
 # Domains of DoH services:
 #
@@ -38,6 +38,7 @@ child.joindns4.eu
 chuncheon.dnsovertor.cc
 cloudflare-dns.com
 common.dot.dns.yandex.net
+ctif.hagezi.org
 de01.dns4me.net
 dns-doh.dnsforfamily.com
 dns.a47.me
@@ -72,6 +73,7 @@ dns.digitalsize.net
 dns.dnsguard.pub
 dns.dnshome.de
 dns.easyhns.com
+dns.ekinao.com
 dns.elemental.software
 dns.envs.net
 dns.faked.org
@@ -129,7 +131,6 @@ dns.startupstack.tech
 dns.stirringphoto.com
 dns.surfsharkdns.com
 dns.switch.ch
-dns.t53.de
 dns.telekom.de
 dns.tipsy.coffee
 dns.tls-data.de
@@ -209,6 +210,7 @@ jp.tiarap.org
 juuri.hagezi.org
 kids.ns.nwps.fi
 kronos.plan9-dns.com
+ledns.eu
 loadlow.me
 masters-of-cloud.de
 mozilla.cloudflare-dns.com
@@ -254,7 +256,6 @@ tiger.dns.qwer.pw
 uk01.dns4me.net
 unfiltered.adguard-dns.com
 unfiltered.joindns4.eu
-us-chi-w-f-1.nashkan.net
 us-chi-w-p-1.nashkan.net
 us-jac-w-f-1.nashkan.net
 us-jac-w-p-1.nashkan.net

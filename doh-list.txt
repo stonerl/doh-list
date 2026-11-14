@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/stonerl/doh-list
 ! License: https://github.com/stonerl/doh-list/blob/master/LICENSE
 ! Forked from: https://github.com/MohamedElashri/doh-list
-! Last modified: 2026-11-07 04:05:16
+! Last modified: 2026-11-14 04:29:50
 #
 # Full URLs of DoH services:
 #
@@ -39,6 +39,7 @@ https://child.joindns4.eu/dns-query
 https://chuncheon.dnsovertor.cc/dns-query
 https://cloudflare-dns.com/dns-query
 https://common.dot.dns.yandex.net/dns-query
+https://ctif.hagezi.org/dns-query
 https://de01.dns4me.net
 https://dns-doh.dnsforfamily.com/dns-query
 https://dns.a47.me/dns-query
@@ -77,6 +78,7 @@ https://dns.digitalsize.net/dns-query
 https://dns.dnsguard.pub/dns-query
 https://dns.dnshome.de/dns-query
 https://dns.easyhns.com/dns-query
+https://dns.ekinao.com/dns-query
 https://dns.elemental.software/dns-query
 https://dns.envs.net/dns-query
 https://dns.faked.org/dns-query
@@ -136,7 +138,6 @@ https://dns.startupstack.tech/dns-query
 https://dns.stirringphoto.com/dns-query
 https://dns.surfsharkdns.com/dns-query
 https://dns.switch.ch/dns-query
-https://dns.t53.de/dns-query
 https://dns.telekom.de/dns-query
 https://dns.tipsy.coffee/dns-query
 https://dns.tls-data.de/dns-query
@@ -241,6 +242,7 @@ https://jp.tiarap.org/dns-query
 https://juuri.hagezi.org/dns-query
 https://kids.ns.nwps.fi/dns-query
 https://kronos.plan9-dns.com/dns-query
+https://ledns.eu/dns-query
 https://loadlow.me/dns-query
 https://masters-of-cloud.de/dns-query
 https://mozilla.cloudflare-dns.com/dns-query
@@ -288,7 +290,6 @@ https://tiger.dns.qwer.pw/dns-query
 https://uk01.dns4me.net
 https://unfiltered.adguard-dns.com/dns-query
 https://unfiltered.joindns4.eu/dns-query
-https://us-chi-w-f-1.nashkan.net/dns-query
 https://us-chi-w-p-1.nashkan.net/dns-query
 https://us-jac-w-f-1.nashkan.net/dns-query
 https://us-jac-w-p-1.nashkan.net/dns-query
