@@ -1,18 +1,18 @@
 ! Title: Tracker Domain List
 ! Description: List of domains from tracker URLs.
 ! Source: https://github.com/ngosang/trackerslist
-! Last modified: 2026-11-14 04:29:51
+! Last modified: 2026-11-21 05:08:36
 #
 # Domains of tracker services:
 #
 004430.xyz
 1337.abcvg.info
 admin.52ywp.com
+archive.torrentonline.cc
 bittorrent-tracker.e-n-c-r-y-p-t.net
 evan.im
 exodus.desync.com
 explodie.org
-ht.therarbg.to
 ipv4announce.sktorrent.eu
 kolankoalastree.newtrackon.co.nz
 mail.segso.net
@@ -22,19 +22,20 @@ open.demonii.com
 open.ftorrent.com
 open.stealth.si
 open.tracker.cl
+opentracker.lain.moscow
 retracker01-msk-virt.corbina.net
 seedpeer.net
 t.213891.xyz
 t.overflow.biz
+t1.itrus.su
+t2.itrus.su
 tr.highstar.shop
 tr.nyacat.pw
-tr3.ysagin.top
 tr4ck3r.duckdns.org
 tracker-udp.gbitt.info
 tracker.004430.xyz
 tracker.23794.top
 tracker.7471.top
-tracker.aruku.ovh
 tracker.bittor.pw
 tracker.bluefrog.pw
 tracker.cn.nyaa.net
@@ -46,7 +47,6 @@ tracker.ducks.party
 tracker.evergarden.uk
 tracker.farted.net
 tracker.filemail.com
-tracker.flatuslifir.is
 tracker.foreverpirates.co
 tracker.gmi.gd
 tracker.ilibr.org
@@ -55,16 +55,17 @@ tracker.mywaifu.best
 tracker.nekomi.cn
 tracker.nyaa.net
 tracker.nyaa.vc
+tracker.okade.pro
 tracker.opentrackr.com
 tracker.opentrackr.org
 tracker.peerfect.org
 tracker.playground.ru
-tracker.pmman.tech
 tracker.qu.ax
 tracker.renfei.net
+tracker.skynetcloud.site
+tracker.theoks.net
 tracker.torrent.eu.org
 tracker.torrents.observer
-tracker.tryhackx.org
 tracker.waaa.moe
 tracker.wildkat.net
 tracker.zhuqiy.com
